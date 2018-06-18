@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Based in Edinburgh, Scotland, I am a Management Consultant helping clients design their customer experiences. This is a collection of my thoughts, work and other musings.
 
-### More Information
+I studied Actuarial Science at Heriot-Watt University, Edinburgh and have since gained my CIMA qualification.
 
-A place to include any other types of information that you'd like to include about yourself.
+I am fascinated by technology’s ability to transform customer experience and unlock new business models. I typically work as Strategy Lead or User Research Lead. I have worked across Banking, Insurance, Government, Social Housing, Transport and Higher Education.
 
-### Contact me
+I enjoy technology, coffee, and reading.
 
-[email@domain.com](mailto:email@domain.com)
+I live with my fiancée, Michelle, and our two chihuahua's, Belle and Meeko.
+
+My favourite blogs are:
+
+* Ben Thompson at stratechery.com
+* Benedict Evans at ben-evans.com
+*John Gruber at daringfireball.net
+* Eugene Wei at eugenewei.com
