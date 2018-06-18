@@ -18,5 +18,5 @@ My favourite blogs are:
 
 * Ben Thompson at stratechery.com
 * Benedict Evans at ben-evans.com
-*John Gruber at daringfireball.net
+* John Gruber at daringfireball.net
 * Eugene Wei at eugenewei.com
