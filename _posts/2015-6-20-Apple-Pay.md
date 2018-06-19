@@ -33,6 +33,11 @@ Google’s Android Pay is set to launch in the US this year and as-of-yet has no
 
 ![Hotel Apple Pay](/images/hotel-watch.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;" width: 200px}
 
+<img src="/images/hotel-watch.jpg" width="200">
+
+<span style="width:50%">![Hotel Apple Pay](/images/hotel-watch.jpg)</div>
+
+
 The Apple Watch makes the real-world interaction of software so much more frictionless; even eight years after the iPhone launched it is still unclear how much of our daily life is set for change.
 
 ## What is the effect on Financial Services now?
