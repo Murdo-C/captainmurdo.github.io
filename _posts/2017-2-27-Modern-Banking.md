@@ -9,7 +9,7 @@ For the purposes of discussion below, ‘banking’ refers to retail banking onl
 
 ![Landscape](https://cdn-images-1.medium.com/max/1600/1*UqPz2GeUmi-RESE-v2FtyQ.png)
 
-##The Shift
+## The Shift
 
 With the introduction of the iPhone in 2007 the dynamic between customers, carriers and manufacturers shifted drastically. Prior to this carriers dominated the value chain, often demanding exclusivity or branding on phones and their own software pre-installed, but ultimately they offered an undifferentiated service. They tied customers into long-term contracts with ‘good enough’ devices and customers continued to renew every two years (or sometimes longer) because their carrier was ‘just fine’.
 
@@ -21,7 +21,7 @@ The reason to highlight all of this is because I believe the same shift is happe
 
 The difference this time is that banks have more to worry about than just Apple. Their products are being attacked from all sides and the underlying purpose and structure of banking is being questioned. It won’t be long until the ‘AT&T of banking’ submits to the pressures and the full scale change of the industry can begin.
 
-##The Infrastructure
+## The Infrastructure
 
 The fundamental purpose of a bank is to provide a safe store of wealth for savers and a predictable source of loans for borrowers. But what happens when wealth is simply another bit stored on a server. You could argue it already is but by accelerating this transfer from physical to digital, money can become truly liquid.
 
@@ -44,7 +44,7 @@ And the answer to who is the AWS for banking may in fact be the most obvious nam
 
 The regulatory gap between the banking start-ups and AWS remains uncertain, and perhaps represents an opportunity, but the shift is coming. First slowly and then very suddenly. Innovative companies like [solarisBank](https://www.solarisbank.de/) and [Bankable](http://www.bnkbl.com/) may just accelerate it further.
 
-##The Unbundling
+## The Unbundling
 
 It’s becoming apparent that the concept of banking is changing. Part of that is driven by technology and part by the change in mind-set of younger generations.
 
@@ -81,10 +81,10 @@ Banks can’t compete with 50 user experience specialists in a start-up, but sta
 
 For customers the underlying technology doesn’t matter, the product does. How we interact with banks on a daily basis and the ramifications of such a shift are up for debate but I believe opportunities exist at all sections of the value chain, for incumbents and start-ups alike. Some of the incumbents may just find the pill difficult to swallow.
 
-##The Fight
+## The Fight
 
 With consumer distaste towards banks, the impact of regulation like PSD2 and the hunger of start-ups looking to establish themselves within the banking industry we may soon see a re-balancing of the banking value chain. As with the smartphone market, consumers will drive this change and I believe the banks will struggle to match the superior user experience offered by a modern ‘bank’. Unencumbered by legacy IT and built from the ground up by engineers with [vastly different assumptions](https://d0.awsstatic.com/analyst-reports/EMEA41642116%20Web.pdf), start-ups will almost certainly offer something that is designed for modern consumers, and will ultimately live or die based on this.
 
 What hasn’t been discussed here, and may in fact have a greater long-term impact, is the potential for the current crop of dominant technology companies to provide bank-like services directly to their customers. Facebook is [laying the groundwork](https://techcrunch.com/2017/01/12/what-facebooks-european-payment-license-could-mean-for-banks/) for payments functionality, at the very least; Apple is abstracting away banks with Apple Pay and unlocking entirely [new ways](https://boonpayment.com/uk/) of storing value; and, Amazon has previously [experimented](http://www.wsj.com/articles/SB10000872396390444223104578036531083474270) with lending. But for me, the real opportunity present here is for start-ups to take on banks - David vs. Goliath.
 
-####Banks are being attacked by start-ups and incumbents alike. The question is are they really too big to fail?
+#### Banks are being attacked by start-ups and incumbents alike. The question is are they really too big to fail?
