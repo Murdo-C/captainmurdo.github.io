@@ -6,6 +6,8 @@ permalink: /work/
 
 A selection of my client work.
 
+I'm usually some combination of user researcher, product owner, business analyst and strategy lead.
+
 ## User Research & Service Design
 User Research Lead for the Discovery phase of a digital service design project. Responsible for ethics approval, user research interviews and sense-making analysis to inform design of the service blueprint and prototype digital platform. Transitioned to Strategy Lead for a team of four business analysts leading them through agile delivery of the work, including mock-ups and prototyping. Re-aligned the service’s strategic objectives in support of the user needs.
 
