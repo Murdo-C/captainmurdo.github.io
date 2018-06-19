@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Digital, Names & Millennials
+title: On Digital, Products & Millennials
 ---
 
 The problem with terms like 'digital natives' and how it's used as an excuse for poor products.
