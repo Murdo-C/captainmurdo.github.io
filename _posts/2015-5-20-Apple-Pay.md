@@ -3,7 +3,7 @@ layout: post
 title: The Impact of Apple Pay
 ---
 
-### Apple Pay has arrived, could this mark the beginning of the mobile payments explosion?
+Apple Pay has arrived, could this mark the beginning of the mobile payments explosion?
 
 ## Apple Pay, what is it?
 
