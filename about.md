@@ -16,7 +16,7 @@ I live with my fiancée, Michelle, and our two chihuahua's, Belle and Meeko.
 
 My favourite blogs are:
 
-* Ben Thompson at stratechery.com
-* Benedict Evans at ben-evans.com
-* John Gruber at daringfireball.net
-* Eugene Wei at eugenewei.com
+* Ben Thompson at [stratechery.com](https://stratechery.com)
+* Benedict Evans at [ben-evans.com](https://www.ben-evans.com)
+* John Gruber at [daringfireball.net](https://daringfireball.net)
+* Eugene Wei at [eugenewei.com](http://www.eugenewei.com)
