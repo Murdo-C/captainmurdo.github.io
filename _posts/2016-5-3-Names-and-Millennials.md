@@ -3,6 +3,10 @@ layout: post
 title: On Digital, Names & Millennials
 ---
 
+The problem with terms like 'digital natives' and how it's used as an excuse for poor products.
+
+---
+
 I’ve been called a lot of things in my 20 odd years on this earth: Arrogant, sarcastic and geeky to name a few.
 
 But the one that hurts the most has to be ‘Digital Native’.
