@@ -9,7 +9,7 @@ name: Murdo Connochie
 description: Digital consultant in Scotland
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://static1.squarespace.com/static/5a4d47a44c326ddcd8e4c40b/t/5ab6994af950b7f8f14411cb/1521916253900/Image+2.jpg
+avatar: images/me.jpg
 #
 # Flags below are optional
 #
@@ -20,7 +20,7 @@ footer-links:
   email: murdo.connochie@gmail.com
   facebook:
   flickr:
-  github: 
+  github:
   instagram: murdo
   linkedin: murdoconnochie
   pinterest:
