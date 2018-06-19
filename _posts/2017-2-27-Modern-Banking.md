@@ -7,7 +7,7 @@ I believe enough pieces of the puzzle are coming together to allow truly modern 
 
 *For the purposes of discussion below, ‘banking’ refers to retail banking only. Commercial and Investment banks have their own sets of problems.*
 
-![Landscape](https://cdn-images-1.medium.com/max/1600/1*UqPz2GeUmi-RESE-v2FtyQ.png)
+![Landscape](/images/banking-header.png)
 
 ## The Shift
 
@@ -33,7 +33,7 @@ Since their inception, banks have had a direct relationship with their customers
 
 Then came smartphones and they had an [adoption rate](http://ben-evans.com/benedictevans/2016/12/8/mobile-is-eating-the-world) unlike anything before. Customers began to shop, communicate and entertain themselves through their devices; technology companies and their products captured a huge amount of attention and became the primary interface between consumers and services. Meanwhile, banking services were laggards, providing limited functionality to smartphone users with many only offering the ability to view account balances. This left the device manufacturers as gatekeepers of customer attention and, as expected, they are now beginning to develop the smartphone into a personal hub to manage and control all of life’s complexity, and banking is a key part of this.
 
-![Graph](https://cdn-images-1.medium.com/max/1600/1*bmupaAdHl-PtZF3hWUUi_w.png)
+![Graph](/images/a16z-chart.png)
 Source: [Benedict Evans](http://ben-evans.com/benedictevans/2016/12/8/mobile-is-eating-the-world) of a16z
 
 While it may be a dramatic shift for banks to relinquish the relationship with the customer, attitudes of millennials suggest that this may not be far off. [71% of millennials](http://www.millennialdisruptionindex.com/) have gone as far to say they would rather visit the dentist than interact with their bank and this is a trend I believe will permeate further.
@@ -66,10 +66,10 @@ Similarly, Apple Pay’s introduction in the UK only had a subset of the largest
 
 Banks display a complete lack of empathy for customers and an understanding of their motivations; meanwhile start-ups are filling the gaps and slowly [unbundling](https://www.cbinsights.com/blog/disrupting-banking-fintech-startups/) banks.
 
-Which UK banks cross-check card transactions with phone location? None that I can find. 
+Which UK banks cross-check card transactions with phone location? None that I can find.
 A start-up perhaps? Monzo, with only 60 staff, offers this.
 
-Which UK banks are experimenting with bots (both on Facebook or Alexa)? Again, I struggle to find any activity here. 
+Which UK banks are experimenting with bots (both on Facebook or Alexa)? Again, I struggle to find any activity here.
 Start-ups? [Cleo](https://meetcleo.com/), [Plum](https://withplum.com/) and others.
 
 Transparent and/or fee free foreign transactions? Typically only if you have a Premium account.
