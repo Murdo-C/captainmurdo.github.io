@@ -31,12 +31,7 @@ In-store reward cards are also expected to be introduced to the UK after they la
 
 Google’s Android Pay is set to launch in the US this year and as-of-yet has no UK release date. The significance of the two largest phone operating systems now looking to take on the role of our wallets should not be overlooked. As these smartphones and wearables become further integrated into everything we do, it is difficult to see where their reach ends. Already they are being used in hotels as your room key, in your home to control your heating and now they are in control of your payments. Perhaps this will extend to passports, driving licences and corporate IDs.
 
-![Hotel Apple Pay](/images/hotel-watch.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;" width: 200px}
-
 <img src="/images/hotel-watch.jpg" width="200">
-
-<span style="width:50%">![Hotel Apple Pay](/images/hotel-watch.jpg)</div>
-
 
 The Apple Watch makes the real-world interaction of software so much more frictionless; even eight years after the iPhone launched it is still unclear how much of our daily life is set for change.
 
