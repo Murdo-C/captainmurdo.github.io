@@ -20,3 +20,5 @@ My favourite blogs are:
 * Benedict Evans at [ben-evans.com](https://www.ben-evans.com)
 * John Gruber at [daringfireball.net](https://daringfireball.net)
 * Eugene Wei at [eugenewei.com](http://www.eugenewei.com)
+
+This blog is hosted on Github pages using the wonderful Jekyll and Atom.
