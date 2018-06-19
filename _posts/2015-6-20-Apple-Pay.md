@@ -27,9 +27,9 @@ Initially there will be a £20 limit on in-store purchases with Apple Pay and th
 
 In-store reward cards are also expected to be introduced to the UK after they launch in the US later in the year. With one tap, a customer can pay for goods and receive any loyalty points from the transaction; the iPhone selects the correct reward card at the correct time.
 
+![TFL Apple Pay](/images/tfl-watch.jpg){: .align-right}
 
-
-Google’s Android Pay is set to launch in the US this year and as-of-yet has no UK release date. The significance of the two largest phone operating systems now looking to take on the role of our wallets should not be overlooked. As these smartphones and wearables become further integrated into everything we do, it is difficult to see where their reach ends. Already they are being used in hotels as your room key, in your home to control your heating and now they are in control of your payments. Perhaps this will extend to passports, driving licences and corporate IDs. <img src="/images/tfl-watch.jpg" alt="TFL Apple Pay" style="float:right;">
+Google’s Android Pay is set to launch in the US this year and as-of-yet has no UK release date. The significance of the two largest phone operating systems now looking to take on the role of our wallets should not be overlooked. As these smartphones and wearables become further integrated into everything we do, it is difficult to see where their reach ends. Already they are being used in hotels as your room key, in your home to control your heating and now they are in control of your payments. Perhaps this will extend to passports, driving licences and corporate IDs.
 
 The Apple Watch makes the real-world interaction of software so much more frictionless; even eight years after the iPhone launched it is still unclear how much of our daily life is set for change.
 
