@@ -210,6 +210,12 @@ img {
   }
 }
 
+.site-logo {
+  color: $darkBlue;
+  font-weight: bold;
+  font-size: 28px;
+}
+
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
