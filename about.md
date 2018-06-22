@@ -25,9 +25,9 @@ You should read/watch/listen to these:
 * [Invisiblia](https://www.npr.org/programs/invisibilia/) by NPR
 
 I'm currently:
-* listening to [James Bay's Electric Light](https://itunes.apple.com/gb/album/electric-light/1354016490),
-* watching [HBO's Westworld](https://www.hbo.com/westworld),
-* and reading [Gnomon by Nick Harkaway](https://www.penguin.co.uk/books/1113201/gnomon/).
+* listening to [James Bay's Electric Light](https://itunes.apple.com/gb/album/electric-light/1354016490);
+* watching [HBO's Westworld](https://www.hbo.com/westworld); and
+* reading [Gnomon by Nick Harkaway](https://www.penguin.co.uk/books/1113201/gnomon/).
 
 My favourite blogs are:
 
