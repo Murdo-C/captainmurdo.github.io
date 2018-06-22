@@ -41,7 +41,7 @@ I'm a great believer in getting the details right and the first thing on my list
 
 ![Safari Tabs](/images/safari-tabs.png)
 
-Using [RealFaviconGenerator](https://realfavicongenerator.net) I was able to upload my standard **//**{: style="color: darkBlue"} logo, `hex #4183c4` naturally, and generate the required selection of favicons. Adding the files into my site's GitHub repo and updating my `default.html` layout with the provided HTML code was all it took to tick the first piece of customisation off my list.
+Using [RealFaviconGenerator](https://realfavicongenerator.net) I was able to upload my standard **//**{: style="color: blue"} logo, `hex #4183c4` naturally, and generate the required selection of favicons. Adding the files into my site's GitHub repo and updating my `default.html` layout with the provided HTML code was all it took to tick the first piece of customisation off my list.
 
 From there, I began delving into the `style.scss` file to tinker. Sass/CSS is the first area I really want to explore and understand properly and the sheer volume of guides and explainers on these topics will keep me busy for ~~months~~ years.
 
