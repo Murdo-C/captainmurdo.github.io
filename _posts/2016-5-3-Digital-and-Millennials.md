@@ -29,10 +29,12 @@ But that’s all besides the point. Focusing on ‘Digital Natives’ provides c
 “How can we possibly satiated these ungrateful beasts?”
 Solution to this all: Why not simply call us people? Here, we'll test it:
 
-Digital natives have high expectations.
+>Digital natives have high expectations.
+
 becomes…
 
-People have high expectations.
+>People have high expectations.
+
 Yup, still makes sense.
 
 By removing the jargon we get at the real issue. Companies have forgotten the real users of their products: people. And people have high expectations.
