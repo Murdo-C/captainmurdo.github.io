@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Based in Edinburgh, Scotland, I help organisations rethink their customer experiences and design digital services. 
+I help organisations rethink their customer experiences and design digital services. I typically work as a user researcher or product/service design lead. You can learn more about my work [here](/work.md/). I'm usually based in Edinburgh, Scotland, but my work takes me places.
 
-I studied Actuarial Science at Heriot-Watt University in Edinburgh and have since gained my CIMA qualification. I know a thing or two about agile as well.
-
-I typically work as a user researcher or product/service design lead. You can learn more about my work [here](/work.md/).
+I studied Actuarial Science at Heriot-Watt University in Edinburgh and have since gained my [CIMA/CGMA](https://www.cimaglobal.com/Members/Your-Membership-Information/The-CGMA-Designation/) qualification. I know a thing or two about [agile](https://www.scrumalliance.org/community/profile/mconnochie) as well.
 
 I enjoy technology, coffee, and reading.
 
