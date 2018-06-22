@@ -18,7 +18,7 @@ I live with my fiancée, Michelle, and our two chihuahua's, Belle and Meeko.
 
 ## Some Recommendations
 
-You should read/watch/listen to some of these:
+You should read/watch/listen to these:
 * [Sourdough](https://www.robinsloan.com/books/sourdough/) by Robin Sloan
 * [Thinking, Fast and Slow](https://scholar.princeton.edu/kahneman/publications-0) by Daniel Kahneman
 * [Her](https://letterboxd.com/film/her/) by Spike Jonze
