@@ -16,7 +16,7 @@ Transitioned to service design lead with a team of four business analysts leadin
 ---
 
 ## User Experience Review & Business Case Development 
-### Social Housing
+### Social Housing Association
 User experience lead responsible for customer journey mapping workshops, persona development, user experience analysis and transformation business cases. Omni-channel UX analysis provided a comprehensive set of actionable recommendations.
 
 ---
@@ -26,6 +26,7 @@ User experience lead responsible for customer journey mapping workshops, persona
 Business analyst for a digital transformation pilot for early years childcare. Directly responsible for workshop facilitation in order to map and document various customer journeys and service processes to understand the key pain points. Journey maps and future service design was integral to the overall pilot business case and cost-benefit analysis. A minimum of 20% reduction in time per visit, with a further 60% identified for validation.
 
 ---
+
 ## Digital Strategy 
 ### Global Insurance Firm
 Researched future mobile technologies to modernise the company’s mobile strategy. Findings were presented to the divisional SVP and were vital to the organisation’s future digital roadmap.
