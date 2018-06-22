@@ -4,9 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-A selection of my client work.
-
-I'm usually some combination of user researcher, product owner, business analyst and service designer.
+I like designing and developing digital services. I'm usually some combination of user researcher, product owner, business analyst and service designer. Below is a selection of projects I've worked on.
 
 ---
 
