@@ -64,6 +64,14 @@ h4 {
   color: $gray;
 }
 
+hr {
+  height: 1px;
+  color: $lightGray;
+  background: $lightGray;
+  font-size: 0;
+  border: 0;
+}
+
 p {
   margin: 15px 0;
 }
