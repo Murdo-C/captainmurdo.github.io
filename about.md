@@ -38,4 +38,4 @@ My favourite blogs are:
 
 ---
 
-This blog is hosted on Github pages using the wonderful Jekyll and Atom.
+This blog is hosted on GitHub Pages using the wonderful Jekyll and Atom.
