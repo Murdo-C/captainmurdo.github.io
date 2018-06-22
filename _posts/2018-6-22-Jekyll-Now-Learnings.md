@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My Jekyll Learnings
-Published: false
 ---
 
 I recently set out to rebuild my (this) blog using open web standards whilst learning a thing or two along the way. 
