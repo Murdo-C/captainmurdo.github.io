@@ -20,13 +20,15 @@ The service and catalogue were designed and built using the [Scottish Approach t
 
 ## Business Analysis & Service Design 
 ### Local Authority
-Business analyst for a digital transformation pilot for early years childcare. Directly responsible for workshop facilitation in order to map and document various customer journeys and service processes to understand the key pain points. Journey maps and future service design was integral to the overall pilot business case and cost-benefit analysis. A minimum of 20% reduction in time per visit, with a further 60% identified for validation.
+As the business analyst for a digital transformation pilot for children's service, I facilitated workshops in order to map and document various user journeys and service processes to understand the key pain points. Following this analysis, I supported the service design and business case development using Lean's waste principles as the basis for cost/benefit analysis.
+
+Working with a mobility solutions provider, we designed the future vision for children's services within the local authority and performed a pilot to test the business case. The pilot demonstrated a reduction in the average health visit of 20%, with a further 60% identified for validation in future phases. Our solution was approved for further roll-out and additional analysis to understand the case for further system integration. 
 
 ---
 
 ## User Experience Review & Business Case Development 
 ### Social Housing Association
-Throughout this project I was user experience lead. I developed a collection of user personas based on current state customer journey mapping, user research interviews and user observations. From this, our team analysed the key user pain points and motiviations to articulate a vision for the organisation's future digital strategy. The outline business cases we developed estimated over £1m in savings per annum and the transformation programme was approved by the executive team on this basis.
+Throughout this project I was user experience lead. I developed a collection of user personas based on current state customer journey mapping, user research interviews and user observations. From this, our team analysed the key user pain points and motiviations to articulate a vision for the organisation's future digital strategy. The outline business cases we developed estimated over £1m in savings per annum and the [transformation programme](https://www.contractsfinder.service.gov.uk/Notice/ac392d08-aa10-4ca1-af40-72faee16d3cb?p=@8=UFQxUlRRPT0=NjJNT0) was approved by the executive team on this basis.
 
 I also delivered a comprehensive usability review of the organisation's desktop and mobile (iOS and Android) web experiences, providing comparison to their peer group and recommendations to align with good practice UX. This was based on key user stories and includes aspects such as accessibility, performance and content design.
 
@@ -34,5 +36,6 @@ I also delivered a comprehensive usability review of the organisation's desktop 
 
 ## Digital Strategy 
 ### Global Insurance Firm
-Researched future mobile technologies to modernise the company’s mobile strategy. Findings were presented to the divisional SVP and were vital to the organisation’s future digital roadmap.
-Consulted on the development of a new iOS and Android application for customers. Provided a fresh perspective to design the optimal feature set.
+My core activities involved researching future mobile technologies to inform the company’s digital strategy and conducting a mobile app experience review. To demonstrate potential opportunities I prototyped a [digital insurance card](/docs/insurance-card.pkpass) for Apple Wallet (née Passbook), showcased [Smart App Banners](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html) for app marketing and conceptualised a single sign-on system for the organisation's suite of apps.
+
+At the time, the company was also developing a new iOS and Android app for customers. I acted as a consultant for this project, helping to define the value proposition of the product and providing technical guidance for feature implementation.
