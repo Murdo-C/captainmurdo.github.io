@@ -39,3 +39,19 @@ I also delivered a comprehensive usability review of the organisation's desktop 
 My core activities involved researching future mobile technologies to inform the company’s digital strategy and conducting a mobile app experience review. To demonstrate potential opportunities I prototyped a [digital insurance card](/docs/insurance-card.pkpass) for Apple Wallet (née Passbook), showcased [Smart App Banners](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html) for app marketing and conceptualised a single sign-on system for the organisation's suite of apps.
 
 At the time, the company was also developing a new iOS and Android app for customers. I acted as a consultant for this project, helping to define the value proposition of the product and providing technical guidance for feature implementation.
+
+---
+
+# Speaking
+
+## Customer Insights
+
+At CIH Housing 2017, Europe's largest housing conference, I spoke about the apparent neverending quest within all companies to turn data into insights, the need to humanise your company's data before doing so, and the value of physically walking the customer journey to develop your understanding. 
+
+![CIH Housing 2017](/images/cih-housing-2017.jpg)
+
+## Blockchain
+
+On behalf of Scottish Financial Enterprise, I spoke to the Edinburgh Financial Services community on blockchain and it's potential within the industry. Event information is available [here](http://www.sfe.org.uk/events/sfe-breakfast-briefing-with-kpmg-on-blockchain/).
+
+![SFE Blockchain](/images/sfe-blockchain.jpg)
