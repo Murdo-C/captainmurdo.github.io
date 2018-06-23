@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prototyping
+title: Prototyping & Design
 ---
 
 OUTLINE:
@@ -10,3 +10,5 @@ OUTLINE:
 - Throw away often
 - Share wide
 - Move quickly into interactive
+
+General obs in the principles above
