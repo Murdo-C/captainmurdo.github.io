@@ -56,3 +56,7 @@ There's more I can do here but this isn't a priority for now. I'm happy to let t
 The final piece to discuss is analytics. I wanted something lightweight and non-intrusive for visitors. Luckily, Jekyll Now includes support for Google Analytics. All that's required is to add the tracking code from Google to the `_config.yml` file. That's it. 
 
 You can do some further tweaking within [Google Analytics](https://analytics.google.com/), such as linking your analytics to your search console account, to give you slightly more data on incoming traffic. As with SEO, this isn't a priority for me but I am curious to see what comes through from the first month of this site being live.
+
+---
+
+If you have any questions about the areas I've discussed above, [tweet me](https://twitter.com/murdo_).
