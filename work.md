@@ -4,14 +4,17 @@ title: Work
 permalink: /work/
 ---
 
-I like designing and developing digital services. I'm usually some combination of user researcher, product owner, business analyst and service designer. Below is a selection of projects I've worked on.
+I like designing and developing digital products and services. I'm usually some combination of user researcher, product owner, business analyst and service designer. Below is a selection of projects I've worked on.
 
 ---
 
 ## User Research & Service Design 
 ### Devolved Government
-User research lead for the Discovery phase of a digital service design project. Responsible for ethics approval, user research interviews and sense-making analysis to inform design of the service blueprint and prototype digital catalogue.
-Transitioned to service design lead with a team of four business analysts leading them through agile delivery of the catalogue, including mock-ups and prototyping, ultimately delivering a detailed service design. Service and catalogue were designed and built using the Scottish Approach to Service Design and the GDS Digital Service Standard.
+I was the user research lead for the discovery phase of a digital service design project ([Digital Marketplace opportunity information](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/5443)). At the outset I was responsible for ethics approval before conducting the user research interviews and sense-making analysis to allow the team to move into the design of the service blueprint and prototype digital catalogue.
+
+Once we completed our discovery phase I transitioned to service design lead, supported by a team of four business analysts, two designers and a technical architect. I led them through the agile delivery of the prototype digital catalogue, including mock-ups and Axure RP wireframe builds, iterating this based on further user testing and ultimately delivering a detailed service design. 
+
+The service and catalogue were designed and built using the [Scottish Approach to Service Design](http://designwithscotland.scot), the mygov.scot [Design Standards](https://resources.mygov.scot/design-standards/) and the UK Government Digital Services's [Digital Service Standard](https://www.gov.uk/service-manual/service-standard). Throughout the project we used tools like personas, journey mapping and sense-making to conduct our research and communicated our findings to the organisation through show and tells and our research wall. The final prototype catalogue was built in HTML, CSS, and JS using Bootstrap.
 
 ---
 
