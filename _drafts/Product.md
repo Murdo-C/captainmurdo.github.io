@@ -12,3 +12,4 @@ OUTLINE:
 - Move quickly into interactive
 
 General obs in the principles above
+Graphic for mock-up to click-through to prototype
