@@ -46,7 +46,7 @@ At the time, the company was also developing a new iOS and Android app for custo
 
 ## Customer Insights
 
-At CIH Housing 2017, Europe's largest housing conference, I spoke about the apparent neverending quest within all companies to turn data into insights, the need to humanise your company's data before doing so, and the value of physically walking the customer journey to develop your understanding. 
+At [CIH Housing 2017](https://twitter.com/i/moments/881993023239983104), Europe's largest housing conference, I spoke about the apparent neverending quest within all companies to turn data into insights, the need to humanise your company's data before doing so, and the value of physically walking the customer journey to develop your understanding. 
 
 ![CIH Housing 2017](/images/cih-housing-2017.jpg)
 
