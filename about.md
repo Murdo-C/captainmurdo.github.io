@@ -8,7 +8,7 @@ I help organisations rethink their customer experiences and design digital servi
 
 I studied Actuarial Science at Heriot-Watt University in Edinburgh and have since gained my [CIMA/CGMA](https://www.cimaglobal.com/Members/Your-Membership-Information/The-CGMA-Designation/) qualification. I know a thing or two about [agile](https://www.scrumalliance.org/community/profile/mconnochie) as well.
 
-I enjoy technology, coffee, and reading.
+I enjoy technology, coffee, and podcasts.
 
 I live with my fiancée, Michelle, and our two chihuahua's, Belle and Meeko.
 
