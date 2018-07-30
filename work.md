@@ -26,6 +26,14 @@ Working with a mobility solutions provider, we designed the future vision for ch
 
 ---
 
+## Customer Experience Design and Operational Readiness Assurance 
+### Major UK Bank
+As the UK banking market continues to go through a major shake-up, one of the largest banks asked for a review of their latest product launch - ensuring regulatory compliance, operational readiness and a well designed customer experience. As the Customer Experience specialist for the project, I challenged the bank's design and delivery teams to ensure each aspect of the customer journey had been thoughtfully considered and was supported by the necessary business processes and technology. 
+
+My observations and recommendations, framed through the core customer journey, were used to demonstrate to the regulator that the bank had effectively designed the solution and that any identified gaps would be address in the remaining development time.
+
+---
+
 ## User Experience Review & Business Case Development 
 ### Social Housing Association
 Throughout this project I was user experience lead. I developed a collection of user personas based on current state customer journey mapping, user research interviews and user observations. From this, our team analysed the key user pain points and motiviations to articulate a vision for the organisation's future digital strategy. The outline business cases we developed estimated over £1m in savings per annum and the [transformation programme](https://www.contractsfinder.service.gov.uk/Notice/ac392d08-aa10-4ca1-af40-72faee16d3cb?p=@8=UFQxUlRRPT0=NjJNT0) was approved by the executive team on this basis.
