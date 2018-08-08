@@ -7,8 +7,6 @@ The first post in a series on the developments taking place within mobile techno
 
 ---
 
-## Native Mobile Applications
-
 Mobile apps are embedded within consumers’ daily habits, enabling interactive experiences and delivering new services. For businesses, the development and ongoing support of an application can be significant; consideration must be given to the app’s specific use case and alignment to customer needs.
 
 ## What are Native Mobile Apps? 
@@ -25,14 +23,14 @@ Native mobile applications are ideal when high-performance computing is required
 An app is an excellent framework within which to innovate and test ideas with customers, refining at pace to deliver a customer-centric product.
 
 ### Benefits of Native Mobile Applications
-– Able to send push notifications to users
-– Access to device sensors, such as Bluetooth and continuous GPS
-– Extremely rich experiences can be created, particularly offline
+- Able to send push notifications to users
+- Access to device sensors, such as Bluetooth and continuous GPS
+- Extremely rich experiences can be created, particularly offline
 
 ### Delivery Challenges
-– High degree of friction during user installation
-– Can be costly to maintain
-– Updates require App Store review
+- High degree of friction during user installation
+- Can be costly to maintain
+- Updates require App Store review
 
 ## Case Study – British Airways
 
