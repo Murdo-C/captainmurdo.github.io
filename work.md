@@ -28,9 +28,9 @@ Working with a mobility solutions provider, we designed the future vision for ch
 
 ## Customer Experience & Operational Readiness Assurance 
 ### Major UK Bank
-As the UK banking market continues to go through a major shake-up, one of the largest banks asked for a review of their latest product launch - ensuring regulatory compliance, operational readiness and a well designed customer experience. As the Customer Experience specialist for the project, I challenged the bank's design and delivery teams to ensure each aspect of the customer journey had been thoughtfully considered and was supported by the necessary business processes and technology. 
+As the UK banking market continues to go through a major shake-up, one of the largest banks asked for a review of their latest product launch - ensuring regulatory compliance, operational readiness and a well-designed customer experience. As the Customer Experience specialist for the project, I challenged the bank's design and delivery teams to ensure each aspect of the customer journey had been thoughtfully considered and was supported by the necessary business processes and technology. 
 
-My observations and recommendations, framed through the core customer journey, were used to demonstrate to the regulator that the bank had effectively designed the solution and that any identified gaps would be address in the remaining development time.
+My observations and recommendations, framed through the core customer journey, were used to demonstrate to the regulator that the bank had effectively designed the solution and that any identified gaps would be addressed in the remaining development time.
 
 ---
 
