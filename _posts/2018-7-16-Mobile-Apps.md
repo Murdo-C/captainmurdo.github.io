@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Considerations - Native Mobile Applications
+title: Mobile Considerations - Native Mobile Apps
 ---
 
 The first post in a series on the developments taking place within mobile technology.
