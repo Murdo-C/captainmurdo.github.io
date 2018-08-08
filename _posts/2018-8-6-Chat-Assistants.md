@@ -7,9 +7,9 @@ The fifth post in a series on the developments taking place within mobile techno
 
 ---
 
-In recent years, more and more organisations are moving towards messaging- based automated assistants. This may be partly due to the aforementioned app fatigue but also shows an increased understanding of consumers’ digital habits; organisations are finally meeting the customer where they already are.
+In recent years, more and more organisations are moving towards messaging-based automated assistants. This may be partly due to the aforementioned app fatigue but also shows an increased understanding of consumers’ digital habits; organisations are finally meeting the customer where they already are.
 
-## What are Chat Based Assistants? 
+## What are Chat-based Assistants? 
 
 They are automated messaging systems that imitate human interaction.
 
@@ -25,7 +25,7 @@ The most effective chat-based assistants are focused on specific customer outcom
 
 As these assistants are typically deployed within social media platforms, they are multi-platform (including mobile and desktop) from launch.
 
-### Benefits of Chat Based Assistants
+### Benefits of Chat-based Assistants
 - Direct, one-to-one customer relationship 
 - Can leverage device functionality, such as cameras, through the native chat apps 
 - Low level of friction to engage users
