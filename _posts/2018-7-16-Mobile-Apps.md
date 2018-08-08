@@ -12,7 +12,8 @@ Mobile apps are embedded within consumers’ daily habits, enabling interactive 
 ## What are Native Mobile Apps? 
 
 These are applications developed for mobile devices downloaded from an app store and installed by a user.
-For many organisations, the default assumption is that an app is required to deliver a rich, digitally enabled customer experience. Native mobile apps do offer a variety of unique functionality, such as augmented reality and push notifications, but there are also alternatives to many of these features that can be quicker to deploy or cheaper to maintain, e.g. PWAs or mobile web.
+
+For many organisations, the default assumption is that an app is required to deliver a rich, digitally enabled customer experience. Native mobile apps do offer a variety of unique functionality, such as augmented reality and push notifications, but there are also alternatives to many of these features that can be quicker to deploy or cheaper to maintain, e.g. [PWAs](/posts/2018-7-30-PWA.md/) or [mobile web](/posts/2018-7-23-Mobile-Web.md/).
 
 If an organisation decides to develop an app, at a minimum they must support the two major mobile platforms, iOS and Android.
 
