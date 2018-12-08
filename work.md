@@ -69,3 +69,9 @@ At [CIH Housing 2017](https://twitter.com/i/moments/881993023239983104), Europe'
 On behalf of Scottish Financial Enterprise, I spoke to the Edinburgh Financial Services community on blockchain and it's potential within the industry. Event information is available [here](http://www.sfe.org.uk/events/sfe-breakfast-briefing-with-kpmg-on-blockchain/).
 
 ![SFE Blockchain](/images/sfe-blockchain.jpg)
+
+## Future of Retailing
+
+As part of Heriot-Watt's Retail Marketing graduate course, I was asked to present KPMG's insights into future customer experiences. My lecture covered changing consumer behaviour across generations, CX measurement techniques, the Jobs-to-be-Done framework and case studies covering global leaders in retail.
+
+![ Heriot-Watt Future of Retailing](/images/hw-retail.jpg)
