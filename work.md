@@ -8,6 +8,12 @@ I like designing and developing digital products and services. I'm usually some 
 
 ---
 
+## Strategy & Customer Proposition Development
+### Large UK Building Society
+Customer Strategy Manager for a corporate strategy development project, with a strong focus on customer needs and digital propositions. Worked with the executive team to develop the product-based financial baseline, customer cohort analysis, business model options and future product value propositions. The team ultimately delivered four future business model options, including market size and financial projections, for consideration and approval by the organisation’s board.
+
+---
+
 ## User Research & Service Design 
 ### Devolved Government
 I was the user research lead for the discovery phase of a digital service design project ([Digital Marketplace opportunity information](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/5443)). At the outset I was responsible for ethics approval before conducting the user research interviews and sense-making analysis to allow the team to move into the design of the service blueprint and prototype digital catalogue.
