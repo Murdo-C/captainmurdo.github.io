@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-I like designing and developing digital products and services. I'm usually some combination of service designer, user researcher, product owner, and business analyst. Below is a selection of projects I've worked on.
+I like designing and developing digital products and services. I'm usually some combination of strategy lead, service designer, user researcher, product owner, and business analyst. Below is a selection of projects I've worked on.
 
 ---
 
