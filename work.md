@@ -10,7 +10,15 @@ I like designing and developing digital products and services. I'm usually some 
 
 ## Strategy & Customer Proposition Development
 ### Large UK Building Society
-Customer Strategy Manager for a corporate strategy development project, with a strong focus on customer needs and digital propositions. Worked with the executive team to develop the product-based financial baseline, customer cohort analysis, business model options and future product value propositions. The team ultimately delivered four future business model options, including market size and financial projections, for consideration and approval by the organisation’s board.
+I was the Customer Insights and Strategy Manager for a corporate strategy development project at a top ten UK building society; my role was to bring a deep understanding of customer behaviour and digital proposition development, and in particular highlighting the strategies of the UK’s innovative financial services start-ups.
+
+Our approach required divergent and convergent thinking to arrive at the optimal solution for the new strategy. Divergent in the sense that we would explore a large number of opportunities, testing them for feasibility, desirability and viability and convergent in the sense that we would explore a few opportunities at depth for financial performance and alignment to strategic capabilities.
+
+To facilitate the former aspect, the divergent strategic thinking, we created a Walk of Trends gallery covering four key trend areas: social and people, technology, economy and markets, and political and regulatory. For each trend we included a definition, example impacts and relevant data points. Through my specialist knowledge of customer behaviours and technology trends, I was able to challenge the predominant thinking of the group and discuss in detailed a curated selection of trends.
+
+Following this, I worked with the executive team to develop the business model options and future product value propositions based on these key predicted trends. Our team ultimately delivered four future business model options, including market size and financial projections, for consideration and approval by the organisation’s board.
+
+Once the strategic direction was agreed, I moved into target operating model design. Working with staff from across the organisation I defined and documented the required future state capabilities, including estimated costs and resources to deliver each. In order to understand the costs and effort required for each financial year, I built an excel model to sequence each capability transformation based on their start date, estimated timeframe and dependencies. This allowed for a final roadmap to be co-created with the senior leadership team of the building society, ensuring we arrived at a challenged and robust roadmap that accounted for the various dependencies and strategic priorities.
 
 ---
 
