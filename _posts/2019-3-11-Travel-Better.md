@@ -56,6 +56,6 @@ To end, I'll highlight a handful of apps that I use on most trips.
 - [**Citymapper**](https://citymapper.com/?lang=en) It's not available in all cities but if it is offered, Citymapper is the only way to get around. The routes are nicely balanced between travel time and convenience, with a large selection generally available for journeys (including Uber, public transit and their own new cab/bus).
 - If you stay with Hilton regularly or fly with British Airways, both offer superb apps that will simplify your planning greatly. Whether it's Hilton's digital key that allows you to skip all human contact and go straight to your room or British Airway's smooth digital check-in journey, I can't recommend them enough.
 
---
+---
 
 This is a living guide and will be updated when I find a better option or new solution. I hope it proves useful and lightens your load when travelling. 
