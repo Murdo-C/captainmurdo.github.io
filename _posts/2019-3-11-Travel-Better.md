@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Travel Better
+---
+
 We can all benefit from a smoother travel experience - here's some tips to make that happen. 
+
 ---
 
 I travel a significant amount, usually with work but often for personal trips too. This includes a variety of planes, trains and automobiles. Through this, I've developed and identified what I believe are some burden-removing essentials for any trip. I'll continue to edit and add to this list when appropriate. I hope it helps make travel that little bit easier for you. 
