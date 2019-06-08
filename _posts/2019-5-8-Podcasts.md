@@ -2,8 +2,11 @@
 layout: post
 title: A Guide to Podcasts
 ---
+
 My recommendations for podcasts and my app of choice.
+
 ---
+
 Recently I've found that I'm being asked for (or more often I simply offer) my recommendations for podcasts. I consider myself a pod-listening pro, if such a thing exists, and justify this on the basis that my iPhone reports 18.5 hours of usage of Overcast (my podcast app of choice, more below) over the last 10 days, I listen to most podcasts at 1.5x speed, and have an unhealthy anxiety to achieve Inbox Zero with my podcast queue - those last two are likely closely linked.
 
 I fill large parts of my day with podcasts - making a boring commute more interesting or learning about topics of interest through a low interaction but high-bandwidth medium. There's something for everyone, from serial dramas to comedy talk shows, and I think audio will continue to grow as our computing become increasingly ambient through speakers, watches, and headphones. 
