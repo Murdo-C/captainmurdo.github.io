@@ -10,7 +10,7 @@ We can all benefit from a smoother travel experience - here's some tips to make 
 I travel a significant amount, usually with work but often for personal trips too. This includes a variety of planes, trains and automobiles. Through this, I've developed and identified what I believe are some burden-removing essentials for any trip. I'll continue to edit and add to this list when appropriate. I hope it helps make travel that little bit easier for you. 
 
 ### Logistical Tips
-Firstly, if you don't have a packing list on which to base each trip then this is where you should start. I use Things 3 to generate and tick-off my list. You can load my list using [this link](/drafts/packing-list.txt) to get you started. I don't pack everything on this list for every trip but it's comprehensive enough that I don't forget anything critical. 
+Firstly, if you don't have a packing list on which to base each trip then this is where you should start. I use Things 3 to generate and tick-off my list. You can load my list using [this link](/_drafts/packing-list.txt) to get you started. I don't pack everything on this list for every trip but it's comprehensive enough that I don't forget anything critical. 
 
 Alternatively, quickly build your own list - the important thing is to start with something and build on it as you travel. If you ever forget something on a trip, add it to your list so you'll never forget again. Perhaps the simplest way to store it is in Apple Notes or Google Keep; ultimately the tool doesn't matter but the list does. It's one less thing to think about each and every time you travel and you'll benefit whether that's every week or once a year. 
 
