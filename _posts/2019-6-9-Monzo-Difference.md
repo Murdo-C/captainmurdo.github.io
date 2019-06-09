@@ -9,7 +9,7 @@ What does it look like when you build a bank like a tech firm?
 
 I believe Monzo, now sitting at 2 million customers, represents the future of banking. The bank hasn't necassirly innovated on the typical banking business model but it has redefined how a bank launches products and communicates with customers, to say the least. With [ambitions to grow](https://monzo.com/blog/2018/07/30/scaling-our-customer-support/) to 1 billion customers and beyond, Tom and the team are doing things differently. 
 
-![User growth](/images/monzo-growth.png)
+![User growth](/images/monzo-growth.jpeg)
 
 The topics discussed here represent my years of study of the bank but not necessarily the inside-out view; if I have described anything incorrectly, please do [let me know](murdo.connochie@gmail.com).
 
@@ -55,7 +55,7 @@ In this example, the cognitive load for customers is greatly reduced and instead
 
 ![Monzo 3D Secure](https://d33wubrfki0l68.cloudfront.net/bcc67d429ca3c00766c6103abc44e3a6e4cabfef/76fea/static/images/blog/2018-08-13-3d-secure/3ds-monzo-blog.png)
 
-This focus on experience, and in particular the minor design details throughout, is possible because Monzo involves [every employee in the research](https://monzo.com/blog/2019/05/30/everyone-does-user-research-at-monzo/) and [design](https://monzo.com/blog/2019/02/11/internal-product-design/p) process. 
+This focus on experience, and in particular the minor design details throughout, is possible because Monzo involves [every employee in the research](https://monzo.com/blog/2019/05/30/everyone-does-user-research-at-monzo/) and [design](https://monzo.com/blog/2019/02/11/internal-product-design/) process. 
 
 Side-note: My time researching and designing customer experiences in financial services has uncovered an interesting insight. Many people, particularly older generations, have a strong preference to use mobile apps over mobile web. There seems to be two key drivers for this:
 1. Users don't trust themselves to navigate to the correct website or to spot a misleading url.
@@ -75,7 +75,7 @@ The _PCA + Marketplace_ model has two clear benefits upfront:
 
 Nowhere is this model emphasised more than in the ratio of employees to customers, my favourite unfair comparison.
 
-![Ratio](/images/monzo-ratio.png)
+![Ratio](/images/monzo-ratio.jpeg)
 
 I've taken the Royal Bank of Scotland as an proxy for more traditional banking. Based on the most recently available figures reported by both companies, Monzo is able to serve over 6x as many customers per single employee than RBS. There are obvious differences in product offerings, geographic reach and reliance on legacy technology (including branches) but it's clear that these two banks are on very different trajectories. 
 
