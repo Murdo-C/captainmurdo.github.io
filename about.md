@@ -10,7 +10,7 @@ I studied Actuarial Science at Heriot-Watt University in Edinburgh and have sinc
 
 I enjoy technology, coffee, and podcasts.
 
-I live with my fiancée, Michelle, and our two chihuahua's, Belle and Meeko.
+I live with my fiancée, Michelle, and our two Chihuahuas, Belle and Meeko.
 
 ---
 
