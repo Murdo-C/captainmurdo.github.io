@@ -17,12 +17,15 @@ Google, Apple, Facebook, and Amazon have all explored the obvious use cases; whe
 
 Each of the large technology firms has, or is developing, a number of products that serve a customer’s financial needs.
 
+
 | Company | Product / Services |
 |----------|----------------------------------------------------------------|
 | Google  | Google Pay, e-money licence, cloud |
 | Apple | Apple Pay, Apple Cash, Apple Card, P2P messaging payments |
 | Facebook | Calibra digital wallet, P2P messaging payments, infrastructure |
 | Amazon | Branded cards/PCA, SME lending, Amazon Pay, insurance, cloud |
+
+---
 
 <table>
   <tr>
@@ -46,6 +49,7 @@ Each of the large technology firms has, or is developing, a number of products t
     <td>Branded cards/PCA, SME lending, Amazon Pay, insurance, cloud</td>
   </tr>
 </table>
+
 
 Payments was the natural entry-point for each given their proximity to the point of sale (both physical and digital) or the scale of their messaging network. Each has since expanded to other products and it’s clear this will continue; they are well capitalised and are looking to diversify their revenue streams.
  
