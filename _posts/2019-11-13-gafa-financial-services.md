@@ -1,6 +1,11 @@
-# The role of big tech (GAFA) in financial services
+---
+layout: post
+title: GAFA in Financial Services
+---
 
-### Google, Apple, Facebook, and Amazon have all explored the obvious use cases; it’s not clear where they go next but I don't expect them to fundamentally change the underlying financial products.
+Google, Apple, Facebook, and Amazon have all explored the obvious use cases; it’s not clear where they go next but I don't expect them to fundamentally change the underlying financial products.
+
+---
 
 #### The large technology firms (Google, Apple, Facebook, Amazon) have entered financial services using the naturally aligned product spaces (i.e. mostly payments) and are now seeking further growth opportunities.
 
