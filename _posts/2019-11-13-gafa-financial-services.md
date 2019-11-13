@@ -3,7 +3,7 @@ layout: post
 title: GAFA in Financial Services
 ---
 
-Google, Apple, Facebook, and Amazon have all explored the obvious use cases; it’s not clear where they go next but I don't expect them to fundamentally change the underlying financial products.
+Google, Apple, Facebook, and Amazon have all explored the obvious use cases; where they go next may dramatically alter the global market.
 
 ---
 
