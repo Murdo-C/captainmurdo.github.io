@@ -7,16 +7,15 @@ Google, Apple, Facebook, and Amazon have all explored the obvious use cases; whe
 
 ---
 
-#### The large technology firms (Google, Apple, Facebook, Amazon) have entered financial services using the naturally aligned product spaces (i.e. mostly payments) and are now seeking further growth opportunities.
+The large technology firms (Google, Apple, Facebook, Amazon) have entered financial services using the naturally aligned product spaces (i.e. mostly payments) and are now seeking further growth opportunities.
 
-#### They will leverage their global customer bases to quickly gain product scale but regulation may still pose a barrier to entry. Some are also diverging into provision of infrastructure and enablement, such as cloud platforms and data toolsets.
+They will leverage their global customer bases to quickly gain product scale but regulation may still pose a barrier to entry. Some are also diverging into provision of infrastructure and enablement, such as cloud platforms and data toolsets.
 
-#### Innovation is largely focussed on distribution, engagement, and experience rather than the underlying financial product. Their strong ownership of the customer relationship all but guarantees success.
+Innovation is largely focussed on distribution, engagement, and experience rather than the underlying financial product. Their strong ownership of the customer relationship all but guarantees success.
 
 ---
 
 Each of the large technology firms has, or is developing, a number of products that serve a customer’s financial needs.
-
 
 | Company | Product / Services |
 |----------|----------------------------------------------------------------|
@@ -24,32 +23,6 @@ Each of the large technology firms has, or is developing, a number of products t
 | Apple | Apple Pay, Apple Cash, Apple Card, P2P messaging payments |
 | Facebook | Calibra digital wallet, P2P messaging payments, infrastructure |
 | Amazon | Branded cards/PCA, SME lending, Amazon Pay, insurance, cloud |
-
----
-
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Product / Services</th>
-  </tr>
-  <tr>
-    <td>Google </td>
-    <td>Google Pay, e-money licence, cloud</td>
-  </tr>
-  <tr>
-    <td>Apple</td>
-    <td>Apple Pay, Apple Cash, Apple Card, P2P messaging payments</td>
-  </tr>
-  <tr>
-    <td>Facebook</td>
-    <td>Calibra digital wallet, P2P messaging payments, infrastructure</td>
-  </tr>
-  <tr>
-    <td>Amazon</td>
-    <td>Branded cards/PCA, SME lending, Amazon Pay, insurance, cloud</td>
-  </tr>
-</table>
-
 
 Payments was the natural entry-point for each given their proximity to the point of sale (both physical and digital) or the scale of their messaging network. Each has since expanded to other products and it’s clear this will continue; they are well capitalised and are looking to diversify their revenue streams.
  
