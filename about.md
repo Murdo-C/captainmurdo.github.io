@@ -10,7 +10,7 @@ I studied Actuarial Science at Heriot-Watt University in Edinburgh and have sinc
 
 I enjoy technology, coffee, and podcasts.
 
-I live with my fiancée, Michelle, and our two Chihuahuas, Belle and Meeko.
+I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko.
 
 ---
 
@@ -23,7 +23,7 @@ You should read/watch/listen to these:
 * [Invisiblia](https://www.npr.org/programs/invisibilia/) by NPR
 
 I'm currently:
-* listening to [Frank Ocean's Blone](https://music.apple.com/gb/album/blonde/1146195596);
+* listening to [Frank Ocean's Blonde](https://music.apple.com/gb/album/blonde/1146195596);
 * watching [HBO's Chernobyl](https://www.hbo.com/chernobyl); and
 * reading [Disney U by Doug Lipp](https://www.douglipp.com/books/).
 
