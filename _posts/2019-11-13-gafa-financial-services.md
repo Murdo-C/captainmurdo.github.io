@@ -17,9 +17,9 @@ Google, Apple, Facebook, and Amazon have all explored the obvious use cases; whe
 
 Each of the large technology firms has, or is developing, a number of products that serve a customer’s financial needs.
 
-| Company | Products / Services |
-| ---- | ---- |
-| Google | Google Pay, e-money licence, cloud |
+| Company | Product / Services |
+|----------|----------------------------------------------------------------|
+| Google  | Google Pay, e-money licence, cloud |
 | Apple | Apple Pay, Apple Cash, Apple Card, P2P messaging payments |
 | Facebook | Calibra digital wallet, P2P messaging payments, infrastructure |
 | Amazon | Branded cards/PCA, SME lending, Amazon Pay, insurance, cloud |
@@ -28,8 +28,8 @@ Payments was the natural entry-point for each given their proximity to the point
  
 Financial services offers two key revenue growth opportunities: 
 
-1. increase product retention and stickiness on the B2C side, and 
-2. increase usage of cloud and data technologies on the B2B side.
+1. Increase product retention and stickiness on the B2C side, and 
+2. Increase usage of cloud and data technologies on the B2B side.
 
 GAFA diverges across enabling services and direct to consumer. Amazon and Google both have industry-agnostic enablement services, namely AWS and GCP. All of the four provide unique consumer channels, intermediating and enabling customer-to-organisation communication. Amazon has integrated financing options into the Amazon Marketplace suite to directly support SMEs and grow their supplier ecosystem.
 
