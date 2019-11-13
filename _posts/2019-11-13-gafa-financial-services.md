@@ -60,7 +60,7 @@ On the flip side, existing financial institutions will now have access to large,
 Any partnerships between GAFA and financial institutions will require a high level of product customisation and flexibility, in order to offer a redefined customer experience. Critical to this will be integration-friendly technology infrastructure and a high degree of automation for aggregator-led platforms.
 
 
-### Potential Responses for Financial Institutions:
+### Potential Responses for Financial Institutions
 
 Core financial product innovation is so far untouched by GAFA; this leaves a whitespace for reinvention or disruption of traditional financial products.
 
@@ -82,4 +82,4 @@ Aggregator propositions – expected to be created by Google – also offer earl
 
 ---
 
-The months and years ahead will pose interesting challenges for incumbent financial institutions and potentially offer GAFA large and lucrative revenue streams if they can get the experience right. It may be a David vs. Goliath situation, and in this instance I favour Goliath.
+The months and years ahead will pose interesting challenges for incumbent financial institutions and potentially offer GAFA large and lucrative revenue streams, if they can get the experience right. It may be a David vs. Goliath situation, and in this instance I favour Goliath.
