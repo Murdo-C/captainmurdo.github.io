@@ -7,8 +7,8 @@ Customers don't buy rationally; the 'why' behind a purchase can be more revealin
 
 ---
 
-> _"People don't want a quarter-inch drill, they want a quarter-inch hole" 
-> - Theodore Levitt, 1960s_
+> "People don't want a quarter-inch drill, they want a quarter-inch hole" 
+> Theodore Levitt, 1960s
 
 Jobs to be Done (JTBD) is a theory about consumption and what drives people's decision making. The concept was fully crystallised in Clayton Christensen’s book, [The Innovator’s Solution](http://www.businesstraining.com.mx/egaii/docs/The%20Innovators%20Solution.pdf). 
 
