@@ -3,7 +3,7 @@ layout: post
 title: Neobanked - 001 Welcome
 ---
 
-To begin, let's look back on 2019
+To begin, let's look back on 2019.
 
 ---
 
