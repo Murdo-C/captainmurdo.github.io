@@ -8,6 +8,10 @@ I like designing and developing digital products and services. I'm usually some 
 
 ---
 
+## Future Business Model Development
+### Large UK Building Society
+I was the lead Strategy Manager for a strateigc insights project, which initially focused on benchmarking capabilities and KPIs against a wide-ranging peer group. Our team then developed over 20 future business models for the mortgages and savings markets to, including critical success factors and required capabilities. This allowed us to quickly filter the models based on alignment to purpose, imperatives, and capabilities and arrive at a shortlist for further development.
+
 ## Strategy & Customer Proposition Development
 ### Large UK Building Society
 I was the Customer Insights and Strategy Manager for a corporate strategy development project at a top ten UK building society; my role was to bring a deep understanding of customer behaviour and digital proposition development, and in particular highlighting the strategies of the UK’s innovative financial services start-ups.
@@ -66,17 +70,17 @@ At the time, the company was also developing a new iOS and Android app for custo
 
 # Speaking
 
-## Customer Insights
-
-At [CIH Housing 2017](https://twitter.com/i/moments/881993023239983104), Europe's largest housing conference, I spoke about the apparent neverending quest within all companies to turn data into insights, the need to humanise your company's data before doing so, and the value of physically walking the customer journey to develop your understanding. 
-
-![CIH Housing 2017](/images/cih-housing-2017.jpg)
-
 ## Blockchain
 
 On behalf of Scottish Financial Enterprise, I spoke to the Edinburgh Financial Services community on blockchain and it's potential within the industry. Event information is available [here](http://www.sfe.org.uk/events/sfe-breakfast-briefing-with-kpmg-on-blockchain/).
 
 ![SFE Blockchain](/images/sfe-blockchain.jpg)
+
+## Customer Insights
+
+At [CIH Housing 2017](https://twitter.com/i/moments/881993023239983104), Europe's largest housing conference, I spoke about the apparent neverending quest within all companies to turn data into insights, the need to humanise your company's data before doing so, and the value of physically walking the customer journey to develop your understanding. 
+
+![CIH Housing 2017](/images/cih-housing-2017.jpg)
 
 ## Future of Retailing
 
