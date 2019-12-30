@@ -9,7 +9,7 @@ To begin, let's look back on 2019
 
 Throughout 2020 I'll be publishing a newsletter called Neobanked. Issue 001 is below and you can subscribe [here](https://neobanked.substack.com). Any initial thoughts or ideas are always welcome, [get in touch](murdo.connochie@gmail.com)!
 
----
+-
 
 Welcome to Neobanked, a newsletter focused on the quickly evolving UK digital banking market. I hope to gather enough interesting tidbits and news to share this every two weeks.
 
