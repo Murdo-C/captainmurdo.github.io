@@ -30,7 +30,7 @@ As a response to this new dynamic, I believe banks should rethink what it means 
 
 Companies should deploy payment capabilities everywhere they possibly can; the aim of the game is to be the default in as many places as possible. In fact, the most important screen for any product manager in a bank or fintech is currently owned by Apple and Google.
 
-<img src="/images/default-card.png" alt="Default card in Apple Pay" width="250">
+<center><img src="/images/default-card.png" alt="Default card in Apple Pay" width="250"></center>
 
 Companies like [Curve](https://www.curve.app/en-gb/f/apple-pay) (and even [Citymapper](https://citymapper.com/pass?lang=en)) are using classic [low-end disruption ](https://online.hbs.edu/blog/post/4-keys-to-understanding-clayton-christensens-theory-of-disruptive-innovation) to provide customers with a good enough service. By doing so, they can unseat the incumbents, who have over-served or misunderstood customer needs for years, and make a claim for the default payment position.
 
