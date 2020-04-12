@@ -1,4 +1,11 @@
-# The Current Account Plus Marketplace Business Model
+---
+layout: post
+title: The Current Account Plus Marketplace Business Model
+---
+
+The model makes sense in theory but faces challenges in reality.
+
+---
 
 A common model for many neobanks is to develop a current account (or pseudo current account[^1]), provide some basic (typically non-interest bearing) savings pots, and deliver this all through a well designed mobile app. Revenue comes from scale and profit comes from a marketplace.
 
