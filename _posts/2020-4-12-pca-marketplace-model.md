@@ -89,6 +89,6 @@ The current account plus marketplace model was conceived at a time when Open Ban
 
 Now we must wait and see if the growth of new fintechs and neobanks (who typically build with Open Banking in mind) is enough to realise the full ambition of the model. Or if customer apathy and legacy bank responses will stunt the vision, leaving us with a small number of neobanks and an unrealised ambition.
 
-——-
+---
 
 [^1]: Beyond a standard current account, some neobanks have offered card aggregators (see Curve), daily spend cards / travel cards (see Revolut and Monzo’s initial launch), and even purchases specific cards ([Storkcard](https://www.storkcard.com/)).
