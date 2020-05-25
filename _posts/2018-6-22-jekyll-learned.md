@@ -30,7 +30,7 @@ Starting down the Jekyll rabbit hole lead me to [Prose](http://prose.io), [Liqui
 ## Redirecting Squarespace {#domain-redirect}
 Continuing with the guide then led me to redirecting my existing Squarespace domain to the GitHub Pages domain. Unfortunately this was the only part of the guide that let me down and I had to troubleshoot a little.
 
-Updating the CNAME as described wasn't quite enough; I also had to configure my `A` records within the Squarespace domain management dashboard. Thankfully GitHub has a number of support documents to help and [this one](https://help.github.com/articles/troubleshooting-custom-domains/#dns-record-doesnt-point-to-githubs-server) solved it for me.
+Updating the CNAME as described wasn't quite enough; I also had to configure my `A` records within the Squarespace domain management dashboard. Thankfully GitHub has a number of support documents to help and [this one](https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site) solved it for me.
 
 With both the CNAME and `A` records set up to redirect it was simply a matter of waiting for the change to propagate across the globe.
 
