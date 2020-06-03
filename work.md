@@ -10,7 +10,7 @@ I like designing and developing digital products and services. I'm usually some 
 
 ## Future Business Model Development
 ### Large UK Building Society
-I was the lead Strategy Manager for a strategic insights project, which initially focused on benchmarking capabilities and KPIs against a wide-ranging peer group. Our team then developed over 20 future business models for the mortgages and savings markets to, including critical success factors and required capabilities. This allowed us to quickly filter the models based on alignment to purpose, imperatives, and capabilities and arrive at a shortlist for further development.
+I was the lead Strategy Manager for a strategic insights project, which initially focused on benchmarking capabilities and KPIs against a wide-ranging peer group. Our team then developed over 20 future business models for the mortgages and savings markets, including critical success factors and required capabilities. This allowed us to quickly filter the models based on alignment to purpose, imperatives, and capabilities and arrive at a shortlist for further development.
 
 ## Strategy & Customer Proposition Development
 ### Large UK Building Society
