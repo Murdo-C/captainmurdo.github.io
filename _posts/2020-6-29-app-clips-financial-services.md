@@ -10,6 +10,7 @@ iOS 14 offers a new, streamlined experience that’s perfectly suited for transa
 Experts often argue that the future of financial services is invisible and embedded - banking will be a persistent layer across all of our daily interactions, almost unnoticeable by the user. You could argue that prior to modern smartphones, the physical debit / credit card was this layer, unlocking goods and services wherever we went. Smartphones shifted this decentralised layer to the centralised mobile wallet, with platforms like Apple and Google Pay aggregating (and potentially commoditising) a user’s payment mechanisms. The only real barrier to adoption now is the contactless limit, however most transactions fall well below this threshold.
 
 ![Bank diagram](/images/banks-to-user.png)
+*The shift from card-led banking relationships to mobile intermediated banking releationships.*
 
 But financial services hasn’t yet achieved this *persistent yet invisible* status. Features and functionality remain locked within the financial institution’s siloed app and most bank’s would rather aggregated a user’s external accounts than play nicely with an open ecosystem. What if instead they decided to embrace and extend the technologies provided by mobile platforms, starting with app clips?
 
