@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Micro-Moments in Financial Services
+title: Building Micro-Moments in Financial Services
 ---
 
 iOS 14 offers a new, streamlined experience that’s perfectly suited for transactional financial services.
