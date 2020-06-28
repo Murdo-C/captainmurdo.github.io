@@ -61,10 +61,10 @@ The framework below shows the flow of customer thinking and the questions we sho
 
 | First thoughts  | Situation/trigger | Decision | Consume/use |
 | ------------- | ------------- | ------------- | ------------- |
-| **⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⟶**  | **⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⟶** | **⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⟶**  | **⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⟶**  |
+| **⭢**  | **⭢** | **⭢**  | **⭢**  |
 | When did the customer start thinking they’d need a (new) solution?  | What led them to actively seek a (new) solution? | What criteria did they use to evaluate? | Did they achieve their conscious or unconscious goal? |
 | | | | 
-| **⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⟶** |  |  | **⟵⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯** |
+| **⭢** |  |  | **⭠** |
 | - What's the push of current situation? <br>- Was there a pull of new solution? | | | - Do they have a strong allegiance to a current habit? <br>- What level of anxiety do they have about the new solution? |
 
 The methods of a JTBD study are no different to those of a traditional user research and discovery phase of work. JTBD is primarily a tool for framing and understanding the customer problem. I typically use a combination of the following:
