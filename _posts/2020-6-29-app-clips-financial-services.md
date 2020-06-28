@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Financial Loops using App Clips
+title: Micro-Moments in Financial Services
 ---
 
 iOS 14 offers a new, streamlined experience that’s perfectly suited for transactional financial services.
@@ -44,7 +44,7 @@ I think this second implication is of particular importance for apps like [Squar
 
 Payment apps like Square can leverage the simplicity and interactivity of app clips to further kickstart their acquisition loops. Banks and other financial institutions should seek to identify their own micro-moments to do the same.
 
-## Building a Micro-moment for App Clips
+## Building a Micro-Moment for App Clips
 
 The lowest friction, most highly transactional user engagements are obvious initial targets for financial institutions to leverage app clips.
 
