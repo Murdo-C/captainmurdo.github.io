@@ -17,7 +17,7 @@ Here I‘ll discuss what exactly app clips are, the opportunity they provide, an
 
 ## App Clips Explained
 
-App clips are an upcoming feature of iOS 14 (likely coming in September) that allow users to temporarily use an app and all native device features (e.g. Apple Pay, camera, geolocation). App clips must be less than 10mb and are downloaded once a user scans a code, opens a URL, or taps an NFC tag - perfect for quickly unlocking a scooter or paying for parking. 
+[App clips](https://developer.apple.com/app-clips/) are an upcoming feature of iOS 14 (likely coming in September) that allow users to temporarily use an app and all native device features (e.g. Apple Pay, camera, geolocation). App clips must be less than 10mb and are downloaded once a user scans a code, opens a URL, or taps an NFC tag - perfect for quickly unlocking a scooter or paying for parking. 
 
 ![Clip flow](/images/app-clip-explained.png)
 *Apple’s explanation of an app clip user flow.*
