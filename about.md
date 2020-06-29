@@ -20,12 +20,12 @@ You should read/watch/listen to these:
 * [Sourdough](https://www.robinsloan.com/books/sourdough/) by Robin Sloan
 * [Thinking, Fast and Slow](https://scholar.princeton.edu/kahneman/publications-0) by Daniel Kahneman
 * [Her](https://letterboxd.com/film/her/) by Spike Jonze
-* [Invisiblia](https://www.npr.org/programs/invisibilia/) by NPR
+* [Invest Like the Best](http://investorfieldguide.com/podcast/) by The Investor's Field Guide
 
 I'm currently:
-* listening to [Kanye's JESUS IS KING](https://music.apple.com/gb/album/jesus-is-king/1484936940);
-* watching [Apple's Truth Be Told](https://tv.apple.com/us/show/truth-be-told/umc.cmc.6hegr60w8pjyfcblgocjek7oo); and
-* reading [Debt: The First 5000 Years by David Graeber](https://www.amazon.co.uk/Debt-First-Years-David-Graeber/dp/1612194192/).
+* listening to [BEATstrumentals](https://music.apple.com/gb/playlist/beatstrumentals/pl.f54198ad42404535be13eabf3835fb22);
+* watching [Billions](https://www.imdb.com/title/tt4270492/); and
+* reading [No Filter: The Inside Story of Instagram](https://www.nytimes.com/2020/04/14/books/review/no-filter-instagram-sarah-frier.html).
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
@@ -36,4 +36,4 @@ My favourite blogs are:
 
 ---
 
-This blog is hosted on GitHub Pages using the wonderful Jekyll and Working Copy.
+This blog is hosted on GitHub Pages and maitained using {Jekyll](https://jekyllrb.com), [iA Writer](https://ia.net/writer), and [Working Copy](https://workingcopyapp.com).
