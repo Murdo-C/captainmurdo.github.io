@@ -54,9 +54,10 @@ A few potential use cases I’ve identified include:
 - **Car insurers** add car sharing functionality so users can temporarily add a new driver for a pre-determined amount of time. The insurance confirmation can be shared using an app clip; the temporary driver is prompted to use *Sign in with Apple* and photograph the vehicle before and after their trip. 
 
 ![Concept app clips](/images/concept-clips.png)
+*Mock-ups of the potential use cases.*
 
 Each of these simplifies and enriches an existing user need and, for the stock trading and car insurance concepts, creates an acquisition loop where existing customers personally introduce the proposition to their friends and family.
 
 ## Embrace and Extend
 
-App clips provide another touch-point for financial institutions to embrace and extend. Their historically conservative approaches to mobile platforms has led to siloed apps and basic Apple / Google Pay integration. They could truly become *persistent yet invisible* if they accepted reality - that the relationship is actually between the user and their device - and adopted the extensive tools available to them (app clips, Siri / Google Assistant, widgets, messaging apps, and mobile wallets to name a few). If the incumbents don’t, it’s only a matter of time until someone else does
+App clips provide another touch-point for financial institutions to embrace and extend. Their historically conservative approaches to mobile platforms has led to siloed apps and basic Apple / Google Pay integration. They could truly become *persistent yet invisible* if they accepted reality - that the relationship is actually between the user and their device - and adopted the extensive tools available to them (app clips, Siri / Google Assistant, widgets, messaging apps, and mobile wallets to name a few). If the incumbents don’t, it’s only a matter of time until someone else does.
