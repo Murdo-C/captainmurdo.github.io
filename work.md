@@ -36,6 +36,9 @@ At the time, the company was also developing a new iOS and Android app for custo
 
 ## Customer Experience & Service Design
 
+### Service Design & Customer Experience Development #### Financial Services
+Product Owner for a reimagined derivatives and forex trading platform. I led the design of the future state customer experience, meeting regulatory requirements across three key markets, and delivered a comprehensive set of business and technology requirements to inform vendor selection. To develop and communicate the future state design, I used proposition concepts cards, detailed user flows for seven core journeys, and wireframes for the digital experience. The work drove alignment across executive level stakeholders and shaped vendor qualification by ensuring their platforms were able to deliver our ambitious design.
+
 ### User Research & Service Design 
 #### Devolved Government
 I was the user research lead for the discovery phase of a digital service design project ([Digital Marketplace opportunity information](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/5443)). At the outset I was responsible for ethics approval before conducting the user research interviews and sense-making analysis to allow the team to move into the design of the service blueprint and prototype digital catalogue.
