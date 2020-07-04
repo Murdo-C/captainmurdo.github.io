@@ -36,7 +36,8 @@ At the time, the company was also developing a new iOS and Android app for custo
 
 ## Customer Experience & Service Design
 
-### Service Design & Customer Experience Development #### Global Forex, CFD, and Cryptocurrency Broker
+### Service Design & Customer Experience Development
+#### Global Forex, CFD, and Cryptocurrency Broker
 As product owner for a reimagined derivatives and forex trading platform, I led the design of the future state customer experience. This included compliance with regulatory requirements across three key markets and a comprehensive set of business and technology requirements to inform vendor selection. 
 
 To develop and communicate the future state design, I used proposition concepts cards, detailed user flows for seven core journeys, and wireframes for the digital experience. The work drove alignment across executive level stakeholders and shaped vendor qualification by ensuring their platforms were able to deliver our ambitious design.
