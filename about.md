@@ -25,7 +25,7 @@ You should read/watch/listen to these:
 I'm currently:
 * listening to [BEATstrumentals](https://music.apple.com/gb/playlist/beatstrumentals/pl.f54198ad42404535be13eabf3835fb22);
 * watching [Billions](https://www.imdb.com/title/tt4270492/); and
-* reading [No Filter: The Inside Story of Instagram](https://www.nytimes.com/2020/04/14/books/review/no-filter-instagram-sarah-frier.html).
+* reading [Creativity, Inc.](https://www.creativityincbook.com/).
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
@@ -36,4 +36,4 @@ My favourite blogs are:
 
 ---
 
-This blog is hosted on GitHub Pages and maitained using {Jekyll](https://jekyllrb.com), [iA Writer](https://ia.net/writer), and [Working Copy](https://workingcopyapp.com).
+This blog is hosted on GitHub Pages and maitained using [Jekyll](https://jekyllrb.com), [iA Writer](https://ia.net/writer), and [Working Copy](https://workingcopyapp.com).
