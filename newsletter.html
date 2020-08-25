@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="newsletters">
+  {% for post in site.newsletters %}
+    <article class="newsletter">
+
+      <h1><a href="{{ site.baseurl }}{{ newsletter.url }}">{{ newsletter.title }}</a></h1>
+
+      <div class="entry">
+        {{ newsletter.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ newsletter.url }}" class="read-more">Read more</a>
+    </article>
+  {% endfor %}
+</div>
