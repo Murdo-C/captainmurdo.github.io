@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="newsletters">
-  {% for newsletter in site.newsletters %}
+  {% for newsletter in site.newsletters reversed %}
     <article class="newsletter">
 
       <h1><a href="{{ site.baseurl }}{{ newsletter.url }}">{{ newsletter.title }}</a></h1>
