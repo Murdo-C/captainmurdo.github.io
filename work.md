@@ -6,6 +6,20 @@ permalink: /work/
 
 I like designing and developing digital products and services. I'm usually some combination of creative strategist, service designer, user researcher, and product owner. Below is a selection of projects I've worked on.
 
+My key skills are:
+
+Discover: `Vision Definition` `Organisational Baseline`  `Personas` `Journey Mapping` `User Research`
+
+Define: `Market Analysis & Insights`  `Jobs to be Done` `Product Strategy` `Design Principles` 
+
+Design: `Proposition Concepts`  `Wireframes` `Prototypes` `Capability Mapping` `Technology Feasibility`
+
+Deliver:  `User Stories` `User Flows` `Market Sizing` `Business Cases` `Delivery Roadmap`
+
+Manage:  `Scrum` `Kano Modeling` `MoSCoW` `Workshop Facilitation` `Stakeholder Management`
+
+Tools: `Excel` `PowerPoint` `Tableau` `Visio` `Balsmiq` `Surveys` `GitHub` `Bootstrap`
+
 ---
 
 ## Business Model Strategy & Design
