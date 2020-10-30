@@ -6,21 +6,23 @@ permalink: /work/
 
 I like designing and developing digital products and services to ultimately rethink the underlying business model. I'm usually some combination of creative strategist, service designer, user researcher, and product owner. Below is a selection of projects I've worked on. 
 
-*You can find my latest resume [here](/docs/resume.pdf).*
+**You can find my latest resume [here](/docs/resume.pdf).**
+
+---
 
 My key skills are:
 
-Discover: `Vision Definition` `Organisational Baseline`  `Personas` `Journey Mapping` `User Research`
+**Discover:** `Vision Definition` `Organisational Baseline`  `Personas` `Journey Mapping` `User Research`
 
-Define: `Market Analysis & Insights`  `Jobs to be Done` `Product Strategy` `Design Principles` 
+**Define:** `Market Analysis & Insights`  `Jobs to be Done` `Product Strategy` `Design Principles` 
 
-Design: `Proposition Concepts`  `Wireframes` `Prototypes` `Capability Mapping` `Technology Feasibility`
+**Design:** `Proposition Concepts`  `Wireframes` `Prototypes` `Capability Mapping` `Technology Feasibility`
 
-Deliver:  `User Stories` `User Flows` `Market Sizing` `Business Cases` `Delivery Roadmap`
+**Deliver:**  `User Stories` `User Flows` `Market Sizing` `Business Cases` `Delivery Roadmap`
 
-Manage:  `Scrum` `Kano Modeling` `MoSCoW` `Workshop Facilitation` `Stakeholder Management`
+**Manage:**  `Scrum` `Kano Modeling` `MoSCoW` `Workshop Facilitation` `Stakeholder Management`
 
-Tools: `Excel` `PowerPoint` `Tableau` `Visio` `Balsmiq` `Surveys` `GitHub` `Bootstrap`
+**Tools:** `Excel` `PowerPoint` `Tableau` `Visio` `Balsmiq` `Surveys` `GitHub` `Bootstrap`
 
 ---
 
@@ -50,9 +52,9 @@ At the time, the company was also developing a new iOS and Android app for custo
 
 ---
 
-## Customer Experience & Service Design
+## Product Management & Service Design
 
-### Service Design & Customer Experience Development
+### Service Design & Platform Build
 #### Global Forex, CFD, and Cryptocurrency Broker
 As product owner for a reimagined derivatives and forex trading platform, I led the design of the future state customer experience. This included compliance with regulatory requirements across three key markets and a comprehensive set of business and technology requirements to inform vendor selection. 
 
