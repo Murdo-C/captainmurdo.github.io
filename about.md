@@ -26,8 +26,8 @@ You should read/watch/listen to these:
 
 I'm currently:
 * listening to [BEATstrumentals](https://music.apple.com/gb/playlist/beatstrumentals/pl.f54198ad42404535be13eabf3835fb22);
-* watching [Billions](https://www.imdb.com/title/tt4270492/); and
-* reading [Creativity, Inc.](https://www.creativityincbook.com/).
+* watching [Vikings](https://www.imdb.com/title/tt2306299/); and
+* reading [The Courage to be Disliked](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked).
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
