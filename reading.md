@@ -9,6 +9,7 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [Pre-2017](#pre-2017)
 
 ## 2020
+*30 books completed*
 
 ### Fiction
 - Norse Mythology by Neil Gaiman ⭐️
@@ -45,6 +46,7 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 - The Ride of a Lifetime by Bob Iger
 
 ## 2019
+*18 books completed*
 
 ### Fiction
 - Killing Commendatore by Haruki Murakami
@@ -69,6 +71,7 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 - Atomic Habits by James Clear ⭐️
 
 ## 2018
+*3 books completed*
 
 ### Fiction
 - Men Without Women by Haruki Murakami ⭐️
@@ -78,6 +81,7 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 - Digital Transformation at Scale: Why the Strategy Is Delivery by Public.Digital
 
 ## 2017
+*7 books completed*
 
 ### Fiction
 - Brave New World by Aldous Huxley
