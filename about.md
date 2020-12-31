@@ -8,6 +8,8 @@ permalink: /about/
 
 I help organisations rethink their customer experiences, design digital services, and adapt their business model as a result. I typically work as a strategy or product/service design lead. You can learn more about my work [here](/work.md/). I'm usually based in Edinburgh or London but my work takes me places. I pride myself on my versatility and curiosity.
 
+Throughout 2020 I ran a newsletter, <a href="https://neobanked.substack.com">Neobanked</a>, that was published on Sundays every two weeks. The archive of issues lives [here](/newsletter).
+
 I studied Actuarial Science at Heriot-Watt University in Edinburgh and have since gained my [CIMA/CGMA](https://www.cimaglobal.com/Members/Your-Membership-Information/The-CGMA-Designation/) qualification. I'm also a [ScrumMaster](https://www.scrumalliance.org/community/profile/mconnochie) and a [Saltire Scholar](https://www.hw.ac.uk/about/news/archive/2013/saltire-society-12709.htm).
 
 I enjoy technology, coffee, and podcasts.
