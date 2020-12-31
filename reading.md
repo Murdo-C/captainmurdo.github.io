@@ -6,7 +6,7 @@ permalink: /reading/
 
 I made a conscious effort to read more, and read widely, in recent years. The books I’ve read are listed here, spanning back to some unknown time (which I believe to be c.2011).
 
-[2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [Pre-2017](#Pre-2017)
+[2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [Pre-2017](#pre-2017)
 
 ## 2020
 
