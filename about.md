@@ -20,16 +20,10 @@ I live with my wife, Michelle, our two Chihuahuas, Belle and Meeko, and our cat,
 
 ## Some Recommendations
 
-You should read/watch/listen to these:
-* [Sourdough](https://www.robinsloan.com/books/sourdough/) by Robin Sloan
-* [Thinking, Fast and Slow](https://scholar.princeton.edu/kahneman/publications-0) by Daniel Kahneman
-* [Her](https://letterboxd.com/film/her/) by Spike Jonze
-* [Invest Like the Best](http://investorfieldguide.com/podcast/) by The Investor's Field Guide
-
 I'm currently:
 * listening to [BEATstrumentals](https://music.apple.com/gb/playlist/beatstrumentals/pl.f54198ad42404535be13eabf3835fb22);
 * watching [Vikings](https://www.imdb.com/title/tt2306299/); and
-* reading [The Courage to be Disliked](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked).
+* reading To Kill a Mockingbird.
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
