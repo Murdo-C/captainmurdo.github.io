@@ -10,6 +10,8 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 
 [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [Pre-2017](#pre-2017)
 
+---
+
 ## 2020
 *30 books completed*
 
@@ -47,6 +49,8 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 - No Filter by Sarah Frier
 - The Ride of a Lifetime by Bob Iger
 
+---
+
 ## 2019
 *18 books completed*
 
@@ -72,6 +76,8 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 - 12 Rules for Life by Jordan Peterson
 - Atomic Habits by James Clear ⭐️
 
+---
+
 ## 2018
 *3 books completed*
 
@@ -81,6 +87,8 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 
 ### Non-Fiction
 - Digital Transformation at Scale: Why the Strategy Is Delivery by Public.Digital
+
+---
 
 ## 2017
 *7 books completed*
@@ -95,6 +103,8 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 - Modern Romance by Aziz Ansari
 - Sapiens by Yuval Noah Harari ⭐️
 - The Establishment by Owen Jones
+
+---
 
 ## Pre-2017
 
