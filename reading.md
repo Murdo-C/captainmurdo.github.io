@@ -8,7 +8,8 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 
 ⭐️ denotes a favourite.
 
-[2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [Pre-2017](#pre-2017)
+Jump to a year:
+<center>**[2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [Pre-2017](#pre-2017)**</center>
 
 ---
 
