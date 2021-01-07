@@ -11,7 +11,7 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 ---
 
 Jump to a year:
-<b><center> [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [Pre-2017](#pre-2017) </center><b>
+<b><center> <a href="#2021">2021</a>, <a href="#2020">2020</a>, <a href="#2019">2019</a>, <a href="#2018">2018</a>, <a href="#2017">2017</a>, <a href="#pre-2017">Pre-2017</a> </center><b>
 
 ---
 
