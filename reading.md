@@ -20,7 +20,6 @@ Jump to a year:
 
 ### Fiction
 - To Kill a Mockingbird by Harper Lee
->>>>>>> origin/master
 
 ---
 
