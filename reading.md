@@ -13,10 +13,13 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 ---
 
 ## 2021
-*1 book completed*
+*2 book completed*
 
 ### Fiction
 - To Kill a Mockingbird by Harper Lee
+
+### Non-Fiction
+- Black Box Thinking by Matthew Syed
 
 ---
 
