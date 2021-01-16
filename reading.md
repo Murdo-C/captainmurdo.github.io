@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2021
-*2 book completed*
+*2 books completed*
 
 ### Fiction
 - To Kill a Mockingbird by Harper Lee
