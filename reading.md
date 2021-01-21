@@ -16,12 +16,13 @@ Jump to a year:
 ---
 
 ## 2021
-*2 books completed*
+*3 books completed*
 
 ### Fiction
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- Building a StoryBrand by Donald Miller
 - Black Box Thinking by Matthew Syed
 
 ---
