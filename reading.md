@@ -16,12 +16,13 @@ Jump to a year:
 ---
 
 ## 2021
-*3 books completed*
+*4 books completed*
 
 ### Fiction
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- Blink by Malcolm Gladwell
 - Building a StoryBrand by Donald Miller
 - Black Box Thinking by Matthew Syed
 
