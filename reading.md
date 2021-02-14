@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*4 books completed*
+*5 books completed*
 
 ### Fiction
+- Mythos by Stephen Fry
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
