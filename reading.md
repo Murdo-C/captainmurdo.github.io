@@ -30,7 +30,7 @@ Jump to a year:
 ---
 
 ## 2020
-*30 books completed*
+*29 books completed*
 
 ### Fiction
 - Norse Mythology by Neil Gaiman ⭐️
@@ -62,8 +62,7 @@ Jump to a year:
 - The Upstarts by Brad Stone
 - Disney U by Doug Lipp
 - Guns Germs & Steel by Jared Diamond ⭐️
-- The Inside Story of Instagram by Sarah Frier
-- No Filter by Sarah Frier
+- No Filter: The Inside Story of Instagram by Sarah Frier
 - The Ride of a Lifetime by Bob Iger
 
 ---
