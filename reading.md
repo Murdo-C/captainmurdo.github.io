@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*5 books completed*
+*6 books completed*
 
 ### Fiction
+- Treasure Island by Robert Louis Stevenson
 - Mythos by Stephen Fry
 - To Kill a Mockingbird by Harper Lee
 
