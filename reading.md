@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2021
-*6 books completed*
+*7 books completed*
 
 ### Fiction
 - Treasure Island by Robert Louis Stevenson
@@ -24,6 +24,7 @@ Jump to a year:
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- Outliers by Malcolm Gladwell
 - Blink by Malcolm Gladwell
 - Building a StoryBrand by Donald Miller
 - Black Box Thinking by Matthew Syed
