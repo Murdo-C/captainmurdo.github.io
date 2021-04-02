@@ -26,6 +26,23 @@ My key skills are:
 
 ---
 
+Example projects I've delivered include:
+
+- Led the design of a global trading firm’s CX redesign and requirements definition for a new retail trading platform, including the mobile app channel and future propositions.
+- Supported a mid-sized UK bank in its Banking-as-a-Service proposition development and target addressable market business case, across the UK, Ireland, and Australia.
+- Assisted a US-based software firm’s UK and Ireland market entry planning and sales approach for major UK banks.
+- Supported a top 10 UK Building Society in the conceptualisation and design of a future business model, including market sizing and capability requirements.
+- Assisted a top 5 UK Building Society to determine its core competitive advantage and future business model options.
+- Assisted a top 10 UK Building Society review their strategy and operating model to establish a sustainable business model. Scope of work identified key market partipcation decisions and shaped a 3 year digital transformation.
+- Supported a UK SME-focussed FinTech through the development of their funding application. Guided them through requirements definition for the business case, value proposition development, and structured analysis of implementation and partnerships resulting in a successful application and £10m in funding.
+- Assisted a top 10 UK Building Society design their broker service model and pilot approach to allow them to generate a sustainable distribution pipeline. Scope included key market drivers, capability requirements, and voice of the broker interviews.
+- Assessed the readiness of a large UK Bank’s business banking programme and the delivery of required customer outcomes. Scope included customer experience, operational delivery, technology deployment, and regulatory requirements.
+- Designed a top 10 UK Building Society’s future state savings customer experience based on market analysis, customer segmentation, and trends in service design. Scope included online and offline channels and identified the technology and capabilities required to design, build, and implement the target state.
+- Led the research and design of a digital platform strategy and prototype for a national government, including development of proposition, engagement model, and target state service design.
+- Assisted a UK airport to develop their digital customer experience strategy and investment roadmap to meet customer requirements and keep pace with market innovation.
+
+---
+
 ## Business Model Strategy & Design
 
 ### Future Business Model Creation
