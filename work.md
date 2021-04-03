@@ -4,19 +4,19 @@ title: Work
 permalink: /work/
 ---
 
-I like designing and developing digital products and services to ultimately rethink the underlying business model. I'm usually some combination of creative strategist, service designer, user researcher, and product manager. Below is a selection of projects I've worked on. 
+I like designing and developing digital products and services to ultimately rethink the underlying business model. I'm usually some combination of creative strategist, product manager, service designer, and user researcher.
 
 **You can find my latest resume [here](/docs/resume.pdf).**
 
 ---
 
-My key skills are:
+## Key Skills
 
 **Discover:** `Vision Definition` `Organisational Baseline`  `Personas` `Journey Mapping` `User Research`
 
-**Define:** `Market Analysis & Insights`  `Jobs to be Done` `Product Strategy` `Design Principles` 
+**Define:** `Market Analysis & Insights` `Jobs to be Done` `Product Strategy` `Design Principles` 
 
-**Design:** `Proposition Concepts`  `Wireframes` `Prototypes` `Capability Mapping` `Technology Feasibility`
+**Design:** `Proposition Concepts` `Wireframes` `Prototypes` `Capability Mapping` `Technology Feasibility`
 
 **Deliver:**  `User Stories` `User Flows` `Market Sizing` `Business Cases` `Delivery Roadmap`
 
@@ -26,28 +26,28 @@ My key skills are:
 
 ---
 
-Example projects I've delivered include:
+## Example Projects
 
-- Led the design of a global trading firm’s CX redesign and requirements definition for a new retail trading platform, including the mobile app channel and future propositions.
-- Supported a mid-sized UK bank in its Banking-as-a-Service proposition development and target addressable market business case, across the UK, Ireland, and Australia.
-- Assisted a US-based software firm’s UK and Ireland market entry planning and sales approach for major UK banks.
-- Supported a top 10 UK Building Society in the conceptualisation and design of a future business model, including market sizing and capability requirements.
-- Assisted a top 5 UK Building Society to determine its core competitive advantage and future business model options.
-- Assisted a top 10 UK Building Society review their strategy and operating model to establish a sustainable business model. Scope of work identified key market partipcation decisions and shaped a 3 year digital transformation.
-- Supported a UK SME-focussed FinTech through the development of their funding application. Guided them through requirements definition for the business case, value proposition development, and structured analysis of implementation and partnerships resulting in a successful application and £10m in funding.
-- Assisted a top 10 UK Building Society design their broker service model and pilot approach to allow them to generate a sustainable distribution pipeline. Scope included key market drivers, capability requirements, and voice of the broker interviews.
-- Assessed the readiness of a large UK Bank’s business banking programme and the delivery of required customer outcomes. Scope included customer experience, operational delivery, technology deployment, and regulatory requirements.
-- Designed a top 10 UK Building Society’s future state savings customer experience based on market analysis, customer segmentation, and trends in service design. Scope included online and offline channels and identified the technology and capabilities required to design, build, and implement the target state.
-- Led the research and design of a digital platform strategy and prototype for a national government, including development of proposition, engagement model, and target state service design.
-- Assisted a UK airport to develop their digital customer experience strategy and investment roadmap to meet customer requirements and keep pace with market innovation.
+*Click links for detailed case studies.*
+
+- <a href="##CX Design & Platform Build">**CX / Product Design:**</a> Led the design of a global trading firm’s CX redesign and requirements definition for a new retail trading platform, including the mobile app channel and future propositions.
+- **Product Strategy:** Supported a mid-sized UK bank in its Banking-as-a-Service proposition development and target addressable market business case, across the UK, Ireland, and Australia.
+- **Market Analysis:** Assisted a US-based software firm’s UK and Ireland market entry planning and sales approach for major UK banks.
+- **Business Model Design:** Supported a top 10 UK Building Society in the conceptualisation and design of a future business model, including market sizing and capability requirements.
+- **Market Analysis**: Assisted a top 5 UK Building Society to determine its core competitive advantage and future business model options.
+- <a href="##Strategy & Customer Proposition Development">**Strategy Definition:**</a>  Assisted a top 10 UK Building Society review their strategy and operating model to establish a sustainable business model. Scope of work identified key market partipcation decisions and shaped a 3 year digital transformation.
+- **Business Case:** Supported a UK SME-focussed FinTech through the development of their funding application. Guided them through requirements definition for the business case, value proposition development, and structured analysis of implementation and partnerships resulting in a successful application and £10m in funding.
+- **Service Design:** Assisted a top 10 UK Building Society design their broker service model and pilot approach to allow them to generate a sustainable distribution pipeline. Scope included key market drivers, capability requirements, and voice of the broker interviews.
+- **Launch Readiness:** Assessed the readiness of a large UK Bank’s business banking programme and the delivery of required customer outcomes. Scope included customer experience, operational delivery, technology deployment, and regulatory requirements.
+- **CX Design:** Designed a top 10 UK Building Society’s future state savings customer experience based on market analysis, customer segmentation, and trends in service design. Scope included online and offline channels and identified the technology and capabilities required to design, build, and implement the target state.
+- <a href="##User Research & Service Design">**Service Design:**</a>  Led the research and design of a digital platform strategy and prototype for a national government, including development of proposition, engagement model, and target state service design.
+- **Customer Strategy:** Assisted a UK airport to develop their digital customer experience strategy and investment roadmap to meet customer requirements and keep pace with market innovation.
 
 ---
 
-## Business Model Strategy & Design
+## Case Studies
 
-### Future Business Model Creation
-#### Large UK Building Society
-I was the lead Strategy Manager for a strategic insights project, which initially focused on benchmarking capabilities and KPIs against a wide-ranging peer group. Our team then developed over 20 future business models for the mortgages and savings markets, including critical success factors and required capabilities, to support the client's strategic refresh. This allowed us to rapidly filter the models based on alignment to purpose, imperatives, and capabilities and arrive at a shortlist for further development.
+## Strategy
 
 ### Strategy & Customer Proposition Development
 #### Large UK Building Society
@@ -71,11 +71,13 @@ At the time, the company was also developing a new iOS and Android app for custo
 
 ## Product Management & Service Design
 
-### Service Design & Platform Build
+### CX Design & Platform Build
 #### Global Forex, CFD, and Cryptocurrency Broker
 As product owner for a reimagined derivatives and forex trading platform, I led the design of the future state customer experience. This included compliance with regulatory requirements across three key markets and a comprehensive set of business and technology requirements to inform vendor selection. 
 
 To develop and communicate the future state design, I used proposition concepts cards, detailed user flows for seven core journeys, and wireframes for the digital experience. The work drove alignment across executive level stakeholders and shaped vendor qualification by ensuring their platforms were able to deliver our ambitious design.
+
+Currently delivering the changes identified and detailed product design, working with the Chief Transformation Officer and two technology delivery partners to fundamentally rethink their value proposition and launch a differentiated iOS app.
 
 ### User Research & Service Design 
 #### Devolved Government
@@ -84,24 +86,6 @@ I was the user research lead for the discovery phase of a digital service design
 Once we completed our discovery phase I transitioned to service design lead, supported by a team of four business analysts, two designers and a technical architect. I led them through the agile delivery of the prototype digital catalogue, including requirements gathering, mock-ups and Axure RP wireframe builds, iterating this based on further user testing and ultimately delivering a detailed service design. I used the the Value Proposition Canvas and Business Model Canvas (see [Strategyzer](https://strategyzer.com/canvas)) as the basis for the service design and delivery model.
 
 The service and catalogue were designed and built using the [Scottish Approach to Service Design](http://designwithscotland.scot), the mygov.scot [Design Standards](https://resources.mygov.scot/design-standards/) and the UK Government Digital Services's [Digital Service Standard](https://www.gov.uk/service-manual/service-standard). Throughout the project we used tools like personas, journey mapping and sense-making to conduct our research, requirements gathering and user stories for the technical build and communicated our findings to the organisation through show and tells and our research wall. The final prototype catalogue was built in HTML, CSS, and JS using Bootstrap.
-
-### Business Analysis & Service Design 
-#### Local Authority
-As the business analyst for a digital transformation pilot for children's service, I facilitated workshops in order to map and document various user journeys and service processes to understand the key pain points. Following this analysis, I supported the service design and business case development using Lean's waste principles as the basis for cost/benefit analysis.
-
-Working with a mobility solutions provider, we designed the future vision for children's services within the local authority and performed a pilot to test the business case. The pilot demonstrated a reduction in the average health visit of 20%, with a further 60% identified for validation in future phases. Our solution was approved for further roll-out and additional analysis to understand the case for further system integration. 
-
-### Customer Experience & Operational Readiness Assurance 
-#### Major UK Bank
-As the UK banking market continues to go through a major shake-up, one of the largest banks asked for a review of their latest product launch - ensuring regulatory compliance, operational readiness and a well-designed customer experience. As the Customer Experience specialist for the project, I challenged the bank's design and delivery teams to ensure each aspect of the customer journey had been thoughtfully considered and was supported by the necessary business processes and technology. 
-
-My observations and recommendations, framed through the core customer journey, were used to demonstrate to the regulator that the bank had effectively designed the solution and that any identified gaps would be addressed in the remaining development time.
-
-### User Experience Review & Business Case Development 
-#### Social Housing Association
-Throughout this project I was user experience lead. I developed a collection of user personas based on current state customer journey mapping, user research interviews and user observations. From this, our team analysed the key user pain points and motiviations to articulate a vision for the organisation's future digital strategy. The outline business cases we developed estimated over £1m in savings per annum and the [transformation programme](https://www.contractsfinder.service.gov.uk/Notice/ac392d08-aa10-4ca1-af40-72faee16d3cb?p=@8=UFQxUlRRPT0=NjJNT0) was approved by the executive team on this basis.
-
-I also delivered a comprehensive usability review of the organisation's desktop and mobile (iOS and Android) web experiences, providing comparison to their peer group and recommendations to align with good practice UX. This was based on key user stories and includes aspects such as accessibility, performance and content design.
 
 ---
 
