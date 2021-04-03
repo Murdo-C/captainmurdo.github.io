@@ -22,8 +22,8 @@ I live with my wife, Michelle, our two Chihuahuas, Belle and Meeko, and our cat,
 
 I'm currently:
 * listening to [BEATstrumentals](https://music.apple.com/gb/playlist/beatstrumentals/pl.f54198ad42404535be13eabf3835fb22);
-* watching [Vikings](https://www.imdb.com/title/tt2306299/); and
-* reading To Kill a Mockingbird.
+* watching [The Tudors](https://www.imdb.com/title/tt0758790/); and
+* reading Beyond Order by Jordan Peterson.
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
