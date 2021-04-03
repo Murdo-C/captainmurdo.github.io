@@ -30,17 +30,17 @@ I like designing and developing digital products and services to ultimately reth
 
 *Click links for detailed case studies.*
 
-- <a href="# CX Design & Platform Build">**CX / Product Design:**</a> Led the design of a global trading firm’s CX redesign and requirements definition for a new retail trading platform, including the mobile app channel and future propositions.
+- [**CX / Product Design:**](#prod) Led the design of a global trading firm’s CX redesign and requirements definition for a new retail trading platform, including the mobile app channel and future propositions.
 - **Product Strategy:** Supported a mid-sized UK bank in its Banking-as-a-Service proposition development and target addressable market business case, across the UK, Ireland, and Australia.
 - **Market Analysis:** Assisted a US-based software firm’s UK and Ireland market entry planning and sales approach for major UK banks.
 - **Business Model Design:** Supported a top 10 UK Building Society in the conceptualisation and design of a future business model, including market sizing and capability requirements.
 - **Market Analysis**: Assisted a top 5 UK Building Society to determine its core competitive advantage and future business model options.
-- <a href="# Strategy & Customer Proposition Development">**Strategy Definition:**</a>  Assisted a top 10 UK Building Society review their strategy and operating model to establish a sustainable business model. Scope of work identified key market partipcation decisions and shaped a 3 year digital transformation.
+- [**Strategy Definition:**](#strat) Assisted a top 10 UK Building Society review their strategy and operating model to establish a sustainable business model. Scope of work identified key market partipcation decisions and shaped a 3 year digital transformation.
 - **Business Case:** Supported a UK SME-focussed FinTech through the development of their funding application. Guided them through requirements definition for the business case, value proposition development, and structured analysis of implementation and partnerships resulting in a successful application and £10m in funding.
 - **Service Design:** Assisted a top 10 UK Building Society design their broker service model and pilot approach to allow them to generate a sustainable distribution pipeline. Scope included key market drivers, capability requirements, and voice of the broker interviews.
 - **Launch Readiness:** Assessed the readiness of a large UK Bank’s business banking programme and the delivery of required customer outcomes. Scope included customer experience, operational delivery, technology deployment, and regulatory requirements.
 - **CX Design:** Designed a top 10 UK Building Society’s future state savings customer experience based on market analysis, customer segmentation, and trends in service design. Scope included online and offline channels and identified the technology and capabilities required to design, build, and implement the target state.
-- <a href="# User Research & Service Design">**Service Design:**</a>  Led the research and design of a digital platform strategy and prototype for a national government, including development of proposition, engagement model, and target state service design.
+- [**Service Design:**](#sd)  Led the research and design of a digital platform strategy and prototype for a national government, including development of proposition, engagement model, and target state service design.
 - **Customer Strategy:** Assisted a UK airport to develop their digital customer experience strategy and investment roadmap to meet customer requirements and keep pace with market innovation.
 
 ---
@@ -49,7 +49,7 @@ I like designing and developing digital products and services to ultimately reth
 
 ## Strategy
 
-### Strategy & Customer Proposition Development
+### Strategy & Customer Proposition Development <a name="strat"></a>
 #### Large UK Building Society
 I was the Customer Insights and Strategy Manager for a corporate strategy development project at a top ten UK building society; my role was to bring a deep understanding of customer behaviour and digital proposition development, and in particular highlighting the strategies of the UK’s innovative financial services start-ups.
 
@@ -71,7 +71,7 @@ At the time, the company was also developing a new iOS and Android app for custo
 
 ## Product Management & Service Design
 
-### CX Design & Platform Build
+### CX Design & Platform Build <a name="prod"></a>
 #### Global Forex, CFD, and Cryptocurrency Broker
 As product owner for a reimagined derivatives and forex trading platform, I led the design of the future state customer experience. This included compliance with regulatory requirements across three key markets and a comprehensive set of business and technology requirements to inform vendor selection. 
 
@@ -79,7 +79,7 @@ To develop and communicate the future state design, I used proposition concepts 
 
 Currently delivering the changes identified and detailed product design, working with the Chief Transformation Officer and two technology delivery partners to fundamentally rethink their value proposition and launch a differentiated iOS app.
 
-### User Research & Service Design 
+### User Research & Service Design <a name="sd"></a>
 #### Devolved Government
 I was the user research lead for the discovery phase of a digital service design project ([Digital Marketplace opportunity information](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/5443)). At the outset I was responsible for ethics approval before conducting the user research interviews and sense-making analysis to allow the team to move into the design of the service blueprint and prototype digital catalogue.
 
