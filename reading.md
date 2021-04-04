@@ -24,6 +24,7 @@ Jump to a year:
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- Beyond Order by Jordan B. Peterson
 - Nudge by Thaler & Sustein
 - Outliers by Malcolm Gladwell
 - Blink by Malcolm Gladwell
@@ -92,7 +93,7 @@ Jump to a year:
 - Think Again: How to Reason and Argue by Walter Sinnott-Armstrong
 - The Checklist Manifesto by Atul Gawande
 - Digital Minimalism by Cal Newport
-- 12 Rules for Life by Jordan Peterson
+- 12 Rules for Life by Jordan B. Peterson
 - Atomic Habits by James Clear ⭐️
 
 ---
