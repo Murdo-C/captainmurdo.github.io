@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2021
-*8 books completed*
+*9 books completed*
 
 ### Fiction
 - Treasure Island by Robert Louis Stevenson
