@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*9 books completed*
+*10 books completed*
 
 ### Fiction
+- Heroes by Stephen Fry
 - Treasure Island by Robert Louis Stevenson
 - Mythos by Stephen Fry
 - To Kill a Mockingbird by Harper Lee
