@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2021
-*10 books completed*
+*11 books completed*
 
 ### Fiction
 - Heroes by Stephen Fry
@@ -25,6 +25,7 @@ Jump to a year:
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- An Astronaut's Guide to Life on Earth by Chris Hadfield
 - Beyond Order by Jordan B. Peterson
 - Nudge by Thaler & Sustein
 - Outliers by Malcolm Gladwell
