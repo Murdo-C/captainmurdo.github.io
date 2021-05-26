@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*11 books completed*
+*12 books completed*
 
 ### Fiction
+- Artemis by Andy Weir
 - Heroes by Stephen Fry
 - Treasure Island by Robert Louis Stevenson
 - Mythos by Stephen Fry
