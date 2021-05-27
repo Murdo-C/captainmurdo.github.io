@@ -8,7 +8,7 @@ I like designing and developing digital products and services to ultimately reth
 
 **You can find my latest resume [here](/docs/resume.pdf).**
 
-In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an iMessage sticker app based on r/wallstreetbets memes. Launching weeks before the initial GameStop sage, it ultimately reached Top 50 in the iMessage app store.
+In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an iMessage sticker app based on r/wallstreetbets memes. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage app store.
 
 ---
 
@@ -16,7 +16,7 @@ In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an
 
 **Discover:** `Vision Definition` `Organisational Baseline`  `Personas` `Journey Mapping` `User Research`
 
-**Define:** `Market Analysis & Insights` `Jobs to be Done` `Product Strategy` `Design Principles` 
+**Define:** `Market Analysis & Insights` `Jobs to be Done` `Product Strategy` `Design Principles` `OKRs`
 
 **Design:** `Proposition Concepts` `Wireframes` `Prototypes` `Capability Mapping` `Technology Feasibility`
 
