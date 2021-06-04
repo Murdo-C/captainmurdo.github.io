@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*12 books completed*
+*13 books completed*
 
 ### Fiction
+- Ready Player One by Ernest Cline ⭐️
 - Artemis by Andy Weir
 - Heroes by Stephen Fry
 - Treasure Island by Robert Louis Stevenson
