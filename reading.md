@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2021
-*14 books completed*
+*15 books completed*
 
 ### Fiction
 - Ready Player One by Ernest Cline ⭐️
@@ -27,6 +27,7 @@ Jump to a year:
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- Red Notice by Bill Browder ⭐️
 - Reality is Not What it Seems by Carlo Rovelli
 - An Astronaut's Guide to Life on Earth by Chris Hadfield
 - Beyond Order by Jordan B. Peterson
