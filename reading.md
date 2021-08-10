@@ -16,14 +16,23 @@ Jump to a year:
 ---
 
 ## 2021
-*8 books completed*
+*17 books completed*
 
 ### Fiction
+- Ready Player One by Ernest Cline ⭐️
+- Artemis by Andy Weir
+- Heroes by Stephen Fry
 - Treasure Island by Robert Louis Stevenson
 - Mythos by Stephen Fry
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- The Madness of Crowds by Douglas Murray
+- No Easy Day by Mark Owen
+- Red Notice by Bill Browder ⭐️
+- Reality is Not What it Seems by Carlo Rovelli
+- An Astronaut's Guide to Life on Earth by Chris Hadfield
+- Beyond Order by Jordan B. Peterson
 - Nudge by Thaler & Sustein
 - Outliers by Malcolm Gladwell
 - Blink by Malcolm Gladwell
@@ -92,7 +101,7 @@ Jump to a year:
 - Think Again: How to Reason and Argue by Walter Sinnott-Armstrong
 - The Checklist Manifesto by Atul Gawande
 - Digital Minimalism by Cal Newport
-- 12 Rules for Life by Jordan Peterson
+- 12 Rules for Life by Jordan B. Peterson
 - Atomic Habits by James Clear ⭐️
 
 ---
