@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2021
-*17 books completed*
+*18 books completed*
 
 ### Fiction
 - Ready Player One by Ernest Cline ⭐️
@@ -27,6 +27,7 @@ Jump to a year:
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- Antifragile by Nassim Nicholas Taleb
 - The Madness of Crowds by Douglas Murray
 - No Easy Day by Mark Owen
 - Red Notice by Bill Browder ⭐️
