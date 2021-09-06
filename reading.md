@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*18 books completed*
+*19 books completed*
 
 ### Fiction
+- Project Hail Mary by Andy Weir ⭐️
 - Ready Player One by Ernest Cline ⭐️
 - Artemis by Andy Weir
 - Heroes by Stephen Fry
