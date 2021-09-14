@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2021
-*19 books completed*
+*20 books completed*
 
 ### Fiction
 - Project Hail Mary by Andy Weir ⭐️
@@ -28,6 +28,7 @@ Jump to a year:
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- Fooled by Randomness by Nassim Nicholas Taleb
 - Antifragile by Nassim Nicholas Taleb
 - The Madness of Crowds by Douglas Murray
 - No Easy Day by Mark Owen
