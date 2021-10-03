@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*20 books completed*
+*21 books completed*
 
 ### Fiction
+- Remains of the Day by Kazou Ishiguro
 - Project Hail Mary by Andy Weir ⭐️
 - Ready Player One by Ernest Cline ⭐️
 - Artemis by Andy Weir
