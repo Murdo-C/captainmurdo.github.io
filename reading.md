@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*21 books completed*
+*22 books completed*
 
 ### Fiction
+- Flowers for Algernon by Daniel Keyes
 - Remains of the Day by Kazou Ishiguro
 - Project Hail Mary by Andy Weir ⭐️
 - Ready Player One by Ernest Cline ⭐️
