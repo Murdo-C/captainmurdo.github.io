@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2021
-*22 books completed*
+*23 books completed*
 
 ### Fiction
 - Flowers for Algernon by Daniel Keyes
@@ -30,6 +30,7 @@ Jump to a year:
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- The Obstacle is the Way by Ryan Holiday
 - Fooled by Randomness by Nassim Nicholas Taleb
 - Antifragile by Nassim Nicholas Taleb
 - The Madness of Crowds by Douglas Murray
