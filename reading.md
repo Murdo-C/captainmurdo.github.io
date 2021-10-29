@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*23 books completed*
+*24 books completed*
 
 ### Fiction
+- Dark Matter by Blake Crouch
 - Flowers for Algernon by Daniel Keyes
 - Remains of the Day by Kazou Ishiguro
 - Project Hail Mary by Andy Weir ⭐️
