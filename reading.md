@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*24 books completed*
+*25 books completed*
 
 ### Fiction
+- The Midnight Library by Matt Haig ⭐️
 - Dark Matter by Blake Crouch ⭐️
 - Flowers for Algernon by Daniel Keyes
 - Remains of the Day by Kazou Ishiguro
