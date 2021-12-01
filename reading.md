@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*25 books completed*
+*26 books completed*
 
 ### Fiction
+- The Three-Body Problem by Cixin Liu ⭐️
 - The Midnight Library by Matt Haig ⭐️
 - Dark Matter by Blake Crouch ⭐️
 - Flowers for Algernon by Daniel Keyes
