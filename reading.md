@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*26 books completed*
+*27 books completed*
 
 ### Fiction
+- LaserWriter II: A Novel by Tamara Shopsin
 - The Three-Body Problem by Cixin Liu ⭐️
 - The Midnight Library by Matt Haig ⭐️
 - Dark Matter by Blake Crouch ⭐️
