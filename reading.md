@@ -16,9 +16,16 @@ Jump to a year:
 ---
 
 ## 2021
-*17 books completed*
+*27 books completed*
 
 ### Fiction
+- LaserWriter II: A Novel by Tamara Shopsin
+- The Three-Body Problem by Cixin Liu ⭐️
+- The Midnight Library by Matt Haig ⭐️
+- Dark Matter by Blake Crouch ⭐️
+- Flowers for Algernon by Daniel Keyes
+- Remains of the Day by Kazou Ishiguro
+- Project Hail Mary by Andy Weir ⭐️
 - Ready Player One by Ernest Cline ⭐️
 - Artemis by Andy Weir
 - Heroes by Stephen Fry
@@ -27,6 +34,9 @@ Jump to a year:
 - To Kill a Mockingbird by Harper Lee
 
 ### Non-Fiction
+- The Obstacle is the Way by Ryan Holiday
+- Fooled by Randomness by Nassim Nicholas Taleb
+- Antifragile by Nassim Nicholas Taleb
 - The Madness of Crowds by Douglas Murray
 - No Easy Day by Mark Owen
 - Red Notice by Bill Browder ⭐️
