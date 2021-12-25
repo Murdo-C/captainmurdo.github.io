@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2021
-*27 books completed*
+*28 books completed*
 
 ### Fiction
+- The Dark Forest by Cixin Liu
 - LaserWriter II: A Novel by Tamara Shopsin
 - The Three-Body Problem by Cixin Liu ⭐️
 - The Midnight Library by Matt Haig ⭐️
