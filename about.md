@@ -6,7 +6,7 @@ permalink: /about/
 
 **I'm a creative strategist and product manager who specialises in venture building and business model design.**
 
-I help organisations rethink their customer experiences, design digital services, and adapt their business model as a result. I typically work as a strategy or product/service design lead. You can learn more about my work [here](/work.md/). I'm based in Toronto, Canada  but my work takes me places. I pride myself on my versatility and curiosity.
+I help organisations rethink their customer experiences, design digital services, and adapt their business model as a result. I typically work as a strategy or product/service design lead. You can learn more about my work [here](/work.md/). I'm based in Toronto, Canada but my work takes me places. I pride myself on my versatility and curiosity.
 
 Throughout 2020 I ran a newsletter, <a href="https://neobanked.substack.com">Neobanked</a>, that was published on Sundays every two weeks. The archive of issues lives [here](/newsletter).
 
@@ -14,16 +14,16 @@ I studied Actuarial Science at Heriot-Watt University in Edinburgh and have sinc
 
 I enjoy technology, coffee, and podcasts.
 
-I live with my wife, Michelle, our two Chihuahuas, Belle and Meeko.
+I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko.
 
 ---
 
 ## Some Recommendations
 
 I'm currently:
-* listening to [BEATstrumentals](https://music.apple.com/gb/playlist/beatstrumentals/pl.f54198ad42404535be13eabf3835fb22);
-* watching [Ted Lasso](https://www.imdb.com/title/tt10986410/); and
-* reading Antifragile by Nassim Nicholas Taleb.
+* listening to [Poolsuite FM](https://poolsuite.net);
+* watching [Hawkeye](https://disneyplus.com/series/hawkeye/11Zy8m9Dkj5l?sharesource=iOS); and
+* reading [Dark Forest](https://www.goodreads.com/en/book/show/23168817-the-dark-forest) by Liu Cixin.
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
