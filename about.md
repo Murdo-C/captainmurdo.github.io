@@ -22,8 +22,8 @@ I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko.
 
 I'm currently:
 * listening to [Poolsuite FM](https://poolsuite.net);
-* watching [Hawkeye](https://disneyplus.com/series/hawkeye/11Zy8m9Dkj5l?sharesource=iOS); and
-* reading [Dark Forest](https://www.goodreads.com/en/book/show/23168817-the-dark-forest) by Liu Cixin.
+* watching [The Leftovers](https://www.imdb.com/title/tt2699128/); and
+* reading [Death's End](https://www.goodreads.com/en/book/show/25451264) by Liu Cixin.
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
