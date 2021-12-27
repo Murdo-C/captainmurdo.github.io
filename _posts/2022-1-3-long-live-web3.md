@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Web (2.0) is dead, long live the web3
+title: The Web is dead, long live the web3
 ---
 
 There’s an unbelievable amount of creation going on right now.
