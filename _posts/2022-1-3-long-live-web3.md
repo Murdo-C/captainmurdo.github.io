@@ -37,4 +37,4 @@ I’ll admit - part of the excitement of this may be the novelty and gold rush. 
 
 But…
 
-Soon the real world impact of projects will become apparent - it could be financially with [KLIMA](https://dapp.klimadao.finance/#/stake) or [BACON](https://www.baconcoin.com), culturally with [BAYC](https://boardroom.tv/bored-ape-nft-celebrity-owners/)[](https://boardroom.tv/bored-ape-nft-celebrity-owners/), or politically with [CityCoins](https://www.citycoins.co/nyccoin). And it’s hard not to be excited a brave new world!
+Soon the real world impact of projects will become apparent - it could be financially with [KLIMA](https://dapp.klimadao.finance/#/stake) or [BACON](https://www.baconcoin.com), culturally with [BAYC](https://boardroom.tv/bored-ape-nft-celebrity-owners/)[](https://boardroom.tv/bored-ape-nft-celebrity-owners/), or politically with [CityCoins](https://www.citycoins.co/nyccoin). And it’s hard not to be excited about this brave new world!
