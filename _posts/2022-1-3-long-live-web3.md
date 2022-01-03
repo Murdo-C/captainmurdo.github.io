@@ -23,7 +23,7 @@ These aren’t new meme coins or pixelated profile pictures. These are engaged c
 
 I’ve spent more than I wish to admit on various profile picture-based communities / memberships (Woodies, Grim Syndicate, and ThorGuards to name a few). Each is seeking to share the collective value of the associated IP in different ways but the community within each is welcoming, supportive, and knowledgable. [Woodies](https://www.woodiesnft.com) raised [$217,000](https://trees.org/post/woodiesnft/) for woodland charities and has created a phone-based AR game to get the community active outdoors; the Grim Syndicate has released the original art files for user owned Grims, resulting in dozens of remixes and riffs; [ThorGuards](https://www.thorguards.com) is granting users exclusive access to new DeFi projects.
 
-And using these tools unlocks memorable experiences that genuinely improve accessibility and reduce the friction to use new services. With wallets acting as the core block for web3 activity, users can try new services with a simple QR code scan.
+And using these tools unlocks memorable experiences that genuinely improve accessibility and reduce the friction to use new services. With wallets acting as the core block for web3 activity, users can try new services with a simple QR code scan or 'connect' permission.
 
 ![MetaMask Login flow](/images//mm-login.gif)
 
