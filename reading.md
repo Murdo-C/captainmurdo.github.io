@@ -16,7 +16,10 @@ Jump to a year:
 ---
 
 ## 2022
-*1 book completed*
+*2 books completed*
+
+### Fiction
+- Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
 - Replacing Guilt: Minding Our Way by Nate Soares
