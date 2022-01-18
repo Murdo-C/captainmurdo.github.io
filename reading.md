@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2022
-*2 books completed*
+*3 books completed*
 
 ### Fiction
+- Klara and the Sun by Kazuo Ishiguro
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
