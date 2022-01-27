@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2022
-*3 books completed*
+*4 books completed*
 
 ### Fiction
+- First Person Singular by Haruki Murakami
 - Klara and the Sun by Kazuo Ishiguro
 - Death's End by Cixin Liu ⭐️
 
