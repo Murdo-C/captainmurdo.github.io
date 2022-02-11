@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2022
-*5 books completed*
+*6 books completed*
 
 ### Fiction
 - First Person Singular by Haruki Murakami
@@ -24,6 +24,7 @@ Jump to a year:
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
+- Breath by James Nestor
 - Ego is the Enemy by Ryan Holiday
 - Replacing Guilt: Minding Our Way by Nate Soares
 
