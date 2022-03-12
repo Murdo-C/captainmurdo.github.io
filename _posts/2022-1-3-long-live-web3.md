@@ -25,7 +25,7 @@ I’ve spent more than I wish to admit on various profile picture-based communit
 
 And using these tools unlocks memorable experiences that genuinely improve accessibility and reduce the friction to use new services. With wallets acting as the core block for web3 activity, users can try new services with a simple QR code scan or 'connect' permission.
 
-![MetaMask Login flow](/images//mm-login.gif)
+![MetaMask Login flow](/images/mm-login.gif)
 
 Look at that magic. A user can go from never using a service before to loading all their transaction history and ownership entitlements, quicker than you can say Open Banking.
 
