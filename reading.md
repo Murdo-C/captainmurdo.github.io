@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2022
-*8 books completed*
+*9 books completed*
 
 ### Fiction
 - First Person Singular by Haruki Murakami
@@ -24,6 +24,7 @@ Jump to a year:
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
+- Digital Minimalism by Cal Newport
 - Seven Brief Lessons on Physics by Carlo Rovelli
 - Four Thousand Weeks by Oliver Burkeman
 - Breath by James Nestor ⭐️
