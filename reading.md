@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2022
-*9 books completed*
+*10 books completed*
 
 ### Fiction
+- Mr Penumbra’s 24 Hour Bookstore by Robin Sloan ⭐️
 - First Person Singular by Haruki Murakami
 - Klara and the Sun by Kazuo Ishiguro
 - Death's End by Cixin Liu ⭐️
