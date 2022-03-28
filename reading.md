@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2022
-*10 books completed*
+*11 books completed*
 
 ### Fiction
 - Mr Penumbra’s 24 Hour Bookstore by Robin Sloan ⭐️
@@ -25,6 +25,7 @@ Jump to a year:
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
+- Alone on the Wall by Alex Honnold
 - Digital Minimalism by Cal Newport
 - Seven Brief Lessons on Physics by Carlo Rovelli
 - Four Thousand Weeks by Oliver Burkeman
