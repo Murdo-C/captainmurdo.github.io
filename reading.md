@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2022
-*11 books completed*
+*12 books completed*
 
 ### Fiction
+- Never Let Me Go by Kazou Ishiguro
 - Mr Penumbra’s 24 Hour Bookstore by Robin Sloan ⭐️
 - First Person Singular by Haruki Murakami
 - Klara and the Sun by Kazuo Ishiguro
