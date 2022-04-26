@@ -22,8 +22,8 @@ I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko.
 
 I'm currently:
 * listening to [Poolsuite FM](https://poolsuite.net);
-* watching [The Leftovers](https://www.imdb.com/title/tt2699128/); and
-* reading [Death's End](https://www.goodreads.com/en/book/show/25451264) by Liu Cixin.
+* watching [Moon Knight](https://disneyplus.com/series/moon-knight/4S3oOF1knocS?sharesource=iOS); and
+* reading [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by Matthew Walker.
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
