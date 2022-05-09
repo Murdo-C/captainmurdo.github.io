@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2022
-*12 books completed*
+*13 books completed*
 
 ### Fiction
 - Never Let Me Go by Kazou Ishiguro
@@ -26,6 +26,7 @@ Jump to a year:
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
+- Why We Sleep by Matthew Walker
 - Alone on the Wall by Alex Honnold
 - Digital Minimalism by Cal Newport
 - Seven Brief Lessons on Physics by Carlo Rovelli
