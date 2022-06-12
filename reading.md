@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2022
-*14 books completed*
+*15 books completed*
 
 ### Fiction
 - Never Let Me Go by Kazou Ishiguro
@@ -26,6 +26,7 @@ Jump to a year:
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
+- Build by Tony Fadell
 - The Order of Time by Carlo Rovelli
 - Why We Sleep by Matthew Walker
 - Alone on the Wall by Alex Honnold
