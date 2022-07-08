@@ -19,7 +19,7 @@ Jump to a year:
 *17 books completed*
 
 ### Fiction
-- Reap3r by Eliot Peper
+- Reap3r by Eliot Peper ⭐️
 - Never Let Me Go by Kazou Ishiguro
 - Mr Penumbra’s 24 Hour Bookstore by Robin Sloan ⭐️
 - First Person Singular by Haruki Murakami
