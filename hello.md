@@ -18,7 +18,7 @@ I enjoy 📱, ☕️, 🎙, and 📖.
 
 I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko in 🇨🇦. We moved here from 🏴󠁧󠁢󠁳󠁣󠁴󠁿 in 2021.
 
-——-
+---
 
 ## Get in Touch
 
