@@ -25,7 +25,7 @@ I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko in 🇨�
 Here is how I prefer to keep in touch:
 - My favourite way to chat is [email](mailto:murdo.connochie@gmail.com).
 - I mainly write on this website.
-- I’m much more active on [Farcaster](https://searchcaster.xyz/search?username=murdo), a [decentralised](https://www.farcaster.xyz) social network.
+- I’m active on [Farcaster](https://searchcaster.xyz/search?username=murdo), a [decentralised](https://www.farcaster.xyz) social network.
 - I only use [Twitter](https://www.twitter.com/murdo_) to follow interesting people; I’m not a big tweeter.
 - I dislike [LinkedIn](https://www.linkedin.com/in/murdoconnochie) but use it to connect with people I work with.
 - I don’t use Instagram, Facebook, etc.
