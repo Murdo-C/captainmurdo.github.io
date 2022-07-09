@@ -54,6 +54,4 @@ I recommend some books [here](/reading.md/) and podcasts [here](/_posts/2019-6-8
 
 This blog is hosted on GitHub Pages and maitained using [Jekyll](https://jekyllrb.com), [iA Writer](https://ia.net/writer), and [Working Copy](https://workingcopyapp.com).
 
-  <div class=“date”>
-    Last updated on July 7, 2022
-  </div>
+<div class=“date”>Last updated on July 7, 2022</div>
