@@ -48,6 +48,8 @@ My favourite blogs are:
 * Alex Danco at [alexdanco.com](https://alexdanco.com/)
 * Arun Venkatesan at [arun.is](https://www.arun.is/)
 
+I recommend some books [here](/reading.md/) and podcasts [here](/_posts/2019-6-8-podcasts.md).
+
 ---
 
 This blog is hosted on GitHub Pages and maitained using [Jekyll](https://jekyllrb.com), [iA Writer](https://ia.net/writer), and [Working Copy](https://workingcopyapp.com).
