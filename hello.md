@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: n👋🏻 Hello
+permalink: /hello/
 ---
 
 **I'm a creative strategist and product manager who specialises in venture building and business model design.**
