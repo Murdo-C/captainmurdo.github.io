@@ -8,7 +8,7 @@ I like designing and developing digital products and services to ultimately reth
 
 **You can find my latest resume [here](/docs/resume.pdf).**
 
-In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an iMessage sticker app based on r/wallstreetbets memes. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage app store.
+In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an iMessage sticker app based on [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) memes. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage app store.
 
 ---
 
