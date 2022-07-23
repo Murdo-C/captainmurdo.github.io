@@ -6,17 +6,17 @@ permalink: /hello/
 
 **I'm a creative strategist and product manager who specialises in mobile-driven experiences and new business models.**
 
-I help organisations rethink their customer experiences, design digital services, and adapt their business model as a result. I typically work as a strategy or product/service design lead. You can learn more about my work [here](/work.md/). I'm based in Toronto, Canada but my work takes me places. I pride myself on my versatility and curiosity.
+I help organisations rethink their customer experiences, design digital services, and adapt their business model as a result. I typically work as a strategy or product / service design lead. You can learn more about my work [here](/work.md/). I'm based in Toronto, Canada but my work takes me places. I pride myself on my versatility and curiosity.
 
 Throughout 2020 I ran a newsletter, <a href="https://neobanked.substack.com">Neobanked</a>, that was published on Sundays every two weeks. The archive of issues lives [here](/newsletter).
 
 In early 2021, I launched [Wall Street’s Best](https://wallstreetsbest.app) - an iMessage sticker app based on [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) memes. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage app store.
 
-I studied Actuarial Science at Heriot-Watt University in Edinburgh and have since gained my [CIMA/CGMA](https://www.cimaglobal.com/Members/Your-Membership-Information/The-CGMA-Designation/) qualification. I'm also a [ScrumMaster](https://www.scrumalliance.org/community/profile/mconnochie) and a [Saltire Scholar](https://www.hw.ac.uk/about/news/archive/2013/saltire-society-12709.htm).
+I studied Actuarial Science at Heriot-Watt University in Edinburgh and have since gained my [CIMA / CGMA](https://www.cimaglobal.com/Members/Your-Membership-Information/The-CGMA-Designation/) qualification. I'm also a [ScrumMaster](https://www.scrumalliance.org/community/profile/mconnochie) and a [Saltire Scholar](https://www.hw.ac.uk/about/news/archive/2013/saltire-society-12709.htm).
 
-I enjoy 📱, ☕️, 🎙, and 📖.
+I enjoy 📱, ☕️, 🎙, 🧗🏼, and 📖.
 
-I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko in 🇨🇦. We moved here from 🏴󠁧󠁢󠁳󠁣󠁴󠁿 in 2021.
+I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko, in 🇨🇦. We moved here from 🏴󠁧󠁢󠁳󠁣󠁴󠁿 in 2021.
 
 ---
 
@@ -36,8 +36,8 @@ Here is how I prefer to keep in touch:
 
 I'm currently:
 * listening to [Poolsuite FM](https://poolsuite.net);
-* watching [For All Mankind](https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7);
-* reading [Reap3r](https://eliotpeper.com/books/reap3r) by Eliot Peper; and
+* watching [The Rehearsal](https://www.hbo.com/the-rehearsal);
+* reading [Radical Candor](https://www.radicalcandor.com) by Kim Scott; and
 * climbing at [Basecamp](https://basecampclimbing.ca/).
 
 My favourite blogs are:
@@ -54,5 +54,5 @@ I recommend some books [here](/reading.md/) and podcasts [here](/_posts/2019-6-8
 
 This blog is hosted on GitHub Pages and maitained using [Jekyll](https://jekyllrb.com), [iA Writer](https://ia.net/writer), and [Working Copy](https://workingcopyapp.com).
 
-Last updated on July 7, 2022
+Last updated on July 23, 2022
 {: .date}
