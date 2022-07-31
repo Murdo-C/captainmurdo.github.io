@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2022
-*17 books completed*
+*18 books completed*
 
 ### Fiction
 - Reap3r by Eliot Peper ⭐️
@@ -27,6 +27,7 @@ Jump to a year:
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
+- Radical Candor by Kim Scott 
 - Skin in the Game by Nassim Nicholas Taleb
 - Build by Tony Fadell⭐️
 - The Order of Time by Carlo Rovelli
