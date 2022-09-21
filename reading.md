@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2022
-*19 books completed*
+*20 books completed*
 
 ### Fiction
+- The Suitcase Clone by Robin Sloan
 - Reap3r by Eliot Peper ⭐️
 - Never Let Me Go by Kazou Ishiguro
 - Mr Penumbra’s 24 Hour Bookstore by Robin Sloan ⭐️
