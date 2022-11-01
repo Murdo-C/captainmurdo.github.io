@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2022
-*20 books completed*
+*21 books completed*
 
 ### Fiction
 - The Suitcase Clone by Robin Sloan
@@ -28,6 +28,8 @@ Jump to a year:
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
+- The Omnivore’s Dilemma: A Natural History of Four Meals
+by Michael Pollan
 - Sam Walton: Made In America by Sam Walton
 - Radical Candor by Kim Scott 
 - Skin in the Game by Nassim Nicholas Taleb
