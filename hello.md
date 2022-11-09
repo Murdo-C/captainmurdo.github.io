@@ -36,8 +36,8 @@ Here is how I prefer to keep in touch:
 
 I'm currently:
 * listening to [Poolsuite FM](https://poolsuite.net);
-* watching [The Rehearsal](https://www.hbo.com/the-rehearsal);
-* reading [Radical Candor](https://www.radicalcandor.com) by Kim Scott; and
+* watching [Succession](https://www.hbo.com/succession);
+* reading [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/en/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow) by Gabrielle Zevin; and
 * climbing at [Basecamp](https://basecampclimbing.ca/).
 
 My favourite blogs are:
@@ -54,5 +54,5 @@ I recommend some books [here](/reading.md/) and podcasts [here](/_posts/2019-6-8
 
 This blog is hosted on GitHub Pages and maitained using [Jekyll](https://jekyllrb.com), [iA Writer](https://ia.net/writer), and [Working Copy](https://workingcopyapp.com).
 
-Last updated on July 23, 2022
+Last updated on November 9, 2022
 {: .date}
