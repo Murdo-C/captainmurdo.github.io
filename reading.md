@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2022
-*21 books completed*
+*22 books completed*
 
 ### Fiction
+- Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
 - The Suitcase Clone by Robin Sloan
 - Reap3r by Eliot Peper ⭐️
 - Never Let Me Go by Kazou Ishiguro
