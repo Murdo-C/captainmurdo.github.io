@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2022
-*22 books completed*
+*23 books completed*
 
 ### Fiction
 - Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
@@ -29,6 +29,7 @@ Jump to a year:
 - Death's End by Cixin Liu ⭐️
 
 ### Non-Fiction
+- Creative Selection by Ken Kocienda
 - The Omnivore’s Dilemma: A Natural History of Four Meals by Michael Pollan
 - Sam Walton: Made In America by Sam Walton
 - Radical Candor by Kim Scott 
