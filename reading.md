@@ -16,10 +16,13 @@ Jump to a year:
 ---
 
 ## 2022
-*1 book completed*
+*2 books completed*
 
 ### Fiction
 - The Mountain in the Sea by Ray Nayler
+
+### Non-Fiction
+- Atomic Habits by James Clear
 
 ---
 
