@@ -11,7 +11,7 @@ I made a conscious effort to read more, and read widely, in recent years. The bo
 ---
 
 Jump to a year:
-<b><center> <a href=“#2023“>2023</a>, <a href="#2022">2022</a>, <a href="#2021">2021</a>, <a href="#2020">2020</a>, <a href="#2019">2019</a>, <a href="#2018">2018</a>, <a href="#2017">2017</a>, <a href="#pre-2017">Pre-2017</a> </center><b>
+<b><center><a href="#2023">2023</a>, <a href="#2022">2022</a>, <a href="#2021">2021</a>, <a href="#2020">2020</a>, <a href="#2019">2019</a>, <a href="#2018">2018</a>, <a href="#2017">2017</a>, <a href="#pre-2017">Pre-2017</a> </center><b>
 
 ---
 
