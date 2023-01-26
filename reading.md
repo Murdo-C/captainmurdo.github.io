@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2022
-*2 books completed*
+*3 books completed*
 
 ### Fiction
+- The Kaiju Preservation Society by John Scalzi
 - The Mountain in the Sea by Ray Nayler
 
 ### Non-Fiction
