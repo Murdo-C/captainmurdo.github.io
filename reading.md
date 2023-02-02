@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2023
-*3 books completed*
+*4 books completed*
 
 ### Fiction
+- Convenience Store Woman by Sayaka Murata
 - The Kaiju Preservation Society by John Scalzi
 - The Mountain in the Sea by Ray Nayler
 
