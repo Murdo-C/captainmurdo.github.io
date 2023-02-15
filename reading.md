@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2023
-*4 books completed*
+*5 books completed*
 
 ### Fiction
+- Rabbits by Terry Miles
 - Convenience Store Woman by Sayaka Murata
 - The Kaiju Preservation Society by John Scalzi
 - The Mountain in the Sea by Ray Nayler
