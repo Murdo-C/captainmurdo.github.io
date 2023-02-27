@@ -16,13 +16,14 @@ Jump to a year:
 ---
 
 ## 2023
-*5 books completed*
+*6 books completed*
 
 ### Fiction
-- Rabbits by Terry Miles
+- This Time Tomorrow by Emma Straub ⭐️
+- Rabbits by Terry Miles ⭐️
 - Convenience Store Woman by Sayaka Murata
 - The Kaiju Preservation Society by John Scalzi
-- The Mountain in the Sea by Ray Nayler
+- The Mountain in the Sea by Ray Nayler ⭐️
 
 ### Non-Fiction
 - Atomic Habits by James Clear
@@ -33,7 +34,7 @@ Jump to a year:
 *23 books completed*
 
 ### Fiction
-- Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
+- Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin ⭐️
 - The Suitcase Clone by Robin Sloan
 - Reap3r by Eliot Peper ⭐️
 - Never Let Me Go by Kazou Ishiguro
