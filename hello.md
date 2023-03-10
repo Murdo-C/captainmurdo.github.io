@@ -14,9 +14,9 @@ In early 2021, I launched [Wall Street’s Best](https://wallstreetsbest.app) - 
 
 I studied Actuarial Science at Heriot-Watt University in Edinburgh and have since gained my [CIMA / CGMA](https://www.cimaglobal.com/Members/Your-Membership-Information/The-CGMA-Designation/) qualification. I'm also a [ScrumMaster](https://www.scrumalliance.org/community/profile/mconnochie) and a [Saltire Scholar](https://www.hw.ac.uk/about/news/archive/2013/saltire-society-12709.htm).
 
-I enjoy 📱, ☕️, 🎙, 🧗🏼, and 📖.
+I enjoy talking about mobile products, coffee, podcasts, climbing, and books.
 
-I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko, in 🇨🇦. We moved here from 🏴󠁧󠁢󠁳󠁣󠁴󠁿 in 2021.
+I live with my wife, my daughter, and our two Chihuahuas in Canada. We moved here from Scotland󠁧󠁢󠁳󠁣󠁴󠁿 in 2021.
 
 ---
 
@@ -25,20 +25,13 @@ I live with my wife, Michelle, and our two Chihuahuas, Belle and Meeko, in 🇨�
 Here is how I prefer to keep in touch:
 - My favourite way to chat is [email](mailto:murdo.connochie@gmail.com).
 - I mainly write on this website.
-- I’m active on [Farcaster](https://searchcaster.xyz/search?username=murdo), a [decentralised](https://www.farcaster.xyz) social network.
-- I only use [Twitter](https://www.twitter.com/murdo_) to follow interesting people; I’m not a big tweeter.
+- I’m active on [Farcaster](https://warpcast.com/murdo), a [decentralised](https://www.farcaster.xyz) social network.
 - I dislike [LinkedIn](https://www.linkedin.com/in/murdoconnochie) but use it to connect with people I work with.
 - I don’t use Instagram, Facebook, etc.
 
 ---
 
 ## Some Recommendations
-
-I'm currently:
-* listening to [Poolsuite FM](https://poolsuite.net);
-* watching [Succession](https://www.hbo.com/succession);
-* reading [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/en/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow) by Gabrielle Zevin; and
-* climbing at [Basecamp](https://basecampclimbing.ca/).
 
 My favourite blogs are:
 * Ben Thompson at [stratechery.com](https://stratechery.com)
@@ -54,5 +47,5 @@ I recommend some books [here](/reading.md/) and podcasts [here](/_posts/2019-6-8
 
 This blog is hosted on GitHub Pages and maitained using [Jekyll](https://jekyllrb.com), [iA Writer](https://ia.net/writer), and [Working Copy](https://workingcopyapp.com).
 
-Last updated on November 9, 2022
+Last updated on March 10, 2023
 {: .date}
