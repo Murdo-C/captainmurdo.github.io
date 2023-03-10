@@ -32,7 +32,8 @@ In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an
 
 *Click links for detailed case studies.*
 
-- [**CX / Product Design:**](#prod) Led the design of a global trading firm’s CX redesign and requirements definition for a new retail trading platform, including the mobile app channel and future propositions.
+- **Interim Head of Payments:** Defined the strategy and product vision for a leading global retailer across their closed loop payments experience and prepaid product; ultimately led vendor evaluation and technical scoping for nationwide rollout of both products. Also consulted on Buy Now Pay Later, credit cards, ATMs, and other digital-first product features.
+-  [**CX / Product Design:**](#prod) Led the design of a global trading firm’s CX redesign and requirements definition for a new retail trading platform, including the mobile app channel and future propositions.
 - **Product Strategy:** Supported a mid-sized UK bank in its Banking-as-a-Service proposition development and target addressable market business case, across the UK, Ireland, and Australia.
 - **Market Analysis:** Assisted a US-based software firm’s UK and Ireland market entry planning and sales approach for major UK banks.
 - **Business Model Design:** Supported a top 10 UK Building Society in the conceptualisation and design of a future business model, including market sizing and capability requirements.
