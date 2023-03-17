@@ -22,9 +22,9 @@ In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an
 
 **Deliver:**  `User Stories` `User Flows` `Market Sizing` `Business Cases` `Delivery Roadmap`
 
-**Manage:**  `Scrum` `Kano Modeling` `MoSCoW` `Workshop Facilitation` `Stakeholder Management`
+**Manage:**  `Scrum` `Kano Modeling` `MoSCoW` `RICE` `Workshop Facilitation` `Stakeholder Management`
 
-**Tools:** `Excel` `PowerPoint` `Tableau` `Visio` `Balsmiq` `Surveys` `GitHub` `Bootstrap`
+**Tools:** `Excel` `PowerPoint` `Visio` `Balsmiq` `Figma` `GSuite` `GitHub` `Surveys`
 
 ---
 
