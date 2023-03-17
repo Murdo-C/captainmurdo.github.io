@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2023
-*6 books completed*
+*7 books completed*
 
 ### Fiction
+- Far from the Light of Heaven by Tade Thompson
 - This Time Tomorrow by Emma Straub ⭐️
 - Rabbits by Terry Miles ⭐️
 - Convenience Store Woman by Sayaka Murata
