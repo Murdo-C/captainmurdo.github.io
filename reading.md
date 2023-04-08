@@ -16,9 +16,10 @@ Jump to a year:
 ---
 
 ## 2023
-*7 books completed*
+*8 books completed*
 
 ### Fiction
+- The Candy House by Jennifer Egan
 - Far from the Light of Heaven by Tade Thompson
 - This Time Tomorrow by Emma Straub ⭐️
 - Rabbits by Terry Miles ⭐️
