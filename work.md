@@ -18,13 +18,13 @@ In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an
 
 **Define:** `Market Analysis & Insights` `Jobs to be Done` `Product Strategy` `Design Principles` `OKRs`
 
-**Design:** `Proposition Concepts` `Wireframes` `Prototypes` `Capability Mapping` `Technology Feasibility`
+**Design:** `Proposition Concepts` `Wireframes` `Prototypes` `Capability Mapping` `Data Lifecycle Management` `Technology Feasibility`
 
 **Deliver:**  `User Stories` `User Flows` `Market Sizing` `Business Cases` `Delivery Roadmap`
 
-**Manage:**  `Scrum` `Kano Modeling` `MoSCoW` `RICE` `Workshop Facilitation` `Stakeholder Management`
+**Manage:**  `Scrum` `Kano Modeling` `MoSCoW` `RICE` `Workshop Facilitation` `Stakeholder / Executive Engagement`
 
-**Tools:** `Excel` `PowerPoint` `Visio` `Balsmiq` `Figma` `GSuite` `GitHub` `Surveys`
+**Tools:** `Excel` `PowerPoint` `Visio` `Balsmiq` `Figma` `GSuite` `GitHub` `Surveys` `SQL`
 
 ---
 
