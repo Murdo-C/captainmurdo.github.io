@@ -94,19 +94,19 @@ The service and catalogue were designed and built using the [Scottish Approach t
 
 ## Speaking
 
-### Blockchain
+### Blockchain - June 2016
 
 On behalf of Scottish Financial Enterprise, I spoke to the Edinburgh Financial Services community on blockchain and it's potential within the industry. Event information is available [here](http://www.sfe.org.uk/events/sfe-breakfast-briefing-with-kpmg-on-blockchain/).
 
 ![SFE Blockchain](/images/sfe-blockchain.jpg)
 
-### Customer Insights
+### Customer Insights - June 2017
 
 At [CIH Housing 2017](https://twitter.com/i/moments/881993023239983104), Europe's largest housing conference, I spoke about the apparent neverending quest within all companies to turn data into insights, the need to humanise your company's data before doing so, and the value of physically walking the customer journey to develop your understanding. 
 
 ![CIH Housing 2017](/images/cih-housing-2017.jpg)
 
-### Future of Retailing
+### Future of Retailing - October 2018
 
 As part of Heriot-Watt's Retail Marketing graduate course, I was asked to present KPMG's insights into future customer experiences. My lecture covered changing consumer behaviour across generations, CX measurement techniques, the Jobs-to-be-Done framework and case studies covering global leaders in retail.
 
