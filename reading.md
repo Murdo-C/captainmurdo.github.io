@@ -16,7 +16,7 @@ Jump to a year:
 ---
 
 ## 2023
-*9 books completed*
+*10 books completed*
 
 ### Fiction
 - The Candy House by Jennifer Egan
@@ -28,6 +28,7 @@ Jump to a year:
 - The Mountain in the Sea by Ray Nayler ⭐️
 
 ### Non-Fiction
+- Outlive by Peter Attia
 - What Doesn’t Kill Us by Scott Carney
 - Atomic Habits by James Clear
 
