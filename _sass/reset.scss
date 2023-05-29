@@ -1,19 +1,14 @@
-
-/***************/
-/* MEYER RESET */
-/***************/
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
-dl, dt, dd, ol, ul, li,
+dl, dt, dd,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -23,16 +18,13 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-// HTML5 display-role reset for older browsers
-article, aside, details, figcaption, figure,
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
 	line-height: 1;
-}
-ol, ul {
-	list-style: none;
 }
 blockquote, q {
 	quotes: none;
@@ -46,16 +38,19 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-sub {
-	font-size: smaller;
-	vertical-align: sub;
+
+ol, ul{
+	padding-left: 16px;
 }
-sup {
-	font-size: smaller;
-	vertical-align: super;
+ol li{
+	padding-left:4px
 }
-// Apply a natural box layout model to all elements
-// from: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
-*, *:before, *:after {
-  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+
+.ol { counter-reset: item }
+.ol li { display: block }
+.ol li:before { 
+  content: counter(item) ". ";
+  counter-increment: item;
+  width: 2em;
+  display: inline-block;
 }
