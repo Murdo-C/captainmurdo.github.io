@@ -5,6 +5,13 @@
   endDate: Now
   images: 
 
+- name: Neobanked Newsletter
+  company: Side Project
+  description: I ran a newsletter, <a href="https://neobanked.substack.com">Neobanked</a>, that was published on Sundays every two weeks. The archive of issues lives [here](/newsletter).
+  startDate: 2019-12-30
+  endDate: 2020-12-20
+  images: 
+
 # - name: Vector DAO
 #  company: Vector DAO
 #  description: I cofounded Vector DAO, a collective of designers in crypto. Our mission is to accelerate the mainstream adoption of crypto protocols through design and investment.
