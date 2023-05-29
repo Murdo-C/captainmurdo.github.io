@@ -1,3 +1,10 @@
+- name: Confidential Client
+  company: KPMG
+  description: I PM'd
+  startDate: 2022-12-06
+  endDate: 2023-02-10
+  images: 
+  
 - name: Wall Street's Best Stickers
   company: Side Project
   description: I launched <a href="https://wallstreetsbest.app">Wall Street’s Best</a> - an iMessage sticker app based on r/wallstreetbets culture. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage app store.
@@ -7,7 +14,21 @@
 
 - name: Neobanked Newsletter
   company: Side Project
-  description: I ran a newsletter, <a href="https://neobanked.substack.com">Neobanked</a>, that was published on Sundays every two weeks. The archive of issues lives [here](/newsletter).
+  description: I ran a newsletter, <a href="https://neobanked.substack.com">Neobanked</a>, that was published on Sundays every two weeks. The archive of issues lives <a href="https://murdo.xyz/newsletter">here</a>[here].
+  startDate: 2019-12-30
+  endDate: 2020-12-20
+  images: 
+  
+- name: ADSS
+  company: KPMG
+  description: I PM'd
+  startDate: 2019-12-30
+  endDate: 2020-12-20
+  images: 
+
+- name: Scottish Government Internal Wiki Platform
+  company: KPMG
+  description: I PM'd
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: 
