@@ -4,11 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-I like designing and developing digital products and services to ultimately rethink the underlying business model. I'm usually some combination of creative strategist, product manager, service designer, and user researcher.
-
 **You can find my latest resume [here](/docs/resume.pdf).**
-
-In early 2021, I launched [Wall Street's Best](https://wallstreetsbest.app) - an iMessage sticker app based on [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) memes. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage app store.
 
 ---
 
