@@ -1,16 +1,24 @@
 - name: Confidential Client
   company: KPMG
-  description: I PM'd
+  description: I led the strategy development, acted as interim Head of Payments, and product managed a digital wallet and prepaid money account for a major North American retailer; the products are currently in development.
   startDate: 2022-12-06
   endDate: 2023-02-10
   images: 
   
+- name: Farcaster NFT
+  company: Side Project
+  description: I drew, minted, and launched an NFT to commemorate the Farcaster protocol - it can be found <a href="https://zora.co/collect/0xed2eca6862e7521ef55435d574143db838d09f87">here</a>.
+  startDate: 2023-11-13
+  endDate: 2023-11-13
+  images: https://ipfs.decentralized-content.com/ipfs/bafybeihdahogydqj643nizh22zzdasmtld6pz3m7bl4re42o26egzzmz6q
+
+ 
 - name: Wall Street's Best Stickers
   company: Side Project
   description: I launched <a href="https://wallstreetsbest.app">Wall Street’s Best</a> - an iMessage sticker app based on r/wallstreetbets culture. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage app store.
   startDate: 2021-01-17
   endDate: Now
-  images: 
+  images: https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/70/27/e9/7027e951-16d7-242b-204a-4657857ba399/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/512x512bb.jpg
 
 - name: Neobanked Newsletter
   company: Side Project
@@ -21,21 +29,14 @@
   
 - name: ADSS
   company: KPMG
-  description: I PM'd
+  description: I product managed the development of a new desktop and we trafing platform, focused on the front-end experience and key user features. The platform is now <a href="https://www.adss.com/en/platforms/">live</a>.
   startDate: 2019-12-30
   endDate: 2020-12-20
-  images: 
+  images: https://www.adss.com/wp-content/uploads/2023/04/Platform-page-promo-banner-03.svg
 
-- name: Scottish Government Internal Wiki Platform
+- name: Scottish Government Internal Wiki Tool
   company: KPMG
-  description: I PM'd
+  description: I led the user research and product managed the development of a prototype wiki tool in Bootstrap. The tool was designed to allow government departments to re-use custom software with ease.
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: 
-
-# - name: Vector DAO
-#  company: Vector DAO
-#  description: I cofounded Vector DAO, a collective of designers in crypto. Our mission is to accelerate the mainstream adoption of crypto protocols through design and investment.
-#  startDate: 2021-09-01
-#  endDate: Now
-#  images: [assets/img/screenshot-vector.jpg]
