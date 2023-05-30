@@ -50,7 +50,7 @@
   
 - name: Liberty Mutual Insurance Digital ID Card
   company: Liberty Mutual Insurance
-  description: I prototyped a digital insurance ID card for the Apple Wallet. I also supported the team during the development of a disaster preparation app for iOS and Android, which was ultimately pivoted into an <a href="https://libertyplus.libertymutual.com/guide/disaster-preparedness?service=flood">online guide</a>.
+  description: I prototyped a digital insurance ID card for the Apple Wallet; the ID was ultimately incorporated into the core iOS and Android apps. I also supported the team during the development of a disaster preparation app for iOS and Android, which was pivoted into an <a href="https://libertyplus.libertymutual.com/guide/disaster-preparedness?service=flood">online guide</a>.
   startDate: 2013-06-01
   endDate: 2013-08-31
   images: 
