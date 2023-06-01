@@ -21,13 +21,19 @@ The Apple Watch is quickly proving more convenient than the iPhone for TfL payme
 
 Any POS system which currently accepts contactless payments will accept Apple Pay and by 2020 all Visa terminals in Europe will accept contactless. This includes TfL, Boots, Starbucks and a range of other companies who are partnering with Apple to ensure the rollout is smooth. Many of these companies have also implemented the feature into their iOS apps, allowing customers to purchase goods quickly and securely. This functionality is extended to the iPad Air 2 and iPad Mini 3.
 
-![Apple Pay](/images/apple-pay-header.jpg)
+<figure>
+  <img class="blogImage" src="/assets/blogimg/apple-pay-header.jpg" alt="Apple Pay">
+  <figcaption></figcaption>
+</figure>
 
 Initially there will be a £20 limit on in-store purchases with Apple Pay and this will be increasing to £30 in September. Retailers may opt-out of the limit (some already have) and this can already be seen in the US where there are no limits on the transaction amount.
 
 In-store reward cards are also expected to be introduced to the UK after they launch in the US later in the year. With one tap, a customer can pay for goods and receive any loyalty points from the transaction; the iPhone selects the correct reward card at the correct time.
 
-![TFL Apple Pay](/images/tfl-watch.jpg)
+<figure>
+  <img class="blogImage" src="/assets/blogimg/tfl-watch.jpg" alt="TFL Apple Pay">
+  <figcaption></figcaption>
+</figure>
 
 Google’s Android Pay is set to launch in the US this year and as-of-yet has no UK release date. The significance of the two largest phone operating systems now looking to take on the role of our wallets should not be overlooked. As these smartphones and wearables become further integrated into everything we do, it is difficult to see where their reach ends. Already they are being used in hotels as your room key, in your home to control your heating and now they are in control of your payments. Perhaps this will extend to passports, driving licences and corporate IDs.
 
