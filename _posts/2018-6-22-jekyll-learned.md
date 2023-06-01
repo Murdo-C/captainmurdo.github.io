@@ -39,7 +39,10 @@ With both the CNAME and `A` records set up to redirect it was simply a matter of
 ## Favicons {#favicons}
 I'm a great believer in getting the details right and the first thing on my list was to update the favicon. This little bit of customisation gave me the tiny jumpstart I needed to begin aligning the overall theme with my general design tastes and was a good way to help me quickly navigate to the Safari tab containing my blog whilst I edited.
 
-![Safari Tabs](/images/safari-tabs.png)
+<figure>
+  <img class="blogImage" src="/assets/blogimg/safari-tabs.png" alt="Safari Tabs">
+  <figcaption></figcaption>
+</figure>
 
 Using [RealFaviconGenerator](https://realfavicongenerator.net) I was able to upload my standard **//**{: style="color: #4183C4"} logo, `hex #4183c4` naturally, and generate the required selection of favicons. Adding the files into my site's GitHub repo and updating my `default.html` layout with the provided HTML code was all it took to tick the first piece of customisation off my list.
 
