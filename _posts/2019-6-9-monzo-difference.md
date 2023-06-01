@@ -9,7 +9,10 @@ What does it look like when you build a bank like a tech firm?
 
 I believe Monzo, now sitting at 2 million customers, represents the future of banking. The bank hasn't necessarily innovated on the typical banking business model but it has redefined how a bank builds and launches its products and ultimately communicates with customers. With [ambitions to grow](https://monzo.com/blog/2018/07/30/scaling-our-customer-support/) to 1 billion customers and beyond, Tom and the team are doing things differently. 
 
-![User growth](/images/monzo-growth.jpeg)
+<figure>
+  <img class="blogImage" src="/assets/blogimg/monzo-growth.jpeg" alt="User growth">
+  <figcaption></figcaption>
+</figure>
 
 The topics discussed here represent my years of study of the bank but not necessarily the inside-out view; if I have described anything incorrectly, please do [let me know](mailto:murdo.connochie@gmail.com).
 
@@ -24,7 +27,10 @@ Likewise, their product experiences and policies treat customers fairly and are 
 
 Together these practices protect all customers, not just the vulnerable, and clearly set customer expectations.
 
-![Overdraft screenshots](/images/monzo-overdraft.png)
+<figure>
+  <img class="blogImage" src="/assets/blogimg/monzo-overdraft.png" alt="Overdraft screenshots">
+  <figcaption></figcaption>
+</figure>
 
 Of course, Monzo has had the ability to build a brand from scratch, avoiding the inheritance of the traditional banking perception and acting more like a social enterprise.
 
@@ -36,9 +42,12 @@ Current accounts are a commodity with little room for core product innovation, l
 Consumer banking products are entirely commoditised, so differentiation is near impossible. A large section of products are free to use or continually in a race-to-the-bottom on price, helped along nicely by increasing gains in automation. Rates for lending and savings are within an extremely tight band, largely due to low volatility since the recession. Geography is irrelevant in today's age, with companies like Netflix launching in [130 countries](https://techcrunch.com/2016/01/06/netflix-finally-goes-global/) all at once.
 
 The more complete quote from Ben's piece reads as follows:
->In fact, though, consumer expectations are not static: they are, as Bezos’ memorably states, “divinely discontent”. What is amazing today is table stakes tomorrow, and, perhaps surprisingly, that makes for a tremendous business opportunity: if your company is predicated on delivering the best possible experience for consumers, then your company will never achieve its goal.
-> 
->![Competing on UX](https://stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.348.png)
+<blockquote>In fact, though, consumer expectations are not static: they are, as Bezos’ memorably states, “divinely discontent”. What is amazing today is table stakes tomorrow, and, perhaps surprisingly, that makes for a tremendous business opportunity: if your company is predicated on delivering the best possible experience for consumers, then your company will never achieve its goal.
+
+<figure>
+  <img class="blogImage" src="https://stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.348.png" alt="Competing on UX">
+  <figcaption></figcaption>
+</figure></blockquote>
 
 A bet on increasing customer expectations is a bet on enduring needs - a bet that companies can likely never overserve.
 
@@ -53,7 +62,10 @@ The product flow for Mastercard 3D Secure brings this together. Monzo's [own blo
 
 In this example, the cognitive load for customers is greatly reduced and instead they are directed to use a familiar experience through an application they trust.
 
-![Monzo 3D Secure](https://d33wubrfki0l68.cloudfront.net/bcc67d429ca3c00766c6103abc44e3a6e4cabfef/76fea/static/images/blog/2018-08-13-3d-secure/3ds-monzo-blog.png)
+<figure>
+  <img class="blogImage" src="https://d33wubrfki0l68.cloudfront.net/bcc67d429ca3c00766c6103abc44e3a6e4cabfef/76fea/static/images/blog/2018-08-13-3d-secure/3ds-monzo-blog.png" alt="Monzo 3D Secure">
+  <figcaption></figcaption>
+</figure>
 
 This focus on experience, and in particular the minor design details throughout, is possible because Monzo involves [every employee in the research](https://monzo.com/blog/2019/05/30/everyone-does-user-research-at-monzo/) and [design](https://monzo.com/blog/2019/02/11/internal-product-design/) process. 
 
@@ -75,7 +87,10 @@ The _PCA + Marketplace_ model has two clear benefits upfront:
 
 Nowhere is this model emphasised more than in the ratio of employees to customers, my favourite unfair comparison.
 
-![Ratio](/images/monzo-ratio.jpeg)
+<figure>
+  <img class="blogImage" src="/assets/blogimg/monzo-ratio.jpeg" alt="Ratio">
+  <figcaption></figcaption>
+</figure>
 
 I've taken the Royal Bank of Scotland as an proxy for more traditional banking. Based on the most recently available figures reported by both companies, Monzo is able to serve over 6x as many customers per single employee than RBS. There are obvious differences in product offerings, geographic reach and reliance on legacy technology (including branches) but it's clear that these two banks are on very different trajectories. 
 
