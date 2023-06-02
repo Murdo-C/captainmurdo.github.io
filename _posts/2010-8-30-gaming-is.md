@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Gaming Is
 title:  "Gaming Is"
 date:   2010-8-30
 location:   "Falkirk, Scotland"
