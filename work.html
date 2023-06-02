@@ -4,7 +4,7 @@ title: "Work"
 ---
 <h1 class="pageHeader">Client Work</h1>
 
-{% for item in site.data.work %} {% if item.type != "Side Project" %}
+{% for item in site.data.work %} {% if item.company != "Side Project" %}
   <section class="section-wide no-hover-section project-image-wrapper">
     <picture class="fixed-ratio fixed-ratio-1600-800">
       <img src="{{ item.images[0] }}" class="project-image fixed-ratio-content">
@@ -27,7 +27,7 @@ title: "Work"
 
 <h1 class="pageHeader">Side Projects</h1>
 
-{% for item in site.data.work %} {% if item.type == "Side Project" %}
+{% for item in site.data.work %} {% if item.company == "Side Project" %}
   <section class="section-wide no-hover-section project-image-wrapper">
     <picture class="fixed-ratio fixed-ratio-1600-800">
       <img src="{{ item.images[0] }}" class="project-image fixed-ratio-content">
