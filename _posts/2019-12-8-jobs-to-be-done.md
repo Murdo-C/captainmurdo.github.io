@@ -7,9 +7,9 @@ Customers don't buy rationally; the 'why' behind a purchase can be more revealin
 
 ---
 
-> "People don't want a quarter-inch drill, they want a quarter-inch hole" 
-> 
-> <em>Theodore Levitt, 1960s</em>
+<blockquote>"People don't want a quarter-inch drill, they want a quarter-inch hole" 
+ 
+<em>Theodore Levitt, 1960s</em></blockquote>
 
 Jobs to be Done (JTBD) is a theory about consumption and what drives people's decision making. The concept was fully crystallised in Clayton Christensen’s book, [The Innovator’s Solution](http://www.businesstraining.com.mx/egaii/docs/The%20Innovators%20Solution.pdf). 
 
@@ -59,13 +59,49 @@ Jobs to be Done can help to distinguish the ingoing needs of a customer purchase
 
 The framework below shows the flow of customer thinking and the questions we should seek to answer in JTBD research.
 
-| First thoughts  | Situation/trigger | Decision | Consume/use |
-| ------------- | ------------- | ------------- | ------------- |
-| **⭢**  | **⭢** | **⭢**  | **⭢**  |
-| When did the customer start thinking they’d need a (new) solution?  | What led them to actively seek a (new) solution? | What criteria did they use to evaluate? | Did they achieve their conscious or unconscious goal? |
-| | | | 
-| **⭢** |  |  | **⭠** |
-| - What's the push of current situation? <br>- Was there a pull of new solution? | | | - Do they have a strong allegiance to a current habit? <br>- What level of anxiety do they have about the new solution? |
+<table>
+  <thead>
+    <tr>
+      <th>First thoughts</th>
+      <th>Situation/trigger</th>
+      <th>Decision</th>
+      <th>Consume/use</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>⭢</strong></td>
+      <td><strong>⭢</strong></td>
+      <td><strong>⭢</strong></td>
+      <td><strong>⭢</strong></td>
+    </tr>
+    <tr>
+      <td>When did the customer start thinking they’d need a (new) solution?</td>
+      <td>What led them to actively seek a (new) solution?</td>
+      <td>What criteria did they use to evaluate?</td>
+      <td>Did they achieve their conscious or unconscious goal?</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>⭢</strong></td>
+      <td></td>
+      <td></td>
+      <td><strong>⭠</strong></td>
+    </tr>
+    <tr>
+      <td>- What's the push of current situation? <br>- Was there a pull of new solution?</td>
+      <td></td>
+      <td></td>
+      <td>- Do they have a strong allegiance to a current habit? <br>- What level of anxiety do they have about the new solution?</td>
+    </tr>
+  </tbody>
+</table>
+
 
 The methods of a JTBD study are no different to those of a traditional user research and discovery phase of work. JTBD is primarily a tool for framing and understanding the customer problem. I typically use a combination of the following:
 
