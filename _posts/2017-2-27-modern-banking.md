@@ -5,7 +5,7 @@ title: Modern Banking
 
 I believe enough pieces of the puzzle are coming together to allow truly modern banking to incubate and develop, especially within the UK.
 
-*For the purposes of discussion below, ‘banking’ refers to retail banking only. Commercial and Investment banks have their own sets of problems.*
+<i>For the purposes of discussion below, ‘banking’ refers to retail banking only. Commercial and Investment banks have their own sets of problems.</i>
 
 <figure>
   <img class="blogImage" src="/assets/blogimg/banking-header.png" alt="Landscape">
