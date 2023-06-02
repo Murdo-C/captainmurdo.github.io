@@ -1,6 +1,6 @@
-- name: Writing
+- name: About
   link: /
+- name: Writing
+  link: /writing.html
 - name: Work
   link: /work.html
-- name: About
-  link: /about.html
