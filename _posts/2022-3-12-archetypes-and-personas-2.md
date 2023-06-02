@@ -25,7 +25,10 @@ So my definitions are as follows.
 
 On the other hand, **personas** are data-backed portraits that summarise several group characteristics, such as their age, disposable income, location, occupation, brand affinity. An important distinction is that the characteristics can be targeted using available data-points or marketing tools. In the example, Uber may identify high net worth metropolitan couples vs. a solo student travelling on a gap year. Both of these groups are accessible through data or marketing tools (using age, income, zip / postcode, occupation) and this segmentation can be applied to current and prospective customers. **Personas enable go-to-market activities, like marketing campaigns or pricing, but don’t effectively support product / service design.**
 
-![](/images/avp.png)
+<figure>
+  <img class="blogImage" src="/assets/blogimg/avp.png">
+  <figcaption></figcaption>
+</figure>
 
 I’m often working as a service designer or product owner. I therefore like to include specific motivations and behaviours, rather than demographic data or “story fillers” like age, occupation. These archetypal attributes give me a problem space to work within and a much more tangible target user. I can then lean upon [Jobs to be Done](https://murdo.xyz/jobs-to-be-done/) or similar to drive product decision making.
 
