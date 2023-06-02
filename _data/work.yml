@@ -1,6 +1,6 @@
-- name: Confidential Client
+- name: Confidential Client Payments Product Build
   company: KPMG
-  description: I led the strategy development, acted as interim Head of Payments, and product managed a digital wallet and prepaid money account for a major North American retailer; the products are currently in development. i also supported the team in the design and development of a Buy Now Pay Later  product across web, app, and store point-of-sale.
+  description: I led the strategy development, acted as interim Head of Payments, and product managed a digital wallet and prepaid money account for a major North American retailer; the products are currently in development. I also supported the team in the design and development of a Buy Now Pay Later  product across web, app, and store point-of-sale.
   startDate: 2022-12-06
   endDate: 2023-02-10
   images: [assets/img/client-db.png]
@@ -13,21 +13,21 @@
   images: [assets/img/fc-nft.png]
 
  
-- name: Wall Street's Best Stickers App
+- name: Wall Street's Best Stickers App Launch
   company: Side Project
   description: I launched <a href="https://wallstreetsbest.app">Wall Street’s Best</a> - an iOS / iMessage sticker app based on r/wallstreetbets culture. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage App Store.
   startDate: 2021-01-17
   endDate: Now
   images: [assets/img/wsb.png]
 
-- name: Neobanked Newsletter
+- name: Neobanked Newsletter Series
   company: Side Project
   description: I ran a newsletter focused on digital-only banks that was published every second Sunday. The archive of issues lives <a href="https://neobanked.substack.com/archive">here</a>.
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: [assets/img/neo.png]
   
-- name: ADSS
+- name: App and Web Platform Build
   company: KPMG
   description: I product managed the development of a new app and web trading platform, focused on the front-end experience and key user features. The platform is now <a href="https://www.adss.com/en/platforms/">live</a>.
   startDate: 2019-12-30
@@ -41,14 +41,14 @@
   endDate: 2020-01-16
   images: [assets/img/cbs.png]
 
-- name: Scottish Government Internal Wiki Tool
+- name: Internal Wiki Tool Clickable Prototype 
   company: KPMG
   description: I led the user research and product managed the development of a prototype wiki tool in Bootstrap. The tool was designed to allow government departments to re-use custom software with ease. The tool was shelved due to funding constraints.
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: [assets/img/sg.png]
   
-- name: Liberty Mutual Insurance Digital ID Card
+- name: Digital ID Card Prototype
   company: Liberty Mutual Insurance
   description: I prototyped a digital insurance ID card for the Apple Wallet, which can be downloaded <a href="/docs/insurance-card.pkpass">here</a>; the ID was ultimately incorporated into the core iOS and Android apps. I also supported the team during the development of a disaster preparation app for iOS and Android, which was pivoted into an <a href="https://libertyplus.libertymutual.com/guide/disaster-preparedness?service=flood">online guide</a>.
   startDate: 2013-06-01
