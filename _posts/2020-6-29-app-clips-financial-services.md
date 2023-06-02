@@ -12,7 +12,7 @@ Experts often argue that the future of financial services is invisible and embed
 <figure>
   <img class="blogImage" src="/assets/blogimg/banks-to-user.png" alt="Bank diagram">
   <figcaption>The shift from card-led banking relationships to mobile intermediated banking releationships.</figcaption>
-</figure>![Bank diagram](/images/banks-to-user.png)
+</figure>
 
 But financial services hasn’t yet achieved this *persistent yet invisible* status. Features and functionality remain locked within the financial institution’s siloed app and most bank’s would rather aggregated a user’s external accounts than play nicely with an open ecosystem. What if instead they decided to embrace and extend the technologies provided by mobile platforms, starting with app clips?
 
