@@ -3,7 +3,7 @@
   description: I led the strategy development, acted as interim Head of Payments, and product managed a digital wallet and prepaid money account for a major North American retailer; the products are currently in development. i also supported the team in the design and development of a Buy Now Pay Later  product across web, app, and store point-of-sale.
   startDate: 2022-12-06
   endDate: 2023-02-10
-  images: 
+  images: [assets/img/client-db.png]
   
 - name: NFT Release
   company: Side Project
@@ -25,7 +25,7 @@
   description: I ran a newsletter focused on digital-only banks that was published every second Sunday. The archive of issues lives <a href="https://neobanked.substack.com/archive">here</a>.
   startDate: 2019-12-30
   endDate: 2020-12-20
-  images: 
+  images: [assets/img/neo.png]
   
 - name: ADSS
   company: KPMG
@@ -39,18 +39,18 @@
   description: I product managed a new core banking platform, focused on retail savings features. I also prototyped a digital savings card for the Apple Wallet, a first in the market. The core platform is now in testing.
   startDate: 2018-10-03
   endDate: 2020-01-16
-  images: 
+  images: [assets/img/cbs.png]
 
 - name: Scottish Government Internal Wiki Tool
   company: KPMG
   description: I led the user research and product managed the development of a prototype wiki tool in Bootstrap. The tool was designed to allow government departments to re-use custom software with ease. The tool was shelved due to funding constraints.
   startDate: 2019-12-30
   endDate: 2020-12-20
-  images: 
+  images: [assets/img/sg.png]
   
 - name: Liberty Mutual Insurance Digital ID Card
   company: Liberty Mutual Insurance
   description: I prototyped a digital insurance ID card for the Apple Wallet, which can be downloaded <a href="/docs/insurance-card.pkpass">here</a>; the ID was ultimately incorporated into the core iOS and Android apps. I also supported the team during the development of a disaster preparation app for iOS and Android, which was pivoted into an <a href="https://libertyplus.libertymutual.com/guide/disaster-preparedness?service=flood">online guide</a>.
   startDate: 2013-06-01
   endDate: 2013-08-31
-  images: 
+  images: [assets/img/lm-id.png]
