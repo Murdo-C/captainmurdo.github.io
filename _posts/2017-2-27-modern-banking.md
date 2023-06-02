@@ -41,7 +41,8 @@ Then came smartphones and they had an [adoption rate](http://ben-evans.com/bened
 
 <figure>
   <img class="blogImage" src="/assets/blogimg/a16z-chart.png" alt="Graph">
-  <figcaption>Source: [Benedict Evans](http://ben-evans.com/benedictevans/2016/12/8/mobile-is-eating-the-world) of a16z</figcaption>
+  <figcaption>Source: <a href="http://ben-evans.com/benedictevans/2016/12/8/mobile-is-eating-the-world">Benedict Evans</a>
+of a16z</figcaption>
 </figure>
 
 While it may be a dramatic shift for banks to relinquish the relationship with the customer, attitudes of millennials suggest that this may not be far off. [71% of millennials](http://www.millennialdisruptionindex.com/) have gone as far to say they would rather visit the dentist than interact with their bank and this is a trend I believe will permeate further.
