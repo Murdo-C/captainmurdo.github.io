@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Gaming Is
+title:  "Gaming Is"
+date:   2010-8-30
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 I don’t think I’ve ever told anyone this. I’m not scared of what they will think or perhaps even do, I just like to keep it to myself. 
