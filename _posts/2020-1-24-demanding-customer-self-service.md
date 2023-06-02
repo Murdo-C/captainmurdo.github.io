@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Demanding Customer (Self) Service
+title:  "Demanding Customer (Self) Service"
+date:   2020-1-24
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 Badly designed experiences are driving unnecessary customer servicing, ultimately killing companies' ability to scale and compete.

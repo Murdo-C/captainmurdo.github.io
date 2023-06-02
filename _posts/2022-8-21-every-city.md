@@ -1,6 +1,9 @@
 ---
 layout: post
-title: A Craig Mod for Every City
+title:  "A Craig Mod for Every City"
+date:   2022-8-21
+location:   "Toronto, Canada"
+author:   "Murdo"
 ---
 
 We need geo-historians, offline and online.

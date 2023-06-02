@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Mobile Considerations - Chat-based Assistants
+title:  "Mobile Considerations - Chat-based Assistants"
+date:   2018-8-6
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 The fifth post in a series on the developments taking place within mobile technology.

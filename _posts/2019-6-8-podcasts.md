@@ -1,6 +1,9 @@
 ---
 layout: post
-title: A Guide to Podcasts
+title:  "A Guide to Podcasts"
+date:   2019-6-8
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 My recommendations for podcasts and my app of choice.

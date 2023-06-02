@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Thinking About Current Accounts
+title:  "Thinking About Current Accounts"
+date:   2020-2-2
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 Digital doesn't replace cash; it replaces card - the app is now your product.

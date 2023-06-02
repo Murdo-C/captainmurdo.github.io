@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Jekyll - What I Learned
+title:  "Jekyll - What I Learned"
+date:   2018-6-22
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 I recently set out to rebuild my (this) blog using open web standards whilst learning a thing or two along the way. 

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Mobile Considerations - Native Mobile Apps
+title:  "Mobile Considerations - Native Mobile Apps"
+date:   2018-7-9
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
+
 
 The first post in a series on the developments taking place within mobile technology.
 

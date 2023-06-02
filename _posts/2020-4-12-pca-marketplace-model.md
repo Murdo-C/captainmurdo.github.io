@@ -1,6 +1,9 @@
 ---
 layout: post
-title: The Current Account Plus Marketplace Business Model
+title:  "The Current Account Plus Marketplace Business Model"
+date:   2020-4-12
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 The model makes sense in theory but faces challenges in reality.

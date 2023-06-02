@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Modern Banking
+title:  "Modern Banking"
+date:   2017-2-27
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 I believe enough pieces of the puzzle are coming together to allow truly modern banking to incubate and develop, especially within the UK.

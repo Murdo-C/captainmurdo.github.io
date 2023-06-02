@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Studying Jobs to be Done
+title:  "Studying Jobs to be Done"
+date:   2019-12-8
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 Customers don't buy rationally; the 'why' behind a purchase can be more revealing than the purchase itself.

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Mobile Considerations - Mobile Web Experiences
+title:  "Mobile Considerations - Mobile Web Experiences"
+date:   2018-7-16
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
+
 
 The second post in a series on the developments taking place within mobile technology.
 

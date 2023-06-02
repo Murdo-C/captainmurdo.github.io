@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Travel Better
+title:  "Travel Better"
+date:   2019-3-11
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 We can all benefit from a smoother travel experience - here's some tips to make that happen. 

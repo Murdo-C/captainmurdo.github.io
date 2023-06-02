@@ -1,6 +1,9 @@
 ---
 layout: post
-title: On Digital, Products, & Millennials
+title:  "On Digital, Products, & Millennials"
+date:   2016-5-3
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 The problem with terms like 'digital natives' and how it's used as an excuse for poor products.

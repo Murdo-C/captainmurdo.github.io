@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Strategic Blockchain Use Cases
+title:  "Strategic Blockchain Use Cases"
+date:   2022-4-21
+location:   "Toronto, Canada"
+author:   "Murdo"
 ---
 
 Practical use cases and lost causes in the blockchain gold rush.

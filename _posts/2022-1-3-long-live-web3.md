@@ -1,6 +1,9 @@
 ---
 layout: post
-title: The Web is Dead, Long Live the web3
+title:  "The Web is Dead, Long Live the web3"
+date:   2022-1-3
+location:   "Toronto, Canada"
+author:   "Murdo"
 ---
 
 There’s an unbelievable amount of creation going on right now.

@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Mobile Considerations - Mobile Wallets
+title:  "Mobile Considerations - Mobile Wallets"
+date:   2018-7-30
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 The fourth post in a series on the developments taking place within mobile technology.

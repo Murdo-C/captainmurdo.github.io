@@ -1,6 +1,9 @@
 ---
 layout: post
-title: GAFA in Financial Services
+title:  "GAFA in Financial Services"
+date:   2019-11-13
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 Google, Apple, Facebook, and Amazon have all explored the obvious use cases; where they go next may dramatically alter the global market.

@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Building Micro-Moments in Financial Services
+title:  "Building Micro-Moments in Financial Services"
+date:   2020-6-29
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 iOS 14 offers a new, streamlined experience that’s perfectly suited for transactional financial services.

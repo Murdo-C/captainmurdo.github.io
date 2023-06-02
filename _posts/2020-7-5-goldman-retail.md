@@ -1,6 +1,9 @@
 ---
 layout: post
-title: So Big They Can’t Fail
+title:  "So Big They Can’t Fail"
+date:   2022-7-5
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 Goldman Sachs may be the most influential retail banking provider in the next generation of financial services. And not a single end customer will know about it.

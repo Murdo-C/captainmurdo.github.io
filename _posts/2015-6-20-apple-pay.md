@@ -1,6 +1,9 @@
 ---
 layout: post
-title: The Impact of Apple Pay
+title:  "The Impact of Apple Pay"
+date:   2015-6-20
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 Apple Pay has arrived, could this mark the beginning of the mobile payments explosion?

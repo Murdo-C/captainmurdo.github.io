@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Bringing Clarity to Archetypes & Personas
+title:  "Bringing Clarity to Archetypes & Personas"
+date:   2022-3-12
+location:   "Toronto, Canada"
+author:   "Murdo"
 ---
 
 When product design and marketing collide.

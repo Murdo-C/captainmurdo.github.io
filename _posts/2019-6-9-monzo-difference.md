@@ -1,6 +1,9 @@
 ---
 layout: post
-title: The Monzo Difference
+title:  "The Monzo Difference"
+date:   2019-6-9
+location:   "Falkirk, Scotland"
+author:   "Murdo"
 ---
 
 What does it look like when you build a bank like a tech firm?
