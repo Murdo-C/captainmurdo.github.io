@@ -1,4 +1,4 @@
-- name: Confidential Client Payments Product Build
+- name: Confidential Client Payment Products Build
   company: KPMG
   description: I led the strategy development, acted as interim Head of Payments, and product managed a digital wallet and prepaid money account for a major North American retailer; the products are currently in development. I also supported the team in the design and development of a Buy Now Pay Later  product across web, app, and store point-of-sale.
   startDate: 2021-12-06
@@ -13,7 +13,7 @@
   images: [assets/img/fc-nft.png]
 
  
-- name: Wall Street's Best Stickers App Launch
+- name: Wall Street's Best iOS Stickers App Launch
   company: Side Project
   description: I launched <a href="https://wallstreetsbest.app">Wall Street’s Best</a> - an iOS / iMessage sticker app based on r/wallstreetbets culture. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage App Store.
   startDate: 2021-01-17
@@ -27,7 +27,7 @@
   endDate: 2020-12-20
   images: [assets/img/neo.png]
   
-- name: App and Web Platform Build
+- name: Trading App and Web Build
   company: KPMG
   description: I product managed the development of a new app and web trading platform, focused on the front-end experience and key user features. The platform is now <a href="https://www.adss.com/en/platforms/">live</a>.
   startDate: 2019-12-30
