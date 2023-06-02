@@ -35,7 +35,10 @@ US-only for now, the Apple Card launched with significant fanfare. The propositi
 
 Rumour has it the product development wasn’t easy on Goldman. But from that they’ve built a sustainable advantage that no other competitor can possibly match:  direct marketing and distribution to over 100 million US iPhone users and (I’d expect) first shot at any international expansions.
 
-![Apple Card marketing](/images/apple-card-banner.png)
+<figure>
+  <img class="blogImage" src="/assets/blogimg/apple-card-banner.png" alt="Apple Card marketing">
+  <figcaption></figcaption>
+</figure>
 
 Again, Goldman has smartly outsourced most (if not all) of the product marketing and distribution to an extremely strong consumer brand. And, another recurring theme throughout their partnerships, the typical customer they can expect from the offering has a bias towards [higher income levels](https://appleinsider.com/articles/18/07/09/researchers-claim-iphone-and-ipad-ownership-is-a-wealth-indicator).
 
