@@ -19,6 +19,6 @@ Enter, games. I’m probably part of a small minority but they are much more tha
 
 Each of the more recent titles, I have completed three or four times on both consoles and no matter how extravagant the story may seem, I love them. They fill a void in my mind. There’s no can’ts or don’ts. I can live my dream for those seven or eight hours and no-one asks me for any medical conditions I may have.
 
-Games are a way for me to escape. My life is not awful by any standards. I’m happy. But every day, I wish things were different. When I fight side-by-side with Captain Price *et al* things are different. I become immersed and I love it. I’m somewhere else.
+Games are a way for me to escape. My life is not awful by any standards. I’m happy. But every day, I wish things were different. When I fight side-by-side with Captain Price <i>et al</i> things are different. I become immersed and I love it. I’m somewhere else.
 
-*This was originally published on [TheSixthAxis](https://www.thesixthaxis.com/2010/08/30/gaming-is/).*
+<i>This was originally published on [TheSixthAxis](https://www.thesixthaxis.com/2010/08/30/gaming-is/).</i>
