@@ -9,8 +9,10 @@ iOS 14 offers a new, streamlined experience that’s perfectly suited for transa
 
 Experts often argue that the future of financial services is invisible and embedded - banking will be a persistent layer across all of our daily interactions, almost unnoticeable by the user. You could argue that prior to modern smartphones, the physical debit / credit card was this layer, unlocking goods and services wherever we went. Smartphones shifted this decentralised layer to the centralised mobile wallet, with platforms like Apple and Google Pay aggregating (and potentially commoditising) a user’s payment mechanisms. The only real barrier to adoption now is the contactless limit, however most transactions fall well below this threshold.
 
-![Bank diagram](/images/banks-to-user.png)
-*The shift from card-led banking relationships to mobile intermediated banking releationships.*
+<figure>
+  <img class="blogImage" src="/assets/blogimg/banks-to-user.png" alt="Bank diagram">
+  <figcaption>The shift from card-led banking relationships to mobile intermediated banking releationships.</figcaption>
+</figure>![Bank diagram](/images/banks-to-user.png)
 
 But financial services hasn’t yet achieved this *persistent yet invisible* status. Features and functionality remain locked within the financial institution’s siloed app and most bank’s would rather aggregated a user’s external accounts than play nicely with an open ecosystem. What if instead they decided to embrace and extend the technologies provided by mobile platforms, starting with app clips?
 
@@ -20,8 +22,10 @@ Here I‘ll discuss what exactly app clips are, the opportunity they provide, an
 
 [App clips](https://developer.apple.com/app-clips/) are an upcoming feature of iOS 14 (likely coming in September) that allow users to temporarily use an app and all native device features (e.g. Apple Pay, camera, geolocation). App clips must be less than 10mb and are downloaded once a user scans a code, opens a URL, or taps an NFC tag - perfect for quickly unlocking a scooter or paying for parking. 
 
-![Clip flow](/images/app-clip-explained.png)
-*Apple’s explanation of an app clip user flow.*
+<figure>
+  <img class="blogImage" src="/assets/blogimg/app-clip-explained.png" alt="Clip flow">
+  <figcaption>Apple’s explanation of an app clip user flow.</figcaption>
+</figure>
 
 App clips are given a few special system privileges that make them perfect for customer acquisition. Firstly, they are automatically able to send notifications to users within the first 8 hours of download, perhaps used to provide an order update or prompt them to keep the app installed. Secondly, user data created in the app clip can be transferred to the full app once installed.
 
@@ -39,8 +43,10 @@ Thinking specifically about payments, there are two key implications of app clip
 
 I think this second implication is of particular importance for apps like [Square Cash](https://cash.app) and PayPal but shouldn’t be overlooked by the digital challengers like Monzo and Revolut.
 
-![Cash app](/images/square-clip.png)
-*A mock-up of a potential Square Cash app clip.*
+<figure>
+  <img class="blogImage" src="/assets/blogimg/square-clip.png" alt="Cash app">
+  <figcaption>A mock-up of a potential Square Cash app clip.</figcaption>
+</figure>
 
 Payment apps like Square can leverage the simplicity and interactivity of app clips to further kickstart their acquisition loops. Banks and other financial institutions should seek to identify their own micro-moments to do the same.
 
@@ -53,8 +59,10 @@ A few potential use cases I’ve identified include:
 - A **traditional bank or building society** adds an app clip to each Apple Maps branch location allowing users to schedule an advisor appointment. The app clip can then be leveraged for the initial customer documentation collation and verification. 
 - **Car insurers** add car sharing functionality so users can temporarily add a new driver for a pre-determined amount of time. The insurance confirmation can be shared using an app clip; the temporary driver is prompted to use *Sign in with Apple* and photograph the vehicle before and after their trip. 
 
-![Concept app clips](/images/concept-clips.png)
-*Mock-ups of the potential use cases.*
+<figure>
+  <img class="blogImage" src="/assets/blogimg/concept-clips.png" alt="Concept app clips">
+  <figcaption>Mock-ups of the potential use cases.</figcaption>
+</figure>
 
 Each of these simplifies and enriches an existing user need and, for the stock trading and car insurance concepts, creates an acquisition loop where existing customers personally introduce the proposition to their friends and family.
 
