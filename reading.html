@@ -22,4 +22,23 @@ title: "Reading"
       </div>
     {% endif %}
   {% endfor %}
+  
+    <h2>2022</h2>
+  {% for item in site.data.books %}
+    {% if item.year == 2022 %}
+      <div class="table-row">
+        <p>
+          {% if item.recommended == "yes" %}
+            <em>{{ item.name }}</em>
+          {% else %}
+            {{ item.name }}
+          {% endif %}
+        </p>
+        <div class="table-metadata">
+          <h6 class="table-location">{{ item.type }}</h6>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+  
 </div>
