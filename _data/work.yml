@@ -1,4 +1,4 @@
-- name: Prepaid Account and Wallet Build
+- name: Digital Wallet and Prepaid Money Account Build
   company: KPMG
   description: I led the strategy development, acted as interim Head of Payments, and product managed two new payment products - a digital wallet and an app-based prepaid money account - for a North American retailer with 22m customers; the products are currently in development based on my product roadmap and feature prioritization. I also supported the team in the design and development of a Buy Now Pay Later product across web, app, and store point-of-sale.
   startDate: 2021-12-06
@@ -34,14 +34,14 @@
   endDate: 2020-12-20
   images: [assets/img/adss.png]
 
-- name: Core Banking Platform Replacement
+- name: Core Banking System Replacement
   company: Cumberland Building Society
   description: I product managed a new core banking platform, focused on defining and testing new customer savings features. I also prototyped a digital savings card for the Apple Wallet, a first in the UK market. The core platform is now in testing to manage £3bn in customer assets.
   startDate: 2018-10-03
   endDate: 2020-01-16
   images: [assets/img/cbs.png]
 
-- name: Internal Wiki Tool Clickable Prototype 
+- name: Internal Wiki Tool Prototype 
   company: KPMG
   description: I led the user research and oversaw the development of a new internal wiki tool. Despite funding constraints, we successfully delivered a fully functional prototype using Axure and Bootstrap, demonstrating the potential for improved knowledge sharing and software reusability across government departments.
   startDate: 2018-1-16
