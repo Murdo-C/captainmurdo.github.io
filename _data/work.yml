@@ -1,13 +1,13 @@
-- name: Confidential Client Payment Products Build
+- name: Prepaid Account and Wallet Build
   company: KPMG
-  description: I led the strategy development, acted as interim Head of Payments, and product managed a digital wallet and prepaid money account for a major North American retailer; the products are currently in development. I also supported the team in the design and development of a Buy Now Pay Later  product across web, app, and store point-of-sale.
+  description: I led the strategy development, acted as interim Head of Payments, and product managed two new payment products - a digital wallet and an app-based prepaid money account - for a North American retailer with 22m customers; the products are currently in development based on my product roadmap and feature prioritization. I also supported the team in the design and development of a Buy Now Pay Later product across web, app, and store point-of-sale.
   startDate: 2021-12-06
   endDate: 2023-02-10
   images: [assets/img/client-db.png]
   
 - name: NFT Release
   company: Side Project
-  description: I sketched, minted, and launched an NFT to commemorate the Farcaster protocol - it can be found <a href="https://zora.co/collect/0xed2eca6862e7521ef55435d574143db838d09f87">here</a>.
+  description: I sketched, minted, and launched an NFT on the Ethereum blockchain to commemorate the Farcaster protocol - it can be found <a href="https://zora.co/collect/0xed2eca6862e7521ef55435d574143db838d09f87">here</a>.
   startDate: 2023-10-30
   endDate: 2023-11-13
   images: [assets/img/fc-nft.png]
@@ -15,35 +15,35 @@
  
 - name: Wall Street's Best iOS Stickers App Launch
   company: Side Project
-  description: I launched <a href="https://wallstreetsbest.app">Wall Street’s Best</a> - an iOS / iMessage sticker app based on r/wallstreetbets culture. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage App Store.
+  description: I launched <a href="https://wallstreetsbest.app">Wall Street’s Best</a> - an iOS / iMessage sticker app based on r/wallstreetbets culture in only one weekend. Launching weeks before the initial GameStop saga, it ultimately reached Top 50 in the iMessage App Store.
   startDate: 2021-01-17
   endDate: Now
   images: [assets/img/wsb.png]
 
 - name: Neobanked Newsletter Series
   company: Side Project
-  description: I ran a newsletter focused on digital-only banks that was published every second Sunday. The archive of issues lives <a href="https://neobanked.substack.com/archive">here</a>.
+  description: I ran a newsletter focused on digital-only banks that was published every second Sunday throughout 2020. The archive of issues lives <a href="https://neobanked.substack.com/archive">here</a>.
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: [assets/img/neo.png]
   
 - name: Trading App and Web Build
   company: KPMG
-  description: I product managed the development of a new app and web trading platform, focused on the front-end experience and key user features. The platform is now <a href="https://www.adss.com/en/platforms/">live</a>.
+  description: I product managed the development of a new app and web trading platform, focused on the mobile experience and prioritization of key user features. I advocated for a native app over PWA or responsive web and the new experience is now <a href="https://www.adss.com/en/platforms/">live.</a> The simplicity and configurability has received postive feedback from user, leading to an App Store rating of 4.1 out of 5.
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: [assets/img/adss.png]
 
 - name: Core Banking Platform Replacement
   company: Cumberland Building Society
-  description: I product managed a new core banking platform, focused on retail savings features. I also prototyped a digital savings card for the Apple Wallet, a first in the market. The core platform is now in testing.
+  description: I product managed a new core banking platform, focused on defining and testing new customer savings features. I also prototyped a digital savings card for the Apple Wallet, a first in the UK market. The core platform is now in testing to manage £3bn in customer assets.
   startDate: 2018-10-03
   endDate: 2020-01-16
   images: [assets/img/cbs.png]
 
 - name: Internal Wiki Tool Clickable Prototype 
   company: KPMG
-  description: I led the user research and product managed the development of a prototype wiki tool in Bootstrap. The tool was designed to allow government departments to re-use custom software with ease. The tool was shelved due to funding constraints.
+  description: I led the user research and oversaw the development of a new internal wiki tool. Despite funding constraints, we successfully delivered a fully functional prototype using Axure and Bootstrap, demonstrating the potential for improved knowledge sharing and software reusability across government departments.
   startDate: 2018-1-16
   endDate: 2018-4-17
   images: [assets/img/sg.png]
