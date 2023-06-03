@@ -18,16 +18,25 @@ title: "Resume"
   <li>Lead cross-functional teams from Strategy, Technology, Operations, Risk, and People; typical team size of 2-5 strategists, business analysts, or user researchers</li>
 </ul>
 
-<p>Example projects:</p>
+<p>Example Client Work:</p>
 
-<ul>
-  <li>Designed the in-store and online digital payments solution for a major North American retailer, working with product development teams to build the MVP release</li>
-  <li>Strategic review and operating model design for a top 10 UK Building Society, which identified key market participation decisions and shaped a three-year transformation program</li>
-  <li>Assessed the competitive advantage of a top 5 UK Building Society and, based on these strengths, designed 20+ future business model options for Executive consideration</li>
-  <li>Designed the offline and online customer experiences for a top 10 UK Building Society based on market insight, customer segmentation, and technology feasibility</li>
-  <li>Led the research and design of an internal digital government platform, including strategy definition, prototyping, and target operating model definition</li>
-  <li>Planned a US-based software firm’s UK market entry, including B2B sales approach and HQ location</li>
-</ul>
+{% for item in site.data.work %} {% if item.company == "KPMG" %}
+  <section class="section-wide no-hover-section project-image-wrapper">
+    <div class="main-title-box work-title-box">
+      <h2>{{ item.name }}</h2>
+      <h5>{{ item.startDate | date: "%b %Y" }}  to  
+        {% if item.endDate == "Now" %}
+        Today
+        {% else %}
+        {{ item.endDate | date: "%b %Y" }}
+        {% endif %}
+      </h5>
+    </div>
+    
+    <p>{{ item.description }}</p>
+  </section>
+{% endif %}
+{% endfor %}
 
 <p><strong>Qualifications</strong></p>
 
@@ -37,13 +46,32 @@ title: "Resume"
   <li>ITIL v3 Foundation Level</li>
 </ul>
 
-<p><strong>Speaking Engagements</strong></p>
-
-<ul>
-  <li>Customer Insights, <em>CIH Housing Conference</em></li>
-  <li>Blockchain in Financial Services, <em>Scottish Financial Enterprise Briefing</em></li>
-  <li>Future of Retailing, <em>Heriot-Watt University - Marketing Undergraduate Course</em></li>
-</ul>
+<div class="achievements">
+  <h2>Speaking</h2>
+  {% for item in site.data.achievements %} {% if item.type == "speaking" %}
+  <a href="{{ item.link }}" target="_BLANK">
+    <div class="table-row">
+      <p class="">{{ item.name }}</p>
+      <div class="table-metadata">
+        <h5 class="table-location">{{ item.location }}</h5>
+        <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+      </div>
+    </div>
+  </a>
+  {% endif %} {% endfor %}
+  
+  <h2>Publications</h2>
+  {% for item in site.data.achievements %} {% if item.type == "publication" %}
+  <a href="{{ item.link }}" target="_BLANK">
+    <div class="table-row">
+      <p class="">{{ item.name }}</p>
+      <div class="table-metadata">
+        <h5 class="table-location">{{ item.location }}</h5>
+        <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+      </div>
+    </div>
+  </a>
+  {% endif %} {% endfor %}
 
 <h3>Liberty Mutual Insurance</h3>
 <p><em>Boston, MA</em></p>
