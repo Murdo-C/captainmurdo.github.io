@@ -1,20 +1,20 @@
-- name: "How Design Teams Collaborate Remotely"
+- name: "The Potential of Blockchain Technology"
   type: speaking
-  location: "Remote Career Summit"
-  link: https://hopin.com/events/remote-job-fair-2020?ref=d36b43895eb0
-  date: 2020-06-20
+  location: "Scottish Financial Enterprise Executive Briefing Series"
+  link: https://www.sfe.org.uk/events/sfe-breakfast-briefing-with-kpmg-on-blockchain/
+  date: 2016-6-15
 
-- name: "Autoflow demo"
+- name: "Humanizing Customer Insights"
   type: speaking
-  location: "Figma plugins launch event"
-  link: https://www.youtube.com/watch?v=6r5n1SFkEtQ
-  date: 2019-08-01
+  location: "CIH - Housing 2017 Conference"
+  link: https://twitter.com/i/moments/881993023239983104
+  date: 2017-6-28
 
-- name: "Improving Crypto UX for Mass Adoption"
+- name: "Future of Retailing Lecture"
   type: speaking
-  location: "CUBC"
-  link: https://cubs2019.splashthat.com/
-  date: 2019-05-18
+  location: "Heriot-Watt's Retail Marketing Graduate Course"
+  link: 
+  date: 2018-10-29
 
 # - name: "Hack the North 2021"
 #   type: judging
