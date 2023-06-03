@@ -1,9 +1,9 @@
-- name: "The Candy House by Jennifer Egan"
+- name: The Candy House by Jennifer Egan
   type: Fiction
   year: 2023
   recommended: no
 
-- name: "Far from the Light of Heaven by Tade Thompson"
+- name: Far from the Light of Heaven by Tade Thompson
   type: Fiction
   year: 2023
   recommended: no
@@ -93,7 +93,7 @@
   year: 2022
   recommended: no
 
-- name: The Omnivore’s Dilemma - A Natural History of Four Meals by Michael Pollan
+- name: The Omnivore’s Dilemma by Michael Pollan
   type: Non-Fiction
   year: 2022
   recommended: no
@@ -323,7 +323,7 @@
   year: 2020
   recommended: no
 
-- name: Annabel Scheme and the Adventure of the New Golden Gate by Robin Sloan
+- name: The Adventure of the New Golden Gate by Robin Sloan
   type: Fiction
   year: 2020
   recommended: no
@@ -548,7 +548,7 @@
   year: 2018
   recommended: no
 
-- name: Digital Transformation at Scale - Why the Strategy Is Delivery by Public.Digital
+- name: Digital Transformation at Scale by Public.Digital
   type: Non-Fiction
   year: 2018
   recommended: no
