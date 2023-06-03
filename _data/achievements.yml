@@ -16,8 +16,8 @@
   link: https://www.sfe.org.uk/events/sfe-breakfast-briefing-with-kpmg-on-blockchain/
   date: 2016-6-15
 
-# - name: "Hack the North 2021"
-#   type: judging
-#   location: "University of Waterloo"
-#   link: https://hackthenorth.com/
-#   date: 2021-01-15
+- name: "Strategic Blockchain Use Cases"
+  type: publication
+  location: "KPMG"
+  link: https://murdo.xyz/docs/strategic-blockchain-use-cases.pdf
+  date: 2022-4-21
