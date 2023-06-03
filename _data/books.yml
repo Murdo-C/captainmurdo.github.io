@@ -1,7 +1,7 @@
 - name: The Candy House by Jennifer Egan
   type: Fiction
   year: 2023
-  recommended: no
+  recommended: "no"
 
 - name: Far from the Light of Heaven by Tade Thompson
   type: Fiction
@@ -16,7 +16,7 @@
 - name: Rabbits by Terry Miles
   type: Fiction
   year: 2023
-  recommended: yes
+  recommended: "yes"
 
 - name: Convenience Store Woman by Sayaka Murata
   type: Fiction
