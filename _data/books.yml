@@ -1,0 +1,729 @@
+- name: The Candy House by Jennifer Egan
+  type: Fiction
+  year: 2023
+  recommended: no
+
+- name: Far from the Light of Heaven by Tade Thompson
+  type: Fiction
+  year: 2023
+  recommended: no
+
+- name: This Time Tomorrow by Emma Straub
+  type: Fiction
+  year: 2023
+  recommended: yes
+
+- name: Rabbits by Terry Miles
+  type: Fiction
+  year: 2023
+  recommended: yes
+
+- name: Convenience Store Woman by Sayaka Murata
+  type: Fiction
+  year: 2023
+  recommended: no
+
+- name: The Kaiju Preservation Society by John Scalzi
+  type: Fiction
+  year: 2023
+  recommended: no
+
+- name: The Mountain in the Sea by Ray Nayler
+  type: Fiction
+  year: 2023
+  recommended: yes
+
+- name: Outlive by Peter Attia
+  type: Non-Fiction
+  year: 2023
+  recommended: no
+
+- name: What Doesn’t Kill Us by Scott Carney
+  type: Non-Fiction
+  year: 2023
+  recommended: no
+
+- name: Atomic Habits by James Clear
+  type: Non-Fiction
+  year: 2023
+  recommended: no
+
+- name: Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
+  type: Fiction
+  year: 2022
+  recommended: yes
+
+- name: The Suitcase Clone by Robin Sloan
+  type: Fiction
+  year: 2022
+  recommended: no
+
+- name: Reap3r by Eliot Peper
+  type: Fiction
+  year: 2022
+  recommended: yes
+
+- name: Never Let Me Go by Kazou Ishiguro
+  type: Fiction
+  year: 2022
+  recommended: no
+
+- name: Mr Penumbra’s 24 Hour Bookstore by Robin Sloan
+  type: Fiction
+  year: 2022
+  recommended: yes
+
+- name: First Person Singular by Haruki Murakami
+  type: Fiction
+  year: 2022
+  recommended: no
+
+- name: Klara and the Sun by Kazuo Ishiguro
+  type: Fiction
+  year: 2022
+  recommended: no
+
+- name: Death's End by Cixin Liu
+  type: Fiction
+  year: 2022
+  recommended: yes
+
+- name: Creative Selection by Ken Kocienda
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: The Omnivore’s Dilemma: A Natural History of Four Meals by Michael Pollan
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Sam Walton: Made In America by Sam Walton
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Radical Candor by Kim Scott
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Skin in the Game by Nassim Nicholas Taleb
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Build by Tony Fadell
+  type: Non-Fiction
+  year: 2022
+  recommended: yes
+
+- name: The Order of Time by Carlo Rovelli
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Why We Sleep by Matthew Walker
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Alone on the Wall by Alex Honnold
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Digital Minimalism by Cal Newport
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Seven Brief Lessons on Physics by Carlo Rovelli
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Four Thousand Weeks by Oliver Burkeman
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Breath by James Nestor
+  type: Non-Fiction
+  year: 2022
+  recommended: yes
+
+- name: Ego is the Enemy by Ryan Holiday
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: Replacing Guilt: Minding Our Way by Nate Soares
+  type: Non-Fiction
+  year: 2022
+  recommended: no
+
+- name: The Dark Forest by Cixin Liu
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: LaserWriter II: A Novel by Tamara Shopsin
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: The Three-Body Problem by Cixin Liu
+  type: Fiction
+  year: 2021
+  recommended: yes
+
+- name: The Midnight Library by Matt Haig
+  type: Fiction
+  year: 2021
+  recommended: yes
+
+- name: Dark Matter by Blake Crouch
+  type: Fiction
+  year: 2021
+  recommended: yes
+
+- name: Flowers for Algernon by Daniel Keyes
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: Remains of the Day by Kazuo Ishiguro
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: Project Hail Mary by Andy Weir
+  type: Fiction
+  year: 2021
+  recommended: yes
+
+- name: Ready Player One by Ernest Cline
+  type: Fiction
+  year: 2021
+  recommended: yes
+
+- name: Artemis by Andy Weir
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: Heroes by Stephen Fry
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: Treasure Island by Robert Louis Stevenson
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: Mythos by Stephen Fry
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: To Kill a Mockingbird by Harper Lee
+  type: Fiction
+  year: 2021
+  recommended: no
+
+- name: The Obstacle is the Way by Ryan Holiday
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Fooled by Randomness by Nassim Nicholas Taleb
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Antifragile by Nassim Nicholas Taleb
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: The Madness of Crowds by Douglas Murray
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: No Easy Day by Mark Owen
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Red Notice by Bill Browder
+  type: Non-Fiction
+  year: 2021
+  recommended: yes
+
+- name: Reality is Not What it Seems by Carlo Rovelli
+  type: Non-Fiction
+  year: 2021
+  recommended: yes
+
+- name: An Astronaut's Guide to Life on Earth by Chris Hadfield
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Beyond Order by Jordan B. Peterson
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Nudge by Thaler & Sustein
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Outliers by Malcolm Gladwell
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Blink by Malcolm Gladwell
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Building a StoryBrand by Donald Miller
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Black Box Thinking by Matthew Syed
+  type: Non-Fiction
+  year: 2021
+  recommended: no
+
+- name: Norse Mythology by Neil Gaiman
+  type: Fiction
+  year: 2020
+  recommended: yes
+
+- name: The Restaurant at the End of the Universe by Douglas Adams
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: The Hitchhiker’s Guide to the Galaxy by Douglas Adams
+  type: Fiction
+  year: 2020
+  recommended: yes
+
+- name: Annabel Scheme by Robin Sloan
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: Annabel Scheme and the Adventure of the New Golden Gate by Robin Sloan
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: Colorless Tsukuru Tazaki by Haruki Murakami
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: New Waves by Kevin Nyugen
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: The Westing Game by Ellen Raskin
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: Dune by Frank Herbert
+  type: Fiction
+  year: 2020
+  recommended: yes
+
+- name: The Trial by Franz Kafka
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: Slaughterhouse 5 by Kurt Vonnegut
+  type: Fiction
+  year: 2020
+  recommended: yes
+
+- name: Norwegian Wood by Haruki Murakami
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: Notes from Underground by Fyodor Dostoyevsky
+  type: Fiction
+  year: 2020
+  recommended: no
+
+- name: Waking Up by Sam Harris
+  type: Non-Fiction
+  year: 2020
+  recommended: yes
+
+- name: Shoe Dog by Phil Knight
+  type: Non-Fiction
+  year: 2020
+  recommended: yes
+
+- name: In the Footsteps of the Band of Brothers by Larry Alexander
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: Close to the Machine by Ellen Ullman
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: I Contain Multitudes by Ed Yong
+  type: Non-Fiction
+  year: 2020
+  recommended: yes
+
+- name: Kissa by Kissa by Craig Mod
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: Astrophysics for People in a Hurry by Neil deGrasse Tyson
+  type: Non-Fiction
+  year: 2020
+  recommended: yes
+
+- name: Write to the Point by Sam Leith
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: The Strange Death of Europe by Douglas Murray
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: The Second Mountain by David Brooks
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: The Upstarts by Brad Stone
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: Disney U by Doug Lipp
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: Guns Germs & Steel by Jared Diamond
+  type: Non-Fiction
+  year: 2020
+  recommended: yes
+
+- name: No Filter: The Inside Story of Instagram by Sarah Frier
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: The Ride of a Lifetime by Bob Iger
+  type: Non-Fiction
+  year: 2020
+  recommended: no
+
+- name: Killing Commendatore by Haruki Murakami
+  type: Fiction
+  year: 2019
+  recommended: no
+
+- name: Watchmen by Alan Moore
+  type: Fiction
+  year: 2019
+  recommended: yes
+
+- name: China Dream by Ma Jian
+  type: Fiction
+  year: 2019
+  recommended: no
+
+- name: Strange Weather in Tokyo by Hiromi Kawakami
+  type: Fiction
+  year: 2019
+  recommended: yes
+
+- name: Radicalized by Cory Doctorow
+  type: Fiction
+  year: 2019
+  recommended: no
+
+- name: Exhalation by Ted Chiang
+  type: Fiction
+  year: 2019
+  recommended: yes
+
+- name: Desire by Haruki Murakami
+  type: Fiction
+  year: 2019
+  recommended: no
+
+- name: Gnomon by Nick Harkaway
+  type: Fiction
+  year: 2019
+  recommended: no
+
+- name: Tribes by Seth Godin
+  type: Non-Fiction
+  year: 2019
+  recommended: yes
+
+- name: The Curse of Bigness: Antitrust in the New Gilded Age by Tim Wu
+  type: Non-Fiction
+  year: 2019
+  recommended: no
+
+- name: How to do Nothing by Jenny Odell
+  type: Non-Fiction
+  year: 2019
+  recommended: yes
+
+- name: Ruined by Design by Mike Monteiro
+  type: Non-Fiction
+  year: 2019
+  recommended: no
+
+- name: Goodbye, Things by Fumio Sasaki
+  type: Non-Fiction
+  year: 2019
+  recommended: yes
+
+- name: Think Again: How to Reason and Argue by Walter Sinnott-Armstrong
+  type: Non-Fiction
+  year: 2019
+  recommended: yes
+
+- name: The Checklist Manifesto by Atul Gawande
+  type: Non-Fiction
+  year: 2019
+  recommended: yes
+
+- name: Digital Minimalism by Cal Newport
+  type: Non-Fiction
+  year: 2019
+  recommended: no
+
+- name: 12 Rules for Life by Jordan B. Peterson
+  type: Non-Fiction
+  year: 2019
+  recommended: yes
+
+- name: Atomic Habits by James Clear
+  type: Non-Fiction
+  year: 2019
+  recommended: yes
+
+- name: Men Without Women by Haruki Murakami
+  type: Fiction
+  year: 2018
+  recommended: yes
+
+- name: These Days by Jack Cheng
+  type: Fiction
+  year: 2018
+  recommended: no
+
+- name: Digital Transformation at Scale: Why the Strategy Is Delivery by Public.Digital
+  type: Non-Fiction
+  year: 2018
+  recommended: no
+
+- name: Brave New World by Aldous Huxley
+  type: Fiction
+  year: 2017
+  recommended: yes
+
+- name: Sourdough by Robin Sloan
+  type: Fiction
+  year: 2017
+  recommended: yes
+
+- name: The Curious Case of Benjamin Button by F. Scott Fitzgerald
+  type: Fiction
+  year: 2017
+  recommended: yes
+
+- name: Animal Farm by George Orwell
+  type: Fiction
+  year: 2017
+  recommended: yes
+
+- name: Modern Romance by Aziz Ansari
+  type: Non-Fiction
+  year: 2017
+  recommended: yes
+
+- name: Sapiens by Yuval Noah Harari
+  type: Non-Fiction
+  year: 2017
+  recommended: yes
+
+- name: The Establishment by Owen Jones
+  type: Non-Fiction
+  year: 2017
+  recommended: yes
+
+- name: The Road by Cormac McCarthy
+  type: Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: The Lifecycle of Software Objects by Ted Chiang
+  type: Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Division By Zero by Ted Chiang
+  type: Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Fahrenheit 451 by Ray Bradbury
+  type: Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Harry Potter and the Cursed Child by Jack Thorne
+  type: Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Invisible Cities by Italo Calvino
+  type: Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Mr Penumbra’s 24 Hour Bookstore by Robin Sloan
+  type: Fiction
+  year: Pre-2017
+  recommended: yes
+
+- name: The Martian by Andy Weir
+  type: Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: The Tipping Point by Malcolm Gladwell
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Liars Poker by Michael Lewis
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: yes
+
+- name: Becoming Steve Jobs by Brent Schlender and Rick Tetzeli
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Human Universe by Brian Cox
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Originals by Adam Grant
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Zero to One by Peter Thiel
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: yes
+
+- name: How Will You Measure Your Life by Clayton M. Christensen
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: A Brief History of Time by Stephen Hawking
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Thinking, Fast and Slow by Daniel Kahneman
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: yes
+
+- name: Enough by Patrick Rhone
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Minimal Mac by Patrick Rhone
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: The Communist Manifesto by Friedrich Engels and Karl Marx
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Hatching Twitter by Nick Bilton
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Things a Little Bird Told Me by Biz Stone
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Without Their Permission by Alexis Ohanian
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Steve Jobs by Walter Isaacson
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Age of Context by Robert Scoble and Shel Israel
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Freakonomics by Steven Levitt and Stephen Dubner
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Think Like a Freak by Steven Levitt and Stephen Dubner
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: no
+
+- name: Flash Boys by Michael Lewis
+  type: Non-Fiction
+  year: Pre-2017
+  recommended: yes
