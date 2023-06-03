@@ -7,11 +7,9 @@ title: "Resume"
 
 <h2>Experience</h2>
 
-<h3>KPMG</h3>
-<p>Toronto, Canada</p>
+<h3>KPMG</h3><p>Toronto, Canada</p>
 
-<p><strong>Manager, Customer & Strategy Consulting</strong></p>
-<p>October 2014 to Present</p>
+<p><strong>Manager, Customer & Strategy Consulting</strong></p><p>October 2014 to Present</p>
 
 <ul>
   <li>Extensive knowledge of strategy and proposition development, with skills in business analysis and service design</li>
@@ -22,13 +20,6 @@ title: "Resume"
 
 {% for item in site.data.work %} {% if item.company == "KPMG" %}
       <h2>{{ item.name }}</h2>
-      <h5>{{ item.startDate | date: "%b %Y" }}  to  
-        {% if item.endDate == "Now" %}
-        Today
-        {% else %}
-        {{ item.endDate | date: "%b %Y" }}
-        {% endif %}
-      </h5>
     </div>
     <p>{{ item.description }}</p>
   </section>
