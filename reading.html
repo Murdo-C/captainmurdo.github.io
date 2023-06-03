@@ -6,13 +6,14 @@ title: "Reading"
 
 <div class="achievements">
   <h2>2023</h2>
-  {% for item in site.data.books %} {% if item.year == 2023 %}
-    <div class="table-row">
-      <p class="">{% if item.recommended == "yes" %}<em>{% endif %}{{ item.name }}{% if item.recommended == "yes" %}</em>{% endif %}</p>
-      <div class="table-metadata">
-        <h6 class="table-location">{{ item.type }}</h5>
+  {% for item in site.data.books %}
+    {% if item.year == 2023 %}
+      <div class="table-row">
+        <p>{% if item.recommended == "yes" %}<em>{{ item.name }}</em>{% else %}{{ item.name }}{% endif %}</p>
+        <div class="table-metadata">
+          <h6 class="table-location">{{ item.type }}</h6>
+        </div>
       </div>
-    </div>
-{% endif %}
-{% endfor %}
+    {% endif %}
+  {% endfor %}
 </div>
