@@ -556,7 +556,7 @@
 - name: Brave New World by Aldous Huxley
   type: Fiction
   year: 2017
-  recommended: "yes"
+  recommended: "no"
 
 - name: Sourdough by Robin Sloan
   type: Fiction
@@ -566,17 +566,17 @@
 - name: The Curious Case of Benjamin Button by F. Scott Fitzgerald
   type: Fiction
   year: 2017
-  recommended: "yes"
+  recommended: "no"
 
 - name: Animal Farm by George Orwell
   type: Fiction
   year: 2017
-  recommended: "yes"
+  recommended: "no"
 
 - name: Modern Romance by Aziz Ansari
   type: Non-Fiction
   year: 2017
-  recommended: "yes"
+  recommended: "no"
 
 - name: Sapiens by Yuval Noah Harari
   type: Non-Fiction
@@ -586,7 +586,7 @@
 - name: The Establishment by Owen Jones
   type: Non-Fiction
   year: 2017
-  recommended: "yes"
+  recommended: "no"
 
 - name: The Road by Cormac McCarthy
   type: Fiction
