@@ -10,7 +10,7 @@ title: "Reading"
     {% if item.year == 2023 %}
       <div class="table-row">
         <p>
-          {% if item.recommended == yes %}
+          {% if item.recommended == "yes" %}
             <em>{{ item.name }}</em>
           {% else %}
             {{ item.name }}
