@@ -1,8 +1,8 @@
-- name: "Blockchain's Potential"
+- name: "Future of Retailing"
   type: speaking
-  location: "SFE Executive Briefing"
-  link: https://www.sfe.org.uk/events/sfe-breakfast-briefing-with-kpmg-on-blockchain/
-  date: 2016-6-15
+  location: "Heriot-Watt University"
+  link: 
+  date: 2018-10-29
 
 - name: "Humanizing Customer Insights"
   type: speaking
@@ -10,11 +10,11 @@
   link: https://twitter.com/i/moments/881993023239983104
   date: 2017-6-28
 
-- name: "Future of Retailing"
+- name: "Blockchain's Potential"
   type: speaking
-  location: "Heriot-Watt University"
-  link: 
-  date: 2018-10-29
+  location: "SFE Executive Briefing"
+  link: https://www.sfe.org.uk/events/sfe-breakfast-briefing-with-kpmg-on-blockchain/
+  date: 2016-6-15
 
 # - name: "Hack the North 2021"
 #   type: judging
