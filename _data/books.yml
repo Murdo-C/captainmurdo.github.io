@@ -266,7 +266,7 @@
 - name: Reality is Not What it Seems by Carlo Rovelli
   type: Non-Fiction
   year: 2021
-  recommended: "yes"
+  recommended: "no"
 
 - name: An Astronaut's Guide to Life on Earth by Chris Hadfield
   type: Non-Fiction
@@ -316,7 +316,7 @@
 - name: The Hitchhiker’s Guide to the Galaxy by Douglas Adams
   type: Fiction
   year: 2020
-  recommended: "yes"
+  recommended: "no"
 
 - name: Annabel Scheme by Robin Sloan
   type: Fiction
@@ -356,7 +356,7 @@
 - name: Slaughterhouse 5 by Kurt Vonnegut
   type: Fiction
   year: 2020
-  recommended: "yes"
+  recommended: "no"
 
 - name: Norwegian Wood by Haruki Murakami
   type: Fiction
@@ -371,7 +371,7 @@
 - name: Waking Up by Sam Harris
   type: Non-Fiction
   year: 2020
-  recommended: "yes"
+  recommended: "no"
 
 - name: Shoe Dog by Phil Knight
   type: Non-Fiction
@@ -406,7 +406,7 @@
 - name: Astrophysics for People in a Hurry by Neil deGrasse Tyson
   type: Non-Fiction
   year: 2020
-  recommended: "yes"
+  recommended: "no"
 
 - name: Write to the Point by Sam Leith
   type: Non-Fiction
@@ -456,7 +456,7 @@
 - name: Watchmen by Alan Moore
   type: Fiction
   year: 2019
-  recommended: "yes"
+  recommended: "no"
 
 - name: China Dream by Ma Jian
   type: Fiction
@@ -466,7 +466,7 @@
 - name: Strange Weather in Tokyo by Hiromi Kawakami
   type: Fiction
   year: 2019
-  recommended: "yes"
+  recommended: "no"
 
 - name: Radicalized by Cory Doctorow
   type: Fiction
@@ -491,7 +491,7 @@
 - name: Tribes by Seth Godin
   type: Non-Fiction
   year: 2019
-  recommended: "yes"
+  recommended: "no"
 
 - name: The Curse of Bigness - Antitrust in the New Gilded Age by Tim Wu
   type: Non-Fiction
@@ -501,7 +501,7 @@
 - name: How to do Nothing by Jenny Odell
   type: Non-Fiction
   year: 2019
-  recommended: "yes"
+  recommended: "no"
 
 - name: Ruined by Design by Mike Monteiro
   type: Non-Fiction
@@ -511,17 +511,17 @@
 - name: Goodbye, Things by Fumio Sasaki
   type: Non-Fiction
   year: 2019
-  recommended: "yes"
+  recommended: "no"
 
-- name: Think Again - How to Reason and Argue by Walter Sinnott-Armstrong
+- name: Think Again by Walter Sinnott-Armstrong
   type: Non-Fiction
   year: 2019
-  recommended: "yes"
+  recommended: "no"
 
 - name: The Checklist Manifesto by Atul Gawande
   type: Non-Fiction
   year: 2019
-  recommended: "yes"
+  recommended: "no"
 
 - name: Digital Minimalism by Cal Newport
   type: Non-Fiction
@@ -531,7 +531,7 @@
 - name: 12 Rules for Life by Jordan B. Peterson
   type: Non-Fiction
   year: 2019
-  recommended: "yes"
+  recommended: "no"
 
 - name: Atomic Habits by James Clear
   type: Non-Fiction
