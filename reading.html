@@ -11,8 +11,8 @@ title: "Reading"
       <p class="">{{ item.name }}</p>
       <div class="table-metadata">
         <h5 class="table-type">{{ item.type }}</h5>
-        {% if item.recommeded == "Yes" %} <h5 class="table-recommended">☆</h5> {% endif %}
+        {% if item.recommended == "yes" %} <h5 class="table-recommended">☆</h5> {% endif %}
       </div>
     </div>
-  </a>
   {% endif %} {% endfor %}
+</div>
