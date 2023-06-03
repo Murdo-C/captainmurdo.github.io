@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Reading"
+---
+<h1 class="pageHeader">Reading</h1>
+
+<div class="achievements">
+  <h2>Speaking</h2>
+  {% for item in site.data.reading %} {% if item.year == "2023" %}
+    <div class="table-row">
+      <p class="">{{ item.name }}</p>
+      <div class="table-metadata">
+        <h5 class="table-type">{{ item.type }}</h5>
+        {% if item.recommeded == "Yes" %} <h5 class="table-recommended">☆</h5> {% endif %}
+      </div>
+    </div>
+  </a>
+  {% endif %} {% endfor %}
