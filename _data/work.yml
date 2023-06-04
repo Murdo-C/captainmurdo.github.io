@@ -1,6 +1,6 @@
 - name: Digital Wallet and Prepaid Money Account Build
   company: KPMG
-  description: I led the strategy development, acted as interim Head of Payments, and product managed two new payment products - a digital wallet and an app-based prepaid money account - for a North American retailer with 22m customers; the products are currently in development based on my product roadmap and feature prioritization. I also supported the team in the design and development of a Buy Now Pay Later product across web, app, and store point-of-sale.
+  description: I led the strategy development, acted as interim Head of Payments, and product managed two new payment products - a digital wallet and an app-based prepaid money account - for a North American retailer with 22m customers; the products are currently in development based on my product roadmap and feature prioritization. I also supported the team in the design and development of a Buy Now Pay Later product across web, app, and store point-of-sale. I worked with engineering, design, marketing, and store teams to ensure alignment and develop a clear go-to-market strategy.
   startDate: 2021-12-06
   endDate: 2023-02-10
   images: [assets/img/client-db.png]
@@ -11,7 +11,6 @@
   startDate: 2023-10-30
   endDate: 2023-11-13
   images: [assets/img/fc-nft.png]
-
  
 - name: Wall Street's Best iOS Stickers App Launch
   company: Side Project
@@ -29,14 +28,14 @@
   
 - name: Trading App and Web Build
   company: KPMG
-  description: I product managed the development of a new app and web trading platform, focused on the mobile experience and prioritization of key user features. I advocated for a native app over PWA or responsive web and the new experience is now <a href="https://www.adss.com/en/platforms/">live.</a> The simplicity and configurability has received postive feedback from user, leading to an App Store rating of 4.1 out of 5.
+  description: I product managed the development of a new app and web trading platform, focused on the mobile experience and differentiated features to drive adoption, which included a custom notification configurator and automated trading tools. I also advocated for a native app over progressive web app or responsive website; the new experience is now <a href="https://www.adss.com/en/platforms/">live</a> for web, iOS, and Android. The simplicity and configurability has received postive feedback from users, leading to an App Store rating of 4.1 out of 5.
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: [assets/img/adss.png]
 
 - name: Core Banking System Replacement
-  company: Cumberland Building Society
-  description: I product managed a new core banking platform, focused on defining and testing new customer savings features. I also prototyped a digital savings card for the Apple Wallet, a first in the UK market. The core platform is now in testing to manage £3bn in customer assets.
+  company: KPMG
+  description: I product managed a new core banking platform, focused on the new customer savings experience. I also prototyped a digital savings card for the Apple Wallet, a first in the UK market. The core platform is now in testing to manage £3bn in customer assets.
   startDate: 2018-10-03
   endDate: 2020-01-16
   images: [assets/img/cbs.png]

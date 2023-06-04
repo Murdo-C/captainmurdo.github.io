@@ -66,11 +66,13 @@ title: "Resume"
 <p><strong>Analyst, Digital Strategy</strong></p>
 <p>June 2013 to August 2013</p>
 
-<ul>
-  <li>Researched future mobile technologies to modernize the company's mobile strategy</li>
-  <li>Collaborated with technical and business staff in design and build of a customer-facing iOS and Android application</li>
-  <li>Prototyped iOS wallet insurance card to simplify customer identification</li>
-</ul>
+{% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
+      <h2>{{ item.name }}</h2>
+    </div>
+    <p>{{ item.description }}</p>
+  </section>
+{% endif %}
+{% endfor %}
 
 <h2>Education</h2>
 
