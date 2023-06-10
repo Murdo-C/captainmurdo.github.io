@@ -39,6 +39,25 @@ title: "Resume"
   <li>ITIL v3 Foundation Level</li>
 </ul>
 
+<div style="display: grid; grid-template-columns: auto auto;">
+  <div>
+    <h3>Liberty Mutual Insurance</h3>
+    <p>Boston, MA</p>
+  </div>
+  <div style="text-align: right;">
+    <h3>Analyst, Digital Strategy</h3>
+    <p>June 2013 to August 2013</p>
+  </div>
+</div>
+
+{% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
+      <h2>{{ item.name }}</h2>
+    </div>
+    <p>{{ item.description }}</p>
+  </section>
+{% endif %}
+{% endfor %}
+
 <div class="achievements" style="margin-top: 0;">
   <h2 style="margin-top: 0;">Speaking</h2>
   {% for item in site.data.achievements %} {% if item.type == "speaking" %}
@@ -68,25 +87,6 @@ title: "Resume"
 </div>
 
 <br>
-
-<div style="display: grid; grid-template-columns: auto auto;">
-  <div>
-    <h3>Liberty Mutual Insurance</h3>
-    <p>Boston, MA</p>
-  </div>
-  <div style="text-align: right;">
-    <h3>Analyst, Digital Strategy</h3>
-    <p>June 2013 to August 2013</p>
-  </div>
-</div>
-
-{% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
-      <h2>{{ item.name }}</h2>
-    </div>
-    <p>{{ item.description }}</p>
-  </section>
-{% endif %}
-{% endfor %}
 
 <h2><em>Education</em></h2>
 
