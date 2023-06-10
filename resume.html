@@ -65,15 +65,16 @@ title: "Resume"
   </a>
   {% endif %} {% endfor %}
 <br>
-  
-<div style="display: inline;">
-  <h3 style="display: inline;">Liberty Mutual Insurance</h3>
-  <p style="display: inline; float: right;">Boston, MA</p>
-</div>
 
-<div style="display: inline;">
-  <h3 style="display: inline;">Analyst, Digital Strategy</h3>
-  <p style="display: inline; float: right;">June 2013 to August 2013</p>
+  <div style="display: flex;">
+  <div>
+    <h3>Liberty Mutual Insurance</h3>
+    <p>Boston, MA</p>
+  </div>
+  <div>
+    <h3>Analyst, Digital Strategy</h3>
+    <p>June 2013 to August 2013</p>
+  </div>
 </div>
 
 {% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
