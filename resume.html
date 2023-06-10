@@ -11,8 +11,10 @@ title: "Resume"
   <p style="display: inline; float: right;">Toronto, Canada</p>
 </div>
 
-<p style="display: inline;"><strong>Manager, Customer & Strategy Consulting</strong></p>
-<p style="display: inline;">October 2014 to Present</p>
+<div style="display: inline;">
+  <p style="display: inline;"><strong>Manager, Customer & Strategy Consulting</strong></p>
+  <p style="display: inline; float: right;">October 2014 to Present</p>
+</div>
 
 <ul>
   <li>Extensive knowledge of strategy and proposition development, with skills in business analysis and service design</li>
@@ -63,11 +65,15 @@ title: "Resume"
   </a>
   {% endif %} {% endfor %}
 <br>
-<h3>Liberty Mutual Insurance</h3>
-<p>Boston, MA</p>
+<div style="display: inline;">
+  <h3 style="display: inline;">Liberty Mutual Insurance</h3>
+  <p style="display: inline; float: right;">Boston, MA<</p>
+</div>
 
-<p><strong>Analyst, Digital Strategy</strong></p>
-<p>June 2013 to August 2013</p>
+<div style="display: inline;">
+  <p style="display: inline;"><strong>Analyst, Digital Strategy</strong></p>
+  <p style="display: inline; float: right;">June 2013 to August 2013</p>
+</div>
 
 {% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
       <h2>{{ item.name }}</h2>
@@ -81,14 +87,17 @@ title: "Resume"
 
 <div style="display: inline;">
   <h3 style="display: inline;">Heriot-Watt University</h3>
-  <p style="display: inline; text-align: right;">2010-2014</p>
+  <p style="display: inline; float: right;">2010-2014</p>
 </div>
 
-<p><strong>Bachelor of Actuarial Science</strong>, Edinburgh, UK</p>
+<div style="display: inline;">
+  <h3 style="display: inline;">Bachelor of Actuarial Science</p>
+  <p style="display: inline; float: right;">Edinburgh, UK</p>
+</div>
 
 <hr>
 
 <div style="display: inline;">
   <p style="display: inline;">Email: <a href="mailto:murdo.connochie@gmail.com" style="display: inline;">murdo.connochie@gmail.com</a></p>
-  <p style="display: inline; text-align: right;">Phone: +1 (437) 973-9844</p>
+  <p style="display: inline; float: right;">Phone: +1 (437) 973-9844</p>
 </div>
