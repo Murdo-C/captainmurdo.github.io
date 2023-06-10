@@ -33,14 +33,14 @@ title: "Resume"
 {% endfor %}
 
 <p style="margin-bottom: 0;"><strong>Qualifications</strong></p>
-<ul style="margin-top: 0;">
+<ul style="margin-top: 0; margin-bottom: 0;">
   <li>CIMA / CGMA</li>
   <li>Certified ScrumMaster</li>
   <li>ITIL v3 Foundation Level</li>
 </ul>
 
-<div class="achievements">
-  <h2>Speaking</h2>
+<div class="achievements" style="margin-top: 0;">
+  <h2 style="margin-top: 0;">Speaking</h2>
   {% for item in site.data.achievements %} {% if item.type == "speaking" %}
   <a href="{{ item.link }}" target="_BLANK">
     <div class="table-row">
@@ -52,7 +52,7 @@ title: "Resume"
     </div>
   </a>
   {% endif %} {% endfor %}
-  
+
   <h2>Publications</h2>
   {% for item in site.data.achievements %} {% if item.type == "publication" %}
   <a href="{{ item.link }}" target="_BLANK">
@@ -65,6 +65,8 @@ title: "Resume"
     </div>
   </a>
   {% endif %} {% endfor %}
+</div>
+
 <br>
 
 <div style="display: grid; grid-template-columns: auto auto;">
