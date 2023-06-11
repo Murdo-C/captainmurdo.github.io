@@ -3,7 +3,7 @@ layout: resume
 title: "Resume"
 ---
 <h1><strong>Murdo Connochie</strong></h1>
-<p><strong>A creative strategist and product manager with 9 years experience building businesses and leading teams at KPMG. </strong>Learn more at <a href="https://murdo.xyz/">murdo.xyz</a>.</p>
+<h4><strong>A creative strategist and product manager with 9 years experience building businesses and leading teams at KPMG. </strong>Learn more at <a href="https://murdo.xyz/">murdo.xyz</a>.</h4>
 
 <h2><em>Experience</em></h2>
 <div style="display: grid; grid-template-columns: auto auto;">
@@ -17,18 +17,18 @@ title: "Resume"
   </div>
 </div>
 
-<ul style="margin-top: 0;">
+<h4><ul style="margin-top: 0;">
   <li>Extensive knowledge of strategy and proposition development, with skills in business analysis and service design</li>
   <li>Lead large cross-functional teams of 10-30 across Strategy, Engineering, Operations, Design, and Marketing</li>
   <li>Qualifications include: CIMA / CGMA, Certified ScrumMaster, and ITIL v3 Foundation Level</li>
-</ul>
+  </ul></h4>
 
 <h3>Example Client Work:</h3>
 
 {% for item in site.data.work %} {% if item.company == "KPMG" %}
       <h2>{{ item.name }}</h2>
     </div>
-    <p>{{ item.description }}</p>
+    <h4>{{ item.description }}</h4>
   </section>
 {% endif %}
 {% endfor %}
@@ -47,7 +47,7 @@ title: "Resume"
 {% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
       <h2>{{ item.name }}</h2>
     </div>
-    <p>{{ item.description }}</p>
+    <h4>{{ item.description }}</h4>
   </section>
 {% endif %}
 {% endfor %}
