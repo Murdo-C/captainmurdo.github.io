@@ -61,6 +61,15 @@ h2{ //small title
 h3{ //emphasis
     -webkit-text-stroke:0.4px;
 }
+h4{ //resume body
+    font-size: 1.2rem;
+    line-height: 1.6;
+    font-family: $font-sans;
+    color: $color-primary;
+    &::selection{
+        background-color:$color-accent;
+    }
+}
 h5{ //small mono
     font-family: $font-mono;
     font-size:1.4rem;
