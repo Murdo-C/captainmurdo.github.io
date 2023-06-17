@@ -1,6 +1,6 @@
 - name: Digital Wallet and Prepaid Money Account Build
   company: KPMG
-  description: I led the strategy development, acted as interim Head of Payments, and product managed two new payment products - a digital wallet and an app-based prepaid money account - for a North American retailer with 22m customers; the products are currently in development based on my product roadmap and feature prioritization. I also supported the team in the design and development of a Buy Now Pay Later product across web, app, and store point-of-sale. I worked with engineering, design, marketing, and store teams to ensure alignment and develop a clear go-to-market strategy.
+  description: As an interim Head of Payments for a top North American retailer (22m customers), I lead the strategy and product management of two payment products: a digital wallet and an app-based prepaid account. From strategy formulation to roadmap development and feature prioritization, my leadership ensured a clear development path. I also assisted in the cross-platform integration of a Buy Now Pay Later product, working collaboratively with multiple teams to craft a coherent go-to-market strategy.
   startDate: 2021-12-06
   endDate: 2023-02-10
   images: [assets/img/client-db.png]
@@ -28,21 +28,21 @@
   
 - name: Trading App and Web Build
   company: KPMG
-  description: I product managed the development of a new app and web trading platform, focused on the mobile experience and differentiated features to drive adoption, which included a custom notification configurator and automated trading tools. I also advocated for a native app over progressive web app or responsive website; the new experience is now <a href="https://www.adss.com/en/platforms/">live</a> for web, iOS, and Android. The simplicity and configurability has received postive feedback from users, leading to an App Store rating of 4.1 out of 5.
+  description: As a product manager, I led the development of a unique trading platform, with an emphasis on the mobile user experience and the integration of distinguishing features, such as a customized notification system and automated trading tools. I championed the creation of a native app over a progressive web app or responsive website, resulting in a platform now operational on web, iOS, and Android. Its intuitive design and customizable features have garnered positive feedback, reflected in a 4.1 out of 5 App Store rating.
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: [assets/img/adss.png]
 
 - name: Core Banking System Replacement
   company: KPMG
-  description: I product managed a new core banking platform, focused on the new customer savings experience. I also prototyped a digital savings card for the Apple Wallet, a first in the UK market. The core platform is now in testing to manage £3bn in customer assets.
+  description: Spearheading the development of a novel core banking platform, I centered my efforts on enhancing the customer savings experience. I innovated a digital savings card prototype for Apple Wallet, marking a first in the UK market. The platform, now under testing, is set to manage £3bn in customer assets.
   startDate: 2018-10-03
   endDate: 2020-01-16
   images: [assets/img/cbs.png]
 
 - name: Internal Wiki Tool Prototype 
   company: KPMG
-  description: I led the user research and oversaw the development of a new internal wiki tool. Despite funding constraints, we successfully delivered a fully functional prototype using Axure and Bootstrap, demonstrating the potential for improved knowledge sharing and software reusability across government departments.
+  description: Guiding user research and development efforts, I played a pivotal role in the creation of a new internal wiki tool. Navigating funding limitations, our team was able to deliver a robust prototype using Axure and Bootstrap, underscoring the potential for enhancing knowledge distribution and software reusability across governmental departments.
   startDate: 2018-1-16
   endDate: 2018-4-17
   images: [assets/img/sg.png]
