@@ -7,7 +7,7 @@
   - Facilitated the design of 200+ Figma screens, aligning executive support and enabling a clear development path to MVP for global engineering teams.
   - Assisted in the cross-platform integration of a Buy Now Pay Later product, orchestrating collaboration among design, store operations, and marketing teams (15+ team members).
   - Pioneered a cohesive go-to-market strategy for all new payment products, ensuring a seamless customer experience and market penetration.
-  - Conducted weekly training sessions, enhancing the skill set of 8 junior team members.
+  - Conducted weekly payments technology training sessions, enhancing the skill set of 8 junior team members.
   startDate: 2021-12-06
   endDate: 2023-02-10
   images: [assets/img/client-db.png]
@@ -38,9 +38,10 @@
   description: As product manager, I led the development of a unique trading platform, with an emphasis on the mobile user experience and the integration of differentiated features, such as a customized notification system and automated trading tools. My detailed user flows and requirements documentation resulted in a 50% reduction in required design sprints. I also championed the selection of a native app over a progressive web app or responsive website, resulting in an operational platform on web, iOS, and Android. Its intuitive design and customizable features have garnered positive customer feedback, reflected in a 4.1 out of 5 App Store rating.
   bullets:
   - Directed the development of a distinctive trading platform, focusing on mobile UX and the integration of innovative features like customized notifications and automated trading tools.
+  - Prototyped 
   - Produced detailed user flows and requirements, effectively reducing estimated design sprints by 50% and accelerating time to market.
   - Advocated for the deployment of a native app, leading to a cross-platform solution on web, iOS, and Android, ensuring broad market accessibility.
-  - Pioneered an intuitive, customizable platform that received strong customer approval, reflected in a 4.1/5 App Store rating, demonstrating user-centric design approach.
+  - Launched an intuitive, customizable platform that received strong customer approval, reflected in a 4.1/5 App Store rating, demonstrating user-centric design approach.
   startDate: 2019-12-30
   endDate: 2020-12-20
   images: [assets/img/adss.png]
@@ -52,10 +53,17 @@
   - Led the specification and design of a new core banking platform, enhancing online and in-person customer experiences, particularly for savings operations.
   - Conducted 3 focus groups and 15 user interviews to shape product design and solution requirements.
   - Pioneered a digital savings card for Apple Wallet - a first in the UK market, fostering a culture of innovation within the organization.
-  - The new banking platform, currently in testing phase, is projected to manage £3bn in customer assets, demonstrating the potential for significant impact on business operations.
+  - The new banking platform, currently in testing phase, is projected to manage £3bn in customer assets, putting it in the top 10 of community banks in the UK.
   startDate: 2018-10-03
   endDate: 2020-01-16
   images: [assets/img/cbs.png]
+
+- name: Murdo.xyz Website
+  company: Side Project
+  description: I embarked on a mission to build my blog using open web standards, while simultaneously refining my CSS, Markdown, and HTML skills. As part of this ongoing journey, I discovered Jekyll, a straightforward, blog-aware, static site generator. I host this site on GitHub Pages and have integrated Google Analytics  for a lightweight and non-intrusive means of visitor tracking. The site underwent a redesign in 2023 focused on simplicity and readability.
+  startDate: 2018-7-01
+  endDate: Now
+  images: [assets/img/site.png]
 
 - name: Internal Wiki Tool Prototype 
   company: KPMG
@@ -67,6 +75,18 @@
   startDate: 2018-1-16
   endDate: 2018-4-17
   images: [assets/img/sg.png]
+
+- name: Other Notable Achievements
+  company: KPMG
+  description: These include assisting a fintech company in a $10m+ fundraising by refreshing their corporate plan, improving healthcare worker efficiency by 25% through launching a digital mobility tool, devising a successful UK market entry plan for a US-based software firm, and defining future propositions for the mortgages and savings markets to refresh a bank's strategy.
+  bullets:
+  - Collaborated with CEO of a fintech to refresh five year corporate plan and communicate strategy leading to a successful $10m+ raise.
+  - Launched a digital mobility tool for healthcare works, including digitizing questionnaires and data, resulting in a 25% improvement in worker efficiency, earlier issue detection, and the facilitation of data-driven social interventions.
+  - Devised a US-based software firm’s UK market entry planning and sales approach for major UK banks, identifying their top ten prospects and key win themes.
+  - Developed over 50 future propositions for the mortgages and savings markets and refined these to 20 future business model options to support a bank's strategic refresh. 
+  startDate: 2014-10-01
+  endDate: Now
+  images: [assets/img/kpmg.png]
   
 - name: Digital ID Card Prototype
   company: Liberty Mutual Insurance
