@@ -70,6 +70,18 @@ h4{ //resume body
         background-color:$color-accent;
     }
 }
+
+h4 ul {
+  /* Reduce margin between bulleted items within h4 */
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+h4 li {
+  /* Adjust padding for the list items within h4 */
+  padding-left: 1em; /* Adjust the desired padding value */
+}
+
 h5{ //small mono
     font-family: $font-mono;
     font-size:1.4rem;
@@ -112,24 +124,8 @@ code:hover, pre:hover{
     color: $color-primary;
 }
 
-p{
+p, ul, ol{
     margin-bottom: 12px;
-    color: $color-secondary;
-    line-height: 2.6rem;
-    a{
-        transition: $speed-fast;
-        border-bottom: 1px dashed $color-tertiary;
-    }
-    a:hover{
-        background-color: $color-accent;
-    }
-    &::selection{
-        background-color:$color-accent;
-    }
-}
-
-ul, ol{
-    margin-bottom: 6px;
     color: $color-secondary;
     line-height: 2.6rem;
     a{
