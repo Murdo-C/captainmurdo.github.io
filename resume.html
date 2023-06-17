@@ -67,7 +67,7 @@ title: "Resume"
   <h2"><em>Speaking</em></h2>
   {% for item in site.data.achievements %} {% if item.type == "speaking" %}
   <a href="{{ item.link }}" target="_BLANK">
-    <div class="table-row">
+    <div class="table-row-resume">
       <p class="">{{ item.name }}</p>
       <div class="table-metadata">
         <h5 class="table-location">{{ item.location }}</h5>
@@ -80,7 +80,7 @@ title: "Resume"
   <h2><em>Publications</em></h2>
   {% for item in site.data.achievements %} {% if item.type == "publication" %}
   <a href="{{ item.link }}" target="_BLANK">
-    <div class="table-row">
+    <div class="table-row-resume">
       <p class="">{{ item.name }}</p>
       <div class="table-metadata">
         <h5 class="table-location">{{ item.location }}</h5>
