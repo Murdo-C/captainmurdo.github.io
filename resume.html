@@ -10,7 +10,9 @@ title: "Resume"
 <hr>
 
 <h2><em>Experience</em></h2>
-<br>
+
+<hr>
+
 <div style="display: grid; grid-template-columns: auto auto;">
   <div>
     <h3>KPMG</h3>
@@ -36,7 +38,7 @@ title: "Resume"
 {% endif %}
 {% endfor %}
 
-<br>
+<hr>
 
 <div style="display: grid; grid-template-columns: auto auto;">
   <div>
@@ -61,10 +63,10 @@ title: "Resume"
 {% endif %}
 {% endfor %}
 
-<br>
+<hr>
 
 <div class="achievements-resume" style="margin-top: 0;">
-  <h2"><em>Speaking</em></h2>
+  <h2><em>Speaking</em></h2>
   {% for item in site.data.achievements %} {% if item.type == "speaking" %}
   <a href="{{ item.link }}" target="_BLANK">
     <div class="table-row-resume">
@@ -90,6 +92,8 @@ title: "Resume"
   </a>
   {% endif %} {% endfor %}
 </div>
+
+<hr>
 
 <h2><em>Education</em></h2>
 
