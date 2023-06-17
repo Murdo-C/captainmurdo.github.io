@@ -1,6 +1,9 @@
 - name: Digital Wallet and Prepaid Money Account Build
   company: KPMG
-  description: As an interim Head of Payments for a Fortune 10 North American retailer (22m customers), I led the strategy and product management of two payment products - a digital wallet and an app-based prepaid account. From feature design to roadmap development and backlog prioritization, my leadership ensured a clear development path for our global engineering teams. I also assisted in the cross-platform integration of a Buy Now Pay Later product, working collaboratively with design, store operations, and marketing teams to craft a coherent go-to-market strategy.
+  description: As an interim Head of Payments for a Fortune 10 North American retailer (22m customers), I led the strategy and product management of two payment products - a digital wallet and an app-based prepaid account. Syntheized over 500 user surveys and coordinated over 200 Figma screens to secure Executive support and accelerate backlog prioritization; my leadership ensured a clear development path to MVP for our global engineering teams. I also assisted in the cross-platform integration of a Buy Now Pay Later product, working collaboratively with design, store operations, and marketing teams to craft a coherent go-to-market strategy.
+  bullets:
+  - Synthesized over 500 user surveys and coordinated over 200 Figma screens to secure Executive support and accelerate backlog prioritization; my leadership ensured a clear development path to MVP for our global engineering teams.
+  - Advised on the cross-platform integration of a Buy Now Pay Later product, working collaboratively with design, store operations, and marketing teams to craft a coherent go-to-market strategy.
   startDate: 2021-12-06
   endDate: 2023-02-10
   images: [assets/img/client-db.png]
