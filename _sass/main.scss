@@ -224,6 +224,39 @@ figure:hover{
     }
 }
 
+.table-row-resume{
+    display: flex;
+    flex-direction: row;
+    padding: 1px 12px;
+    width: 100%;
+    transition: background-color $speed-fast;
+    border-radius: 8px;
+    position: relative;
+    left: -12px;
+    justify-content: space-between;
+    p{
+        margin-bottom: 0px;
+        margin-right: 16px;
+    }
+    .table-metadata{
+        display: flex;
+        flex-direction: row;
+        position: relative;
+        top:1px;
+    }
+    h6{
+        margin-bottom: 2px;
+    }
+    .table-location{
+        margin-right: 16px;
+    }
+    .table-date{
+        width:80px;
+        text-align: right;
+    }
+}
+
+
 .table-row:hover{
     background-color: $color-wash
 }
