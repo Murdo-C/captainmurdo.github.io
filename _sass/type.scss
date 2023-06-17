@@ -112,8 +112,24 @@ code:hover, pre:hover{
     color: $color-primary;
 }
 
-p, ul, ol{
+p{
     margin-bottom: 12px;
+    color: $color-secondary;
+    line-height: 2.6rem;
+    a{
+        transition: $speed-fast;
+        border-bottom: 1px dashed $color-tertiary;
+    }
+    a:hover{
+        background-color: $color-accent;
+    }
+    &::selection{
+        background-color:$color-accent;
+    }
+}
+
+ul, ol{
+    margin-bottom: 6px;
     color: $color-secondary;
     line-height: 2.6rem;
     a{
