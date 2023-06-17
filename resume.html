@@ -65,6 +65,22 @@ title: "Resume"
 
 <hr>
 
+<div style="display: grid; grid-template-columns: auto auto;">
+  <div>
+    <h3>Side Projects</h3>
+  </div>
+</div>
+
+{% for item in site.data.work %} {% if item.company == "Side Project" %}
+      <h2>{{ item.name }}</h2>
+    </div>
+    <h4>{ item.description }</h4>
+  </section>
+{% endif %}
+{% endfor %}
+
+<hr>
+
 <div class="achievements-resume" style="margin-top: 0;">
   <h2><em>Speaking</em></h2>
   {% for item in site.data.achievements %} {% if item.type == "speaking" %}
