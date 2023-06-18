@@ -375,3 +375,15 @@ footer{
     font-style: italic;
 }
 }
+
+/* Decrease margins on printed pages */
+@page {
+    margin: 1cm;
+}
+
+/* Avoid content cut-off */
+@media print {
+    h1, h2, h3, h4, h5, h6, p, div {
+        page-break-inside: avoid;
+    }
+}
