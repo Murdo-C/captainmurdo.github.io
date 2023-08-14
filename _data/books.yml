@@ -1,9 +1,14 @@
-- name: Creativity Inc. by Ed Catmull
-  type: Non-Fiction
+- name: Red Team Blues by Cory Doctorow
+  type: Fiction
   year: 2023
   recommended: "yes"
   
 - name: Deep by James Nestor
+  type: Non-Fiction
+  year: 2023
+  recommended: "yes"
+  
+- name: Creativity Inc. by Ed Catmull
   type: Non-Fiction
   year: 2023
   recommended: "yes"
