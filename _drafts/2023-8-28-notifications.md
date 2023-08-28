@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Notifications: A Privileged Whisper, Not a Shout"
+date:   2023-8-28
+location:   "Toronto, Canada"
+author:   "Murdo"
+---
+
+[...].
+
+---
+
 **Notifications: A Privileged Whisper, Not a Shout**
 
 It's fascinating how mobile apps have transformed the way businesses communicate with consumers. With just a tap, brands can reach into our pockets, vibrate our devices, and draw our immediate attention. However, such capabilities come with an underlying code of responsibility. And that’s the crux of what I’m about to discuss: the privilege of notifications.
