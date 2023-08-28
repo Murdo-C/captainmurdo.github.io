@@ -8,6 +8,10 @@ author:   "Murdo"
 
 [...].
 
+Lack of Concrete Examples: Including specific real-world examples can make the arguments more relatable and provide readers with clear illustrations of the issue. This might involve highlighting certain apps or companies that have misused notifications.
+
+Lack of Data: The blog makes assertions about user behavior and response to notifications without citing any studies, surveys, or concrete data. Including data-driven insights can strengthen the post's credibility.
+
 ---
 
 **Notifications: A Privileged Whisper, Not a Shout**
