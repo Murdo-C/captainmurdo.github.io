@@ -1,7 +1,12 @@
-- name: The Apollo Murdere by Chris Hadfield
+- name: The Defector by Chris Hadfield
   type: Fiction
   year: 2023
-  recommended: "no"
+  recommended: "yes"
+  
+- name: The Apollo Murders by Chris Hadfield
+  type: Fiction
+  year: 2023
+  recommended: "yes"
 
 - name: Red Team Blues by Cory Doctorow
   type: Fiction
