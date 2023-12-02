@@ -38,7 +38,6 @@
   year: 2023
   recommended: "no"
 
-
 - name: The Candy House by Jennifer Egan
   type: Fiction
   year: 2023
@@ -77,7 +76,7 @@
 - name: Outlive by Peter Attia
   type: Non-Fiction
   year: 2023
-  recommended: "no"
+  recommended: "yes"
 
 - name: What Doesn’t Kill Us by Scott Carney
   type: Non-Fiction
