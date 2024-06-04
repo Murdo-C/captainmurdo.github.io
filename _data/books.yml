@@ -1,8 +1,13 @@
-- name: Sea of Tranquility by Emily St. John Mandel
+- name: Recursion by Blake Crouch
   type: Fiction
   year: 2024
   recommended: "yes"
   
+- name: Sea of Tranquility by Emily St. John Mandel
+  type: Fiction
+  year: 2024
+  recommended: "yes"
+ 
 - name: Starter Villain by John Scalzi
   type: Fiction
   year: 2024
