@@ -1,11 +1,16 @@
 ---
 layout: post
 title: Operations Creates Leverage Through Communication
-date: 2024-7-13
+date: 2024-7-15
 location: Toronto, Canada
 author: Murdo
 ---
-It can be hard in operations to figure out how you create leverage. Code creates leverage for developers. Capital creates leverage for financiers. My view: **communication creates leverage for operations.**
+
+It can be hard in operations to figure out how you create leverage.
+
+---
+
+Code creates leverage for developers. Capital creates leverage for financiers. My view: **communication creates leverage for operations.**
 
 Leverage is the ability to create significant impact and maximize output with minimal resources or effort. Shipping code or spending cash can have outsized returns when targeted well. The same goes for effective communication in operations.
 
