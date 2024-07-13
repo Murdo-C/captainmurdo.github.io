@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operations Creates Leverage Through Communication
-date: 2024-7-15
+date: 2024-7-13
 location: Toronto, Canada
 author: Murdo
 ---
