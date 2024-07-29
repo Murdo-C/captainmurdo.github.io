@@ -3,13 +3,36 @@ layout: resume
 title: "Resume"
 ---
 <h1><strong>Murdo Connochie</strong></h1>
-<h2>Senior Strategy & Product Leader Working with Fortune 100 Companies</h2>
-<h4>Results-oriented creative strategist and product manager with <strong>9 years</strong> of experience at KPMG, driving business growth and leading high-performing teams. Expertise in <strong>strategy development</strong>, <strong>business analysis</strong>, and <strong>service design</strong>. Led cross-functional teams of <strong>10-30 professionals</strong>, resulting in four app and three web launches across areas such as <strong>digital payment solutions</strong>, <strong>mobile trading app development</strong>, and <strong>core banking system implementation</strong>. Proven ability to align teams, develop go-to-market strategies, and deliver exceptional user experiences.</h4>
+<h2>Senior Strategy & Operations Leader Working with Fortune 100 Companies</h2>
+<h4>Results-oriented creative strategist and operations leader currently in Shopify's Business Operations craft with <strong>9 years</strong> of experience at KPMG, driving business growth and leading high-performing teams. Expertise in <strong>strategy development</strong>, <strong>business analysis</strong>, and <strong>service design</strong>. Led cross-functional teams of <strong>10-30 professionals</strong>, resulting in four app and three web launches across areas such as <strong>digital payment solutions</strong>, <strong>mobile trading app development</strong>, and <strong>core banking system implementation</strong>. Proven ability to align teams, develop go-to-market strategies, and deliver exceptional user experiences.</h4>
 <h4>Learn more at <a href="https://murdo.xyz/">murdo.xyz</a>.</h4>
 
 <p></p>
 
 <h2><em>Experience</em></h2>
+
+<hr>
+
+<div style="display: grid; grid-template-columns: auto auto;">
+  <div>
+    <h3>Shopify</h3>
+    <p>Toronto, Canada</p>
+  </div>
+  <div style="text-align: right;">
+    <h3>Senior Business Operations Lead, Support Operations</h3>
+    <p>November 2023 to Present</p>
+  </div>
+</div>
+
+{% for item in site.data.work %} {% if item.company == "Shopify" %}
+      <h2>{{ item.name }}</h2>
+    <h4>{% for item in item.bullets %}
+  <ul>
+    <li>{{ item }}</li>
+  </ul>
+{% endfor %}</h4>
+{% endif %}
+{% endfor %}
 
 <hr>
 
