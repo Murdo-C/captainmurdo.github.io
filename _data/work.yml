@@ -1,6 +1,6 @@
 - name: Senior Business Operations Lead
   company: Shopify
-  description: Led a team of nine crafters responsible for scoping, triaging, and coordinating high-impact Support projects, successfully scaling the team's monthly request volume from approximately 60 to over 100 without increasing headcount. This resulted in a 50% reduction in triage time and a customer satisfaction rating of 4.5 out of 5. Championed several hig impact projects that significantly improved Support preparation and deflected customer demand.
+  description: Led a team of nine crafters responsible for scoping, triaging, and coordinating high-impact Support projects, successfully scaling the team's monthly request volume from approximately 60 to over 100 without increasing headcount. This resulted in a 50% reduction in triage time and a customer satisfaction rating of 4.5 out of 5. Championed several high impact projects that significantly improved Support preparation and deflected customer demand.
   bullets:
   - Led a team of nine crafters responsible for scoping, triaging, and coordinating high-impact Support projects, successfully scaling the team's monthly request volume from approximately 60 to over 100 without increasing headcount. This resulted in a 50% reduction in triage time and a customer satisfaction rating of 4.5 out of 5.
   - Revamped the support hand-off processes for Shopify Theme Partners to encourage higher theme quality, decrease support demand, and enhance data accuracy.
@@ -12,7 +12,7 @@
 
 - name: Digital Wallet and Prepaid Money Account Build
   company: KPMG
-  description: As interim Head of Payments for Walmart Canada (22m customers), I led the strategy and product management of two payment products - a digital wallet and an app-based prepaid account. Synthesized over 500 user surveys and coordinated over 200 Figma screens to secure Executive support and accelerate backlog prioritization; my leadership ensured a clear development path to MVP for our global engineering teams. I also assisted in the cross-platform integration of a <a href="https://www.walmartcanada.ca/news/2023/10/30/walmart-canada-introduces-flexible-buy-now--pay-later-payment-op">Buy Now Pay Later product</a>, working collaboratively with design, store operations, and marketing teams to craft a coherent go-to-market strategy.
+  description: As interim Head of Payments for Walmart Canada (22M customers), I led the strategy and product management of two payment products - a digital wallet and an app-based prepaid account. Synthesized over 500 user surveys and coordinated over 200 Figma screens to secure Executive support and accelerate backlog prioritization; my leadership ensured a clear development path to MVP for our global engineering teams. I also assisted in the cross-platform integration of a <a href="https://www.walmartcanada.ca/news/2023/10/30/walmart-canada-introduces-flexible-buy-now--pay-later-payment-op">Buy Now Pay Later product</a>, working collaboratively with design, store operations, and marketing teams to craft a coherent go-to-market strategy.
   bullets:
   - Interim Head of Payments at a Fortune 10 North American retailer, serving 22M customers; oversaw strategy and product management for digital wallet and app-based prepaid account with 30+ team members involved.
   - Led comprehensive user research, synthesizing 500+ user surveys to inform product strategy and accelerate backlog prioritization.
@@ -50,7 +50,6 @@
   description: As product manager, I led the development of a unique trading platform, with an emphasis on the mobile user experience and the integration of differentiated features, such as a customized notification system and automated trading tools. My detailed user flows and requirements documentation resulted in a 50% reduction in required design sprints. I also championed the selection of a native app over a progressive web app or responsive website, resulting in an operational platform on web, iOS, and Android. Its intuitive design and customizable features have garnered positive customer feedback, reflected in a 4.1 out of 5 App Store rating.
   bullets:
   - Directed the development of a distinctive trading platform, focusing on mobile UX and the integration of innovative features like customized notifications and automated trading tools.
-  - Prototyped 
   - Produced detailed user flows and requirements, effectively reducing estimated design sprints by 50% and accelerating time to market.
   - Advocated for the deployment of a native app, leading to a cross-platform solution on web, iOS, and Android, ensuring broad market accessibility.
   - Launched an intuitive, customizable platform that received strong customer approval, reflected in a 4.1/5 App Store rating, demonstrating user-centric design approach.
@@ -92,10 +91,10 @@
   company: KPMG
   description: These include assisting a fintech company in a $10m+ fundraising by refreshing their corporate plan, improving healthcare worker efficiency by 25% through launching a digital mobility tool, devising a successful UK market entry plan for a US-based software firm, and defining future propositions for the mortgages and savings markets to refresh a bank's strategy.
   bullets:
-  - Collaborated with CEO of a fintech to refresh five year corporate plan and communicate strategy leading to a successful $10m+ raise.
+  - Collaborated with CEO of a fintech to refresh five-year corporate plan and communicate strategy leading to a successful $10m+ raise.
   - Launched a digital mobility tool for healthcare works, including digitizing questionnaires and data, resulting in a 25% improvement in worker efficiency, earlier issue detection, and the facilitation of data-driven social interventions.
   - Devised a US-based software firm’s UK market entry planning and sales approach for major UK banks, identifying their top ten prospects and key win themes.
-  - Developed over 50 future propositions for the mortgages and savings markets and refined these to 20 future business model options to support a bank's strategic refresh. 
+  - Developed over 50 future propositions for the mortgages and savings markets, and refined these to 20 future business model options to support a bank's strategic refresh. 
   startDate: 2014-10-01
   endDate: 2023-11-17
   images: [assets/img/kpmg.png]
