@@ -1,7 +1,12 @@
+- name: Delta-v by Daniel Suarez
+  type: Fiction
+  year: 2024
+  recommended: "yes"
+  
 - name: The Boys by Katie Hafner
   type: Fiction
   year: 2024
-  recommended: "no"
+  recommended: "no" 
 
 - name: The Subtle Art of Not Giving a Fuck by Mark Manson
   type: Non-Fiction
