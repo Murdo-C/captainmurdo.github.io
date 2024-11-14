@@ -1,7 +1,12 @@
-- name: Delta-v by Daniel Suarez
+- name: Critical Mass by Daniel Suarez
   type: Fiction
   year: 2024
   recommended: "yes"
+
+- name: Delta-v by Daniel Suarez
+  type: Fiction
+  year: 2024
+  recommended: "yes" 
   
 - name: The Boys by Katie Hafner
   type: Fiction
