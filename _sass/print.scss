@@ -2,7 +2,7 @@
     /* Page setup */
     @page {
         size: A4;
-        margin: 1.5cm 2cm;
+        margin: 2cm;
     }
 
     /* Hide non-essential elements */
@@ -12,38 +12,73 @@
 
     /* Basic text adjustments */
     body {
-        font-size: 11pt;
-        line-height: 1.3;
+        font-size: 10pt;
+        line-height: 1.4;
         background: none;
         color: black;
+        margin: 0;
+        padding: 0;
+        max-width: none;
+    }
+
+    /* Resume container */
+    .resume-container {
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
     }
 
     /* Headings */
-    h1 { font-size: 18pt; margin-bottom: 0.5cm; }
-    h2 { font-size: 14pt; margin-top: 0.5cm; margin-bottom: 0.3cm; }
-    h3 { font-size: 12pt; }
-    h4 { font-size: 11pt; line-height: 1.4; }
+    h1 { 
+        font-size: 24pt;
+        margin: 0 0 0.3cm 0;
+        font-weight: normal;
+    }
+    
+    h2 { 
+        font-size: 14pt;
+        margin: 0.5cm 0 0.3cm 0;
+        font-weight: normal;
+    }
+    
+    h3 { 
+        font-size: 11pt;
+        margin: 0;
+        font-weight: normal;
+    }
+    
+    h4 { 
+        font-size: 10pt;
+        line-height: 1.4;
+        margin: 0.2cm 0;
+        font-weight: normal;
+    }
 
     /* Links */
     a {
         text-decoration: none;
         color: black !important;
+        border-bottom: none !important;
     }
 
-    /* List spacing */
-    ul, ol {
-        margin: 0.2cm 0;
+    /* List styling */
+    ul {
+        margin: 0.1cm 0;
         padding-left: 0.5cm;
+        list-style-type: disc;
     }
+
     li {
         margin: 0.1cm 0;
+        line-height: 1.4;
     }
 
     /* Grid layouts */
     .grid-container {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        gap: 0.3cm;
+        gap: 0;
+        margin: 0.2cm 0;
     }
 
     /* Avoid page breaks inside elements */
@@ -61,19 +96,50 @@
         transition: none !important;
     }
 
-    /* Optimize table rows for print */
-    .table-row-resume {
-        padding: 0.1cm 0;
-    }
-
-    /* Ensure proper margins and spacing */
+    /* Horizontal rules */
     hr {
-        margin: 0.3cm 0;
+        margin: 0.4cm 0;
+        border: none;
         border-top: 1px solid #000;
     }
 
-    /* Background colors and decorative elements */
-    .table-row-resume:hover {
-        background-color: transparent;
+    /* Experience section */
+    .resume-header {
+        margin-bottom: 0.5cm;
+    }
+
+    /* Table rows */
+    .table-row-resume {
+        display: flex;
+        justify-content: space-between;
+        padding: 0.1cm 0;
+        margin: 0;
+    }
+
+    /* Contact info */
+    .contact-info {
+        margin-top: 0.3cm;
+    }
+
+    /* Text colors */
+    p, li {
+        color: black;
+    }
+
+    /* Remove background colors */
+    * {
+        background-color: transparent !important;
+    }
+
+    /* Strong elements */
+    strong {
+        font-weight: normal;
+    }
+
+    /* Emphasis */
+    em {
+        font-style: normal;
+        background: #fff6c0;
+        padding: 0 3px;
     }
 } 

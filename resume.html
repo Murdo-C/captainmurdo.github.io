@@ -5,10 +5,10 @@ title: "Resume"
 <div class="resume-container">
   <!-- Header Section -->
   <div class="resume-header">
-    <h1><strong>Murdo Connochie</strong></h1>
+    <h1>Murdo Connochie</h1>
     <h2>Senior Strategy & Operations Leader Working with Fortune 100 Companies</h2>
-    <h4>Results-oriented creative strategist and operations leader currently in Shopify's Business Operations craft with <strong>9 years</strong> of experience at KPMG, driving business growth and leading high-performing teams. Expertise in <strong>strategy development</strong>, <strong>business analysis</strong>, and <strong>service design</strong>. Led cross-functional teams of <strong>10-30 professionals</strong>, resulting in four app and three web launches across areas such as <strong>digital payment solutions</strong>, <strong>mobile trading app development</strong>, and <strong>core banking system implementation</strong>. Proven ability to align teams, develop go-to-market strategies, and deliver exceptional user experiences.</h4>
-    <h4>Learn more at <a href="https://murdo.xyz/">murdo.xyz</a>.</h4>
+    <h4>Results-oriented creative strategist and operations leader currently in Shopify's Business Operations craft with 9 years of experience at KPMG, driving business growth and leading high-performing teams. Expertise in strategy development, business analysis, and service design. Led cross-functional teams of 10-30 professionals, resulting in four app and three web launches across areas such as digital payment solutions, mobile trading app development, and core banking system implementation. Proven ability to align teams, develop go-to-market strategies, and deliver exceptional user experiences.</h4>
+    <h4>Learn more at murdo.xyz.</h4>
   </div>
 
   <!-- Experience Section -->
@@ -27,14 +27,15 @@ title: "Resume"
     </div>
   </div>
 
-  {% for item in site.data.work %} {% if item.company == "Shopify" %}
-    <h4>{% for item in item.bullets %}
-      <ul>
-        <li>{{ item }}</li>
-      </ul>
-    {% endfor %}</h4>
-  {% endif %}
-  {% endfor %}
+  <ul>
+    {% for item in site.data.work %} 
+      {% if item.company == "Shopify" %}
+        {% for bullet in item.bullets %}
+          <li>{{ bullet }}</li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </ul>
 
   <hr>
 
@@ -52,14 +53,15 @@ title: "Resume"
 
   <h3>Example Client Work:</h3>
 
-  {% for item in site.data.work %} {% if item.company == "KPMG" %}
-    <h4>{% for item in item.bullets %}
-      <ul>
-        <li>{{ item }}</li>
-      </ul>
-    {% endfor %}</h4>
-  {% endif %}
-  {% endfor %}
+  <ul>
+    {% for item in site.data.work %} 
+      {% if item.company == "KPMG" %}
+        {% for bullet in item.bullets %}
+          <li>{{ bullet }}</li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </ul>
 
   <hr>
 
@@ -75,24 +77,26 @@ title: "Resume"
     </div>
   </div>
 
-  {% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
-    <h4>{% for item in item.bullets %}
-      <ul>
-        <li>{{ item }}</li>
-      </ul>
-    {% endfor %}</h4>
-  {% endif %}
-  {% endfor %}
+  <ul>
+    {% for item in site.data.work %} 
+      {% if item.company == "Liberty Mutual Insurance" %}
+        {% for bullet in item.bullets %}
+          <li>{{ bullet }}</li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </ul>
 
   <!-- Side Projects Section -->
   <div class="page-break-before">
     <hr>
     <h2><em>Side Projects</em></h2>
 
-    {% for item in site.data.work %} {% if item.company == "Side Project" %}
-      <h2>{{ item.name }}</h2>
-      <h4>{{ item.description }}</h4>
-    {% endif %}
+    {% for item in site.data.work %} 
+      {% if item.company == "Side Project" %}
+        <h3>{{ item.name }}</h3>
+        <p>{{ item.description }}</p>
+      {% endif %}
     {% endfor %}
 
     <hr>
@@ -100,30 +104,30 @@ title: "Resume"
     <!-- Speaking and Publications -->
     <div class="achievements-resume">
       <h2><em>Speaking</em></h2>
-      {% for item in site.data.achievements %} {% if item.type == "speaking" %}
-      <a href="{{ item.link }}" target="_BLANK">
-        <div class="table-row-resume">
-          <p>{{ item.name }}</p>
-          <div class="table-metadata">
-            <h5 class="table-location">{{ item.location }}</h5>
-            <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+      {% for item in site.data.achievements %} 
+        {% if item.type == "speaking" %}
+          <div class="table-row-resume">
+            <p>{{ item.name }}</p>
+            <div class="table-metadata">
+              <h5 class="table-location">{{ item.location }}</h5>
+              <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+            </div>
           </div>
-        </div>
-      </a>
-      {% endif %} {% endfor %}
+        {% endif %} 
+      {% endfor %}
       
       <h2><em>Publications</em></h2>
-      {% for item in site.data.achievements %} {% if item.type == "publication" %}
-      <a href="{{ item.link }}" target="_BLANK">
-        <div class="table-row-resume">
-          <p>{{ item.name }}</p>
-          <div class="table-metadata">
-            <h5 class="table-location">{{ item.location }}</h5>
-            <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+      {% for item in site.data.achievements %} 
+        {% if item.type == "publication" %}
+          <div class="table-row-resume">
+            <p>{{ item.name }}</p>
+            <div class="table-metadata">
+              <h5 class="table-location">{{ item.location }}</h5>
+              <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+            </div>
           </div>
-        </div>
-      </a>
-      {% endif %} {% endfor %}
+        {% endif %} 
+      {% endfor %}
     </div>
 
     <hr>
@@ -146,8 +150,8 @@ title: "Resume"
 
     <!-- Contact Information -->
     <div class="contact-info">
-      <p style="display: inline;">Email: <a href="mailto:murdo.connochie@gmail.com">murdo.connochie@gmail.com</a></p>
-      <p style="display: inline; float: right;">Phone: +1 (437) 973-9844</p>
+      <p>Email: <a href="mailto:murdo.connochie@gmail.com">murdo.connochie@gmail.com</a></p>
+      <p>Phone: +1 (437) 973-9844</p>
     </div>
   </div>
 </div>
