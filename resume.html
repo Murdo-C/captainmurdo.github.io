@@ -2,148 +2,152 @@
 layout: resume
 title: "Resume"
 ---
-<h1><strong>Murdo Connochie</strong></h1>
-<h2>Senior Strategy & Operations Leader Working with Fortune 100 Companies</h2>
-<h4>Results-oriented creative strategist and operations leader currently in Shopify's Business Operations craft with <strong>9 years</strong> of experience at KPMG, driving business growth and leading high-performing teams. Expertise in <strong>strategy development</strong>, <strong>business analysis</strong>, and <strong>service design</strong>. Led cross-functional teams of <strong>10-30 professionals</strong>, resulting in four app and three web launches across areas such as <strong>digital payment solutions</strong>, <strong>mobile trading app development</strong>, and <strong>core banking system implementation</strong>. Proven ability to align teams, develop go-to-market strategies, and deliver exceptional user experiences.</h4>
-<h4>Learn more at <a href="https://murdo.xyz/">murdo.xyz</a>.</h4>
-
-<p></p>
-
-<h2><em>Experience</em></h2>
-
-<hr>
-
-<div style="display: grid; grid-template-columns: auto auto;">
-  <div>
-    <h3>Shopify</h3>
-    <p>Toronto, Canada</p>
+<div class="resume-container">
+  <!-- Header Section -->
+  <div class="resume-header">
+    <h1><strong>Murdo Connochie</strong></h1>
+    <h2>Senior Strategy & Operations Leader Working with Fortune 100 Companies</h2>
+    <h4>Results-oriented creative strategist and operations leader currently in Shopify's Business Operations craft with <strong>9 years</strong> of experience at KPMG, driving business growth and leading high-performing teams. Expertise in <strong>strategy development</strong>, <strong>business analysis</strong>, and <strong>service design</strong>. Led cross-functional teams of <strong>10-30 professionals</strong>, resulting in four app and three web launches across areas such as <strong>digital payment solutions</strong>, <strong>mobile trading app development</strong>, and <strong>core banking system implementation</strong>. Proven ability to align teams, develop go-to-market strategies, and deliver exceptional user experiences.</h4>
+    <h4>Learn more at <a href="https://murdo.xyz/">murdo.xyz</a>.</h4>
   </div>
-  <div style="text-align: right;">
-    <h3>Senior Business Operations Lead, Support Operations</h3>
-    <p>November 2023 to Present</p>
-  </div>
-</div>
 
-{% for item in site.data.work %} {% if item.company == "Shopify" %}
-      <h2>{{ item.name }}</h2>
+  <!-- Experience Section -->
+  <h2><em>Experience</em></h2>
+  <hr>
+
+  <!-- Shopify -->
+  <div class="grid-container">
+    <div>
+      <h3>Shopify</h3>
+      <p>Toronto, Canada</p>
+    </div>
+    <div style="text-align: right;">
+      <h3>Senior Business Operations Lead, Support Operations</h3>
+      <p>November 2023 to Present</p>
+    </div>
+  </div>
+
+  {% for item in site.data.work %} {% if item.company == "Shopify" %}
     <h4>{% for item in item.bullets %}
-  <ul>
-    <li>{{ item }}</li>
-  </ul>
-{% endfor %}</h4>
-{% endif %}
-{% endfor %}
+      <ul>
+        <li>{{ item }}</li>
+      </ul>
+    {% endfor %}</h4>
+  {% endif %}
+  {% endfor %}
 
-<hr>
+  <hr>
 
-<div style="display: grid; grid-template-columns: auto auto;">
-  <div>
-    <h3>KPMG</h3>
-    <p>Toronto, Canada</p>
+  <!-- KPMG -->
+  <div class="grid-container">
+    <div>
+      <h3>KPMG</h3>
+      <p>Toronto, Canada</p>
+    </div>
+    <div style="text-align: right;">
+      <h3>Senior Manager, Customer & Strategy Consulting</h3>
+      <p>October 2014 to November 2023</p>
+    </div>
   </div>
-  <div style="text-align: right;">
-    <h3>Senior Manager, Customer & Strategy Consulting</h3>
-    <p>October 2014 to November 2023</p>
-  </div>
-</div>
 
-<h3>Example Client Work:</h3>
+  <h3>Example Client Work:</h3>
 
-{% for item in site.data.work %} {% if item.company == "KPMG" %}
-      <h2>{{ item.name }}</h2>
+  {% for item in site.data.work %} {% if item.company == "KPMG" %}
     <h4>{% for item in item.bullets %}
-  <ul>
-    <li>{{ item }}</li>
-  </ul>
-{% endfor %}</h4>
-{% endif %}
-{% endfor %}
+      <ul>
+        <li>{{ item }}</li>
+      </ul>
+    {% endfor %}</h4>
+  {% endif %}
+  {% endfor %}
 
-<hr>
+  <hr>
 
-<div style="display: grid; grid-template-columns: auto auto;">
-  <div>
-    <h3>Liberty Mutual Insurance</h3>
-    <p>Boston, MA</p>
+  <!-- Liberty Mutual -->
+  <div class="grid-container">
+    <div>
+      <h3>Liberty Mutual Insurance</h3>
+      <p>Boston, MA</p>
+    </div>
+    <div style="text-align: right;">
+      <h3>Analyst, Digital Strategy</h3>
+      <p>June 2013 to August 2013</p>
+    </div>
   </div>
-  <div style="text-align: right;">
-    <h3>Analyst, Digital Strategy</h3>
-    <p>June 2013 to August 2013</p>
-  </div>
-</div>
 
-{% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
-      <h2>{{ item.name }}</h2>
+  {% for item in site.data.work %} {% if item.company == "Liberty Mutual Insurance" %}
     <h4>{% for item in item.bullets %}
-  <ul>
-    <li>{{ item }}</li>
-  </ul>
-{% endfor %}</h4>
-{% endif %}
-{% endfor %}
+      <ul>
+        <li>{{ item }}</li>
+      </ul>
+    {% endfor %}</h4>
+  {% endif %}
+  {% endfor %}
 
-<hr>
-
-<div style="display: grid; grid-template-columns: auto auto;">
-  <div>
+  <!-- Side Projects Section -->
+  <div class="page-break-before">
+    <hr>
     <h2><em>Side Projects</em></h2>
-  </div>
-</div>
 
-{% for item in site.data.work %} {% if item.company == "Side Project" %}
+    {% for item in site.data.work %} {% if item.company == "Side Project" %}
       <h2>{{ item.name }}</h2>
-    <h4>{{ item.description }}</h4>
-{% endif %}
-{% endfor %}
+      <h4>{{ item.description }}</h4>
+    {% endif %}
+    {% endfor %}
 
-<hr>
+    <hr>
 
-<div class="achievements-resume" style="margin-top: 0;">
-  <h2><em>Speaking</em></h2>
-  {% for item in site.data.achievements %} {% if item.type == "speaking" %}
-  <a href="{{ item.link }}" target="_BLANK">
-    <div class="table-row-resume">
-      <p class="">{{ item.name }}</p>
-      <div class="table-metadata">
-        <h5 class="table-location">{{ item.location }}</h5>
-        <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+    <!-- Speaking and Publications -->
+    <div class="achievements-resume">
+      <h2><em>Speaking</em></h2>
+      {% for item in site.data.achievements %} {% if item.type == "speaking" %}
+      <a href="{{ item.link }}" target="_BLANK">
+        <div class="table-row-resume">
+          <p>{{ item.name }}</p>
+          <div class="table-metadata">
+            <h5 class="table-location">{{ item.location }}</h5>
+            <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+          </div>
+        </div>
+      </a>
+      {% endif %} {% endfor %}
+      
+      <h2><em>Publications</em></h2>
+      {% for item in site.data.achievements %} {% if item.type == "publication" %}
+      <a href="{{ item.link }}" target="_BLANK">
+        <div class="table-row-resume">
+          <p>{{ item.name }}</p>
+          <div class="table-metadata">
+            <h5 class="table-location">{{ item.location }}</h5>
+            <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+          </div>
+        </div>
+      </a>
+      {% endif %} {% endfor %}
+    </div>
+
+    <hr>
+
+    <!-- Education -->
+    <h2><em>Education</em></h2>
+
+    <div class="grid-container">
+      <div>
+        <h3>Heriot-Watt University</h3>
+        <p>Edinburgh, UK</p>
+      </div>
+      <div style="text-align: right;">
+        <h3>Bachelor of Actuarial Science</h3>
+        <p>2010-2014</p>
       </div>
     </div>
-  </a>
-  {% endif %} {% endfor %}
-  
-  <h2><em>Publications</em></h2>
-  {% for item in site.data.achievements %} {% if item.type == "publication" %}
-  <a href="{{ item.link }}" target="_BLANK">
-    <div class="table-row-resume">
-      <p class="">{{ item.name }}</p>
-      <div class="table-metadata">
-        <h5 class="table-location">{{ item.location }}</h5>
-        <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
-      </div>
+
+    <hr>
+
+    <!-- Contact Information -->
+    <div class="contact-info">
+      <p style="display: inline;">Email: <a href="mailto:murdo.connochie@gmail.com">murdo.connochie@gmail.com</a></p>
+      <p style="display: inline; float: right;">Phone: +1 (437) 973-9844</p>
     </div>
-  </a>
-  {% endif %} {% endfor %}
-</div>
-
-<hr>
-
-<h2><em>Education</em></h2>
-
-<div style="display: grid; grid-template-columns: auto auto;">
-  <div>
-    <h3>Heriot-Watt University</h3>
-    <p>Edinburgh, UK</p>
   </div>
-  <div style="text-align: right;">
-    <h3>Bachelor of Actuarial Science</h3>
-    <p>2010-2014</p>
-  </div>
-</div>
-
-<hr>
-
-<div style="display: inline;">
-  <p style="display: inline;">Email: <a href="mailto:murdo.connochie@gmail.com" style="display: inline;">murdo.connochie@gmail.com</a></p>
-  <p style="display: inline; float: right;">Phone: +1 (437) 973-9844</p>
 </div>

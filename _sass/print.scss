@@ -1,0 +1,79 @@
+@media print {
+    /* Page setup */
+    @page {
+        size: A4;
+        margin: 1.5cm 2cm;
+    }
+
+    /* Hide non-essential elements */
+    nav, footer, .modalBackground {
+        display: none !important;
+    }
+
+    /* Basic text adjustments */
+    body {
+        font-size: 11pt;
+        line-height: 1.3;
+        background: none;
+        color: black;
+    }
+
+    /* Headings */
+    h1 { font-size: 18pt; margin-bottom: 0.5cm; }
+    h2 { font-size: 14pt; margin-top: 0.5cm; margin-bottom: 0.3cm; }
+    h3 { font-size: 12pt; }
+    h4 { font-size: 11pt; line-height: 1.4; }
+
+    /* Links */
+    a {
+        text-decoration: none;
+        color: black !important;
+    }
+
+    /* List spacing */
+    ul, ol {
+        margin: 0.2cm 0;
+        padding-left: 0.5cm;
+    }
+    li {
+        margin: 0.1cm 0;
+    }
+
+    /* Grid layouts */
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.3cm;
+    }
+
+    /* Avoid page breaks inside elements */
+    h1, h2, h3, h4, .grid-container, .table-row-resume {
+        page-break-inside: avoid;
+    }
+
+    /* Force page breaks before major sections */
+    .page-break-before {
+        page-break-before: always;
+    }
+
+    /* Remove hover effects and transitions */
+    * {
+        transition: none !important;
+    }
+
+    /* Optimize table rows for print */
+    .table-row-resume {
+        padding: 0.1cm 0;
+    }
+
+    /* Ensure proper margins and spacing */
+    hr {
+        margin: 0.3cm 0;
+        border-top: 1px solid #000;
+    }
+
+    /* Background colors and decorative elements */
+    .table-row-resume:hover {
+        background-color: transparent;
+    }
+} 
