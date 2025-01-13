@@ -99,30 +99,34 @@ title: "Resume"
 <hr>
 
 <div class="achievements-resume" style="margin-top: 0;">
-  <h2><em>Speaking</em></h2>
+  <div style="display: grid; grid-template-columns: auto;">
+    <h2><em>Speaking</em></h2>
+  </div>
   {% for item in site.data.achievements %} {% if item.type == "speaking" %}
-  <a href="{{ item.link }}" target="_BLANK">
-    <div class="table-row-resume">
-      <p class="">{{ item.name }}</p>
-      <div class="table-metadata">
-        <h5 class="table-location">{{ item.location }}</h5>
-        <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+    <a href="{{ item.link }}" target="_BLANK">
+      <div class="table-row-resume">
+        <p class="">{{ item.name }}</p>
+        <div class="table-metadata">
+          <h5 class="table-location">{{ item.location }}</h5>
+          <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+        </div>
       </div>
-    </div>
-  </a>
+    </a>
   {% endif %} {% endfor %}
   
-  <h2><em>Publications</em></h2>
+  <div style="display: grid; grid-template-columns: auto;">
+    <h2><em>Publications</em></h2>
+  </div>
   {% for item in site.data.achievements %} {% if item.type == "publication" %}
-  <a href="{{ item.link }}" target="_BLANK">
-    <div class="table-row-resume">
-      <p class="">{{ item.name }}</p>
-      <div class="table-metadata">
-        <h5 class="table-location">{{ item.location }}</h5>
-        <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+    <a href="{{ item.link }}" target="_BLANK">
+      <div class="table-row-resume">
+        <p class="">{{ item.name }}</p>
+        <div class="table-metadata">
+          <h5 class="table-location">{{ item.location }}</h5>
+          <h5 class="table-date">{{ item.date | date: "%b %Y" }}</h5>
+        </div>
       </div>
-    </div>
-  </a>
+    </a>
   {% endif %} {% endfor %}
 </div>
 
