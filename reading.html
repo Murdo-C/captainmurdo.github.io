@@ -7,6 +7,26 @@ title: "Reading"
 <p><em>Denotes a highly recommended book.</em></p>
 
 <div class="achievements">
+  <h2>2025</h2>
+  {% for item in site.data.books %}
+    {% if item.year == 2025 %}
+      <div class="table-row">
+        <p>
+          {% if item.recommended == "yes" %}
+            <em>{{ item.name }}</em>
+          {% else %}
+            {{ item.name }}
+          {% endif %}
+        </p>
+        <div class="table-metadata">
+          <h6 class="table-location">{{ item.type }}</h6>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+  
+< hr>
+
   <h2>2024</h2>
   {% for item in site.data.books %}
     {% if item.year == 2024 %}
@@ -25,7 +45,7 @@ title: "Reading"
     {% endif %}
   {% endfor %}
   
-<hr>
+< hr>
 
   <h2>2023</h2>
   {% for item in site.data.books %}
