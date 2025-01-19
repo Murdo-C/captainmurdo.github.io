@@ -1,7 +1,12 @@
-- name: Dungeon Crawler Carl by Matt Dinniman
+- name: Carl's Doomsday Scenario by Matt Dinniman
   type: Fiction
   year: 2025
   recommended: "yes"
+  
+- name: Dungeon Crawler Carl by Matt Dinniman
+  type: Fiction
+  year: 2025
+  recommended: "yes" 
 
 - name: Polostan by Neal Stephenson
   type: Fiction
