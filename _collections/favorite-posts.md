@@ -28,7 +28,5 @@ A selection of articles that have significantly influenced my thinking about tec
 
 - [Tiny Loops, Hold Me Closer](https://craigmod.com/roden/027/) by Craig Mod
   > A profound exploration of our relationship with technology, examining how apps create addictive "tiny loops" and the value of breaking free through extended digital detoxes. The piece beautifully weaves together insights about attention, technology design, and human nature.
-  > 
-  > Key quote: *"Bad is being manipulated by an algorithm in favor of the company over the human. Bad is being stuck in a 'tiny loop' of the mind and body — a senseless series of actions that span minutes, hours, days, consume years, and add up to nothing or almost nothing."*
 
 *This is a living document that I'll update as I discover new pieces that reshape my thinking.* 
