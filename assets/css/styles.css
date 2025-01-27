@@ -1,22 +1,22 @@
 .projects {
-  margin-bottom: 2.5rem;
+  margin-bottom: 32px;
 }
 
 .projects h2 {
-  margin-bottom: 1.5rem;
+  margin-bottom: 24px;
   font-size: 1.5rem;
 }
 
 .project-card {
   background: #f8f9fa;
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 16px;
+  padding: 16px;
+  margin-bottom: 24px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .project-card:last-child {
-  margin-bottom: 1.5rem;
+  margin-bottom: 24px;
 }
 
 .project-card:hover {
@@ -25,14 +25,14 @@
 }
 
 .project-card h3 {
-  margin: 0 0 0.75rem 0;
+  margin: 0 0 16px 0;
   font-size: 1.25rem;
 }
 
 .project-description {
   color: #4a5568;
-  margin-bottom: 1.25rem;
-  line-height: 1.5;
+  margin-bottom: 16px;
+  line-height: 1.6;
 }
 
 .project-link {
