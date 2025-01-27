@@ -3,3 +3,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 theme: jekyll-theme-cayman
+collections:
+  collections:
+    output: true
+    permalink: /collections/:path/
