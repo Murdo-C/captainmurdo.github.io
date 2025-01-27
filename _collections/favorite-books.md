@@ -6,6 +6,8 @@ order: 2
 excerpt: "A curated list of books that have left a lasting impression, organized by genre and year."
 ---
 
+*This collection is maintained alongside my [reading list](https://murdo.xyz/reading), where you can find a complete chronological record of my reading history.*
+
 A personal collection of books I've particularly enjoyed and would recommend to others. Books are marked as recommended based on their impact, enjoyability, and lasting influence on my thinking.
 
 ## Fiction
