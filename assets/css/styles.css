@@ -1,5 +1,5 @@
 .projects {
-  margin: 2rem 0 3rem 0;
+  margin-bottom: 2.5rem;
 }
 
 .projects h2 {
@@ -16,7 +16,7 @@
 }
 
 .project-card:last-child {
-  margin-bottom: 0;
+  margin-bottom: 1.5rem;
 }
 
 .project-card:hover {
