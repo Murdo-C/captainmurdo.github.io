@@ -1,0 +1,17 @@
+---
+layout: default
+title: Collections
+---
+<h1 class="pageHeader">Collections</h1>
+
+{% assign sorted_collections = site.collections | sort: "order" %}
+{% for collection in sorted_collections %}
+  <section>
+    <a href="{{ collection.url }}">
+      <div class="main-title-box">
+        <h2>{{ collection.title }}</h2>
+      </div>
+      <div>{{ collection.excerpt }}</div>
+    </a>
+  </section>
+{% endfor %} 
