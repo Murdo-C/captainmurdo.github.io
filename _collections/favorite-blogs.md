@@ -22,7 +22,7 @@ A collection of personal websites and blogs that consistently provide insightful
 - [Varun Srinivasan](https://www.varunsrinivasan.com)
   > Also working on Farcaster, sharing perspectives from his journey through Coinbase, SoundFocus, and Microsoft. Offers unique insights into decentralized systems.
 
-  - [Sriram Krishnan](https://sriramk.com)
+- [Sriram Krishnan](https://sriramk.com)
   > Former GP at a16z, sharing insights on tech leadership and venture capital. His pieces on "memos" collection is particularly impactful.
 
 ## Design & Product
