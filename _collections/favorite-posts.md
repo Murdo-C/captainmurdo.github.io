@@ -21,6 +21,9 @@ A selection of articles that have significantly influenced my thinking about tec
 
 ## Operations & Execution
 
+- [How to Ship Fast](https://www.varunsrinivasan.com/2024/08/17/how-to-ship-fast) by Varun Srinivasan  
+  > A practical guide to accelerating software development without sacrificing quality, covering key principles like focus and rituals.
+
 - [Operational Excellence](https://boz.com/articles/ops) by Andrew Bosworth
   > A comprehensive guide to operational excellence in tech companies, covering everything from goal setting to execution frameworks.
 
