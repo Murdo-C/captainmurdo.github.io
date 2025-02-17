@@ -11,31 +11,39 @@ A collection of personal websites and blogs that consistently provide insightful
 ## Tech & Entrepreneurship
 
 - [Eugene Wei](https://www.eugenewei.com)
-  > Former product leader at Amazon, Hulu, and Oculus, offering deep analysis of tech trends and social platforms. His essays on attention, status, and product strategy are particularly enlightening.
+  > Former product leader at Amazon, Hulu, and Oculus; his essays on attention, status, and product strategy are particularly enlightening.
 
 - [Julian Lehr](https://julian.digital)
-  > Thoughtful essays on technology, product design, and digital culture. Known for unique perspectives on how technology shapes human behavior and society.
+  > Thoughtful essays on technology, product design, and digital culture. 
 
 - [Dan Romero](https://danromero.org)
-  > Building Farcaster, with thoughtful posts on crypto, product development, and startup ideas. His writing style is concise and idea-rich.
+  > Building Farcaster, with thoughtful posts on crypto, product development, and startup ideas. 
 
 - [Varun Srinivasan](https://www.varunsrinivasan.com)
-  > Also working on Farcaster, sharing perspectives from his journey through Coinbase, SoundFocus, and Microsoft. Offers unique insights into decentralized systems.
+  > Also working on Farcaster, sharing insights into decentralized systems.
 
 - [Sriram Krishnan](https://sriramk.com)
-  > Former GP at a16z, sharing insights on tech leadership and venture capital. His pieces on "memos" collection is particularly impactful.
+  > Former GP at a16z, sharing insights on tech leadership and venture capital. 
 
 ## Design & Product
 
 - [Steph Ango](https://stephango.com)
-  > Founder of Obsidian, writing about design, tools, and digital knowledge management. His pieces on software quality and minimalism are particularly noteworthy.
+  > Founder of Obsidian, writing about design, tools, and digital knowledge management. 
 
 - [Arun Venkatesan](https://arun.is)
-  > Product designer and engineer offering deep dives into industrial design and technology trends. His visual-rich analysis of design evolution in tech products is fascinating.
+  > Product designer and engineer offering deep dives into industrial design and technology trends. 
+
+## Tech & Media  
+
+- [Daring Fireball](https://daringfireball.net)  
+  > John Gruber’s blog on Apple, design, and technology, known for sharp analysis and industry insights.  
+
+- [Robin Sloan](https://www.robinsloan.com)  
+  > Fiction writer and technologist exploring media, creative computing, and AI aesthetics.  
 
 ## Engineering & Development
 
 - [Jane Manchun Wong](https://wongmjane.com)
-  > Known for reverse engineering apps to uncover upcoming features. Provides unique insights into product development and tech industry trends.
+  > Known for reverse engineering apps to uncover upcoming features. 
 
 *This is a living document that I'll update as I discover new meaningful blogs and personal websites.* 
