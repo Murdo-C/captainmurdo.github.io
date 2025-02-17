@@ -1,14 +1,14 @@
-—--
+---
 layout: post  
-title: “Favorite Books”  
+title: "Favorite Books"  
 date: 2024-03-20  
 order: 2  
-excerpt: “A curated list of books that have left a lasting impression, organized by genre and year.”  
+excerpt: "A curated list of books that have left a lasting impression, organized by genre and year."  
 ---
 
 *This collection is maintained alongside my [reading list](https://murdo.xyz/reading), where you can find a complete chronological record of my reading history.*  
 
-A personal collection of books I’ve particularly enjoyed and would recommend to others. Books are marked as recommended based on their impact, enjoyability, and lasting influence on my thinking.  
+A personal collection of books I've particularly enjoyed and would recommend to others. Books are marked as recommended based on their impact, enjoyability, and lasting influence on my thinking.  
 
 ## Non-Fiction  
 
@@ -23,7 +23,7 @@ A personal collection of books I’ve particularly enjoyed and would recommend t
 ### Economics & Finance  
 - *Boom - Bubbles and the End of Stagnation* by Byrne Hobart and Tobias Huber (2024)  
   > A fresh perspective on economic cycles and innovation.  
-- *Flash Boys* and *Liar’s Poker* by Michael Lewis (Pre-2020)  
+- *Flash Boys* and *Liar's Poker* by Michael Lewis (Pre-2020)  
   > Masterful storytelling about the world of finance.  
 
 ### Science & Technology  
@@ -52,7 +52,7 @@ A personal collection of books I’ve particularly enjoyed and would recommend t
 - *Sapiens* by Yuval Noah Harari (Pre-2020)  
   > A sweeping history of humankind that changes how you view our species.  
 
-—
+---
 
 ## Fiction  
 
@@ -63,7 +63,7 @@ A personal collection of books I’ve particularly enjoyed and would recommend t
   > A beautifully crafted story spanning centuries and worlds.  
 - *The Mountain in the Sea* by Ray Nayler (2023)  
   > A fascinating exploration of consciousness and artificial intelligence.  
-- *Death’s End* by Cixin Liu (2021-2022)  
+- *Death's End* by Cixin Liu (2021-2022)  
   > A mind-expanding conclusion to the Three-Body trilogy.  
 
 ### Technothrillers & Cyberpunk  
@@ -78,22 +78,22 @@ A personal collection of books I’ve particularly enjoyed and would recommend t
 
 ### Literary & Contemporary  
 - *Moonbound* by Robin Sloan (2024-2025)  
-  > A captivating story that continues Sloan’s tradition of weaving technology with wonder.  
+  > A captivating story that continues Sloan's tradition of weaving technology with wonder.  
 - *This Time Tomorrow* by Emma Straub (2023)  
   > A touching time-travel story about family and second chances.  
 - *Tomorrow, and Tomorrow, and Tomorrow* by Gabrielle Zevin (2021-2022)  
   > A masterful story about creativity, collaboration, and the games we play.  
-- *Mr Penumbra’s 24 Hour Bookstore* by Robin Sloan (2021-2022)  
+- *Mr Penumbra's 24 Hour Bookstore* by Robin Sloan (2021-2022)  
   > A perfect blend of old-world mystery and modern technology.  
 
 ### Action, Adventure & Space  
 - *The Defector* and *The Apollo Murders* by Chris Hadfield (2023)  
-  > Space-themed thrillers that benefit from Hadfield’s real-world astronaut experience.  
+  > Space-themed thrillers that benefit from Hadfield's real-world astronaut experience.  
 - *Project Hail Mary* by Andy Weir (2021-2022)  
   > A return to form for Weir, combining hard science with compelling storytelling.  
 
 ### LitRPG & Fantasy  
-- *Carl’s Doomsday Scenario* and *Dungeon Crawler Carl* by Matt Dinniman (2024-2025)  
+- *Carl's Doomsday Scenario* and *Dungeon Crawler Carl* by Matt Dinniman (2024-2025)  
   > A fresh take on the LitRPG genre with a unique blend of humor and apocalyptic storytelling.  
 
 ### Short Stories  
@@ -104,4 +104,4 @@ A personal collection of books I’ve particularly enjoyed and would recommend t
 - *Sourdough* by Robin Sloan (Pre-2021)  
   > A charming story about food, technology, and finding your place.  
 
-*This is a living document that I’ll update as I discover new meaningful books.*  
+*This is a living document that I'll update as I discover new meaningful books.*  
