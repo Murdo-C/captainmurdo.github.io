@@ -11,6 +11,20 @@
   endDate: Now
   images: [assets/img/shopify.png]
 
+- name: Scout Reader for Farcaster
+  company: Side Project
+  description: Launched a native iOS/iPadOS app called Scout designed for deep Farcaster users who want a lean, distraction‑free, read‑only experience without the friction of signing in or managing a crypto wallet. Built entirely with Swift and SwiftUI, it offers organized feeds, on‑device search, offline bookmarking, and customizable filters. Within two months it surpassed 100 organic users through word‑of‑mouth alone.
+  bullets:
+	- Built a fast, privacy‑first Farcaster reader that tracks content by username/ID, supports offline access, and includes powerful filters (hide replies, recasts, images), all without requiring blockchain credentials.
+	- Implemented native mobile features such as pull‑to‑refresh, swipe gestures (left to save, right to mark read), unread icon badge, dark‑mode, and launch‑state defaults for a seamless iOS experience.
+	- With no marketing spend, achieved over 100 users organically within weeks after launch via App Store and word-of-mouth, validating demand for low‑noise tools.
+	- Architected local search, server‑less caching, and offline bookmark persistence to deliver reliable self‑serve discovery with or without connectivity.
+	- Maintains zero user data collection prioritizing user privacy and decentralization ethos.
+	- Built from scratch using LLM-driven development; prompted, debugged, and iterated the entire codebase entirely with Cursor AI and Claude 3.7.
+startDate: 2024‑12‑01
+endDate: Now
+images: [https://scoutreader.app/images/feed.png]
+
 - name: Digital Wallet and Prepaid Money Account Build
   company: KPMG
   description: As interim Head of Payments for Walmart Canada (22M customers), I led the strategy and product management of two payment products - a digital wallet and an app-based prepaid account. Synthesized over 500 user surveys and coordinated over 200 Figma screens to secure Executive support and accelerate backlog prioritization; my leadership ensured a clear development path to MVP for our global engineering teams. I also assisted in the cross-platform integration of a <a href="https://www.walmartcanada.ca/news/2023/10/30/walmart-canada-introduces-flexible-buy-now--pay-later-payment-op">Buy Now Pay Later product</a>, working collaboratively with design, store operations, and marketing teams to craft a coherent go-to-market strategy.
