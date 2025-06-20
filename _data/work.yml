@@ -15,12 +15,12 @@
   company: Side Project
   description: Launched a native iOS/iPadOS app called Scout designed for deep Farcaster users who want a lean, distraction‑free, read‑only experience without the friction of signing in or managing a crypto wallet. Built entirely with Swift and SwiftUI, it offers organized feeds, on‑device search, offline bookmarking, and customizable filters. Within two months it surpassed 100 organic users through word‑of‑mouth alone.
   bullets:
-	- Built a fast, privacy‑first Farcaster reader that tracks content by username/ID, supports offline access, and includes powerful filters (hide replies, recasts, images), all without requiring blockchain credentials.
-	- Implemented native mobile features such as pull‑to‑refresh, swipe gestures (left to save, right to mark read), unread icon badge, dark‑mode, and launch‑state defaults for a seamless iOS experience.
-	- With no marketing spend, achieved over 100 users organically within weeks after launch via App Store and word-of-mouth, validating demand for low‑noise tools.
-	- Architected local search, server‑less caching, and offline bookmark persistence to deliver reliable self‑serve discovery with or without connectivity.
-	- Maintains zero user data collection prioritizing user privacy and decentralization ethos.
-	- Built from scratch using LLM-driven development; prompted, debugged, and iterated the entire codebase entirely with Cursor AI and Claude 3.7.
+  - Built a fast, privacy‑first Farcaster reader that tracks content by username/ID, supports offline access, and includes powerful filters (hide replies, recasts, images), all without requiring blockchain credentials.
+  - Implemented native mobile features such as pull‑to‑refresh, swipe gestures (left to save, right to mark read), unread icon badge, dark‑mode, and launch‑state defaults for a seamless iOS experience.
+  - With no marketing spend, achieved over 100 users organically within weeks after launch via App Store and word-of-mouth, validating demand for low‑noise tools.
+  - Architected local search, server‑less caching, and offline bookmark persistence to deliver reliable self‑serve discovery with or without connectivity.
+  - Maintains zero user data collection prioritizing user privacy and decentralization ethos.
+  - Built from scratch using LLM-driven development; prompted, debugged, and iterated the entire codebase entirely with Cursor AI and Claude 3.7.
 startDate: 2024‑12‑01
 endDate: Now
 images: [https://scoutreader.app/images/feed.png]
