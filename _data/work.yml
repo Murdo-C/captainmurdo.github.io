@@ -21,9 +21,9 @@
   - Architected local search, server‑less caching, and offline bookmark persistence to deliver reliable self‑serve discovery with or without connectivity.
   - Maintains zero user data collection prioritizing user privacy and decentralization ethos.
   - Built from scratch using LLM-driven development; prompted, debugged, and iterated the entire codebase entirely with Cursor AI and Claude 3.7.
-startDate: 2024‑12‑01
-endDate: Now
-images: [https://scoutreader.app/images/feed.png]
+  startDate: 2024‑12‑01
+  endDate: Now
+  images: [https://scoutreader.app/images/feed.png]
 
 - name: Digital Wallet and Prepaid Money Account Build
   company: KPMG
