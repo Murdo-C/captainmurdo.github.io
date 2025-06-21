@@ -10,7 +10,7 @@ Tinkering with Cloudflare’s MCP stack (thanks, [Carlos](https://mcp-server.mat
 
 ---
 
-Test mine out here; it’s full of information about me: https://mcp.murdo.xyz/  
+Test mine out [here](https://mcp.murdo.xyz/); it’s full of information about me.   
   
 By ‘publisher,’ I mean anyone: bloggers, experts, even journalists.  
   
