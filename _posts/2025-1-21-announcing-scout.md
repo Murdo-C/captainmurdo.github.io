@@ -26,5 +26,5 @@ I can’t wait to see what users think. If you’re interested in Scout, you can
 1. Explore the [features](https://scoutreader.app/).
 2. Download the [app](https://apps.apple.com/us/app/scout-reader-for-farcaster/id6740188182).
 3. Share it with friends.
-4. Follow me on Scout or [Farcaster](https://warpcast.com/murdo). 
+4. Follow me on Scout or [Farcaster](https://farcaster.xyz/murdo). 
 5. Leave an App Store [review](https://apps.apple.com/app/id6740188182?action=write-review).
