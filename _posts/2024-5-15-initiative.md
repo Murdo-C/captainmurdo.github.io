@@ -19,4 +19,4 @@ Simple, right? **There is one caveat, though.** It’s important not to jump str
 
 So, take a moment to evaluate where you currently stand within these levels — potentially within your team, project, or your relationship with your lead — and think about the steps you can take to move towards greater initiative.
 
-Source: [Nat Emodi and Dan Romero on Farcaster](https://warpcast.com/emodi/0xf855756c)
+Source: [Nat Emodi and Dan Romero on Farcaster](https://farcaster.xyz/emodi/0xf855756c)
