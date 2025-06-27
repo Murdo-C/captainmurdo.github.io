@@ -6,7 +6,7 @@ location: Toronto, Canada
 author: Murdo
 ---
 
-I built a plugin for the amazing e-ink [TRMNL](https://usetrmnl.com) device.
+I built a plugin for the amazing e-ink [TRMNL](https://usetrmnl.com) device. You can install it [here](https://usetrmnl.com/recipes/102103). 
 
 ---
 
