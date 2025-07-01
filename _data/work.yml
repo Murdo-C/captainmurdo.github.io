@@ -23,7 +23,7 @@
   - Built from scratch using LLM-driven development; prompted, debugged, and iterated the entire codebase entirely with Cursor AI and Claude 3.7.
   startDate: 2024‑12‑01
   endDate: Now
-  images: [https://scoutreader.app/images/feed.png]
+  images: [assets/img/scout.png]
 
 - name: Digital Wallet and Prepaid Money Account Build
   company: KPMG
