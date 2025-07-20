@@ -15,6 +15,6 @@ My TRMNL was delivered last week and already I love this little thing. It provid
 I had a few ideas for plugins I'd personally find valuable. So armed with ChatGPT Plus I went to work on a simple schedule view of the City of Toronto's 2025 waste collection data. The city releases JSON files every year and TRMNL plugins are built using Liquid, an open-source template language created by Shopify and written in Ruby, so I was in familiar territory.
 
 <figure>
-  <img class="blogImage" src="/assets/blogimg/trmnl.jpeg" alt="plugin on device">
+  <img class="blogImage" src="/assets/blogimg/trmnl-home.png" alt="plugin on device">
   <figcaption>It’s alive!</figcaption>
 </figure>
