@@ -31,7 +31,7 @@ It’s by no means real-time. But it’s passively available, easily accessible 
 
 You can view my App Scripts code [here](https://gist.github.com/Murdo-C/f7e160993899861e0118afd58f29cff2), iOS shortcut steps [here](/assets/blogimg/shortcut-home-status.jpg), and TRMNL code [here](https://gist.github.com/Murdo-C/185462ea9fe4475f079f6fd9075e6361).
 
-Time-based iOS shortcut automations aren’t natively supported. But I stumbled across a brilliant hack using a global ‘runner’ shortcut. It takes a bit of setup, but offers a repeatable way to run any shortcut on a schedule.
+Time-based iOS shortcut automations aren’t natively supported. But I stumbled across [this](https://www.reddit.com/r/shortcuts/comments/t6puvi/comment/hzfymhp/) brilliant hack using a global ‘runner’ shortcut. It takes a bit of setup, but offers a repeatable way to run any shortcut on a schedule.
 
 I’m letting this version settle before adding new features. I’m considering outside temperature integration, more frequent measurements, and a forecast view powered by a simple indoor temperature model I’ve yet to explore. 
 
