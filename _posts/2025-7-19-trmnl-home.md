@@ -35,4 +35,4 @@ Time-based iOS shortcut automations aren’t natively supported. But I stumbled 
 
 I’m letting this version settle before adding new features. I’m considering outside temperature integration, more frequent measurements, and a forecast view powered by a simple indoor temperature model I’ve yet to explore. 
 
-I’ve always had an intuitive sense of how to do technical things. TRMNL pairs with that instinct, allowing me to quickly turn small ideas into real tools.
+I’ve always had an intuitive sense of how to do technical things. TRMNL pairs nicely with that instinct, allowing me to quickly turn small ideas into real tools.
