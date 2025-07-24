@@ -6,9 +6,11 @@ location: Toronto, Canada
 author: Murdo
 ---
 
-Each day the plugin serves up one carefully curated, public-domain ebook from [Standard Ebooks](https://standardebooks.org). Choose from all genres, a curated few, or just your favourite. Free, beautifully formatted, timeless texts delivered straight to your TRMNL.
+Each day my plugin serves up one carefully curated, public-domain ebook from [Standard Ebooks](https://standardebooks.org). 
 
 ---
+
+Choose from all genres, a curated few, or just your favourite. Free, beautifully formatted, timeless texts delivered straight to your TRMNL.
 
 <figure>
   <img class="blogImage" src="/assets/blogimg/trmnl-book.png" alt="plugin on device">
